@@ -1,0 +1,7 @@
+C:\Infinite_Oct25\CSharp\Day1\FirstPrj\FirstPrj\bin\Debug\FirstPrj.exe.config
+C:\Infinite_Oct25\CSharp\Day1\FirstPrj\FirstPrj\bin\Debug\FirstPrj.exe
+C:\Infinite_Oct25\CSharp\Day1\FirstPrj\FirstPrj\bin\Debug\FirstPrj.pdb
+C:\Infinite_Oct25\CSharp\Day1\FirstPrj\FirstPrj\obj\Debug\FirstPrj.csproj.AssemblyReference.cache
+C:\Infinite_Oct25\CSharp\Day1\FirstPrj\FirstPrj\obj\Debug\FirstPrj.csproj.CoreCompileInputs.cache
+C:\Infinite_Oct25\CSharp\Day1\FirstPrj\FirstPrj\obj\Debug\FirstPrj.exe
+C:\Infinite_Oct25\CSharp\Day1\FirstPrj\FirstPrj\obj\Debug\FirstPrj.pdb

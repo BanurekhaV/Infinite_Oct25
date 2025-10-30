@@ -1,0 +1,26 @@
+Dotnet Framework is the Microsoft Web Services Strategy to connect information, people, systems and devices through software
+- is a platform that provides a standardised set of services
+   - Data Access and connectivity
+   - User Interfaces 
+   - Create varieties of Applications
+   - Provides Communication and Work Flow 
+
+
+IL is also called as MSIL, CIL, Managed Code
+
+Assemblies :
+
+   - Any .Net Application on compilation gives assembly files(.dll or .exe)
+   - Assemblies are the fundamental unit of deployment, version control, reuse and security for a .net application
+   - Contains PE Header (portable Header), CLR Header, IL and Manifest files
+   - Manifest files contain metadata
+   - Assemblies can be private or shared
+   - Shared Assemblies are placed in GAC (Global assembly cache)
+   - We use ILDASM to peek into the assembly file and we can also export to a text file
+   - We use ILASM to reconstruct an assembly from the text file    
+
+
+  CSharp : 
+  Namespace : a logical way to organize our program
+              it is a collection of classes, interfaces, events, delegates, structures, enums and also other namespace
+              assists in avoiding name clashes

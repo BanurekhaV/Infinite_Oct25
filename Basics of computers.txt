@@ -1,0 +1,108 @@
+Basics of computers :
+
+  Role of an Operating System :a) User Interface
+                               b) Processor Management
+                               c) Memory Management
+                               d) File Management
+                               e) Security & Access Management
+                               f) Device Driver Management 
+                               g) Interrupts Management
+
+Central Processing Unit : CPU
+       Single core
+       Dual Core
+       Quad Core
+       Multi Core
+
+Various Types of Languages :
+
+1. Assembly Language : Low level lang. intended to communicate directly with the hardware
+       Assembler : is a program that translates commands into machine code. They gather instructions from the assembly and translate it to a series of electrical signals
+  components :
+         1. Syntax : basic structure
+         2. Label : a word, a symbol, which can be used a s a reference point to locate instructions
+         3. Command : an order
+         4. Operand : Data Manipulation
+         5. Directive : instructions to change or perform action
+         6. Macro : shortcut representation of a sequence of instructions
+         7. Mnemonics : represents abbreviations of the action performed
+
+Eg : MOV a, 10 -- registers 10 in a location a
+     MOV 5, b 
+
+     ADD a,b,c -- adds a with b and stores in c
+
+2. Machine Language : Every character in the keyboard will have an ascii number and it always occupies 1 byte (8 bits, either '0' or a '1')
+00000000 - stop the program
+00000001 - switch on
+
+
+3. Programming Languages :
+
+	a) Procedural Lang : A sequence of instructions in an order
+            C,C++
+            Java
+            Basic
+            Pascal
+        b) Function Programming Lang : More focus is on the output of a Mathematical calculation/evaluation
+            Scala
+            Erlang
+            Python
+            F#
+            Elixir
+         c) OOP Lang : 	Treats a program as a group of objects composed of data and program elements(attributes, and methods)
+            C++
+            Java
+            C#
+            Python
+            Ruby
+         d) Scripting Lang : automates repetitive tasks, manages the dynamic content
+             PHP
+             Java Script
+             Perl
+             Python
+             Bash
+             Node Js
+         e) Logic Programming Lang : Instead of passing instructions as what to do, we express a series of facts and rules that will be interpreted by the system and gives out decisions
+             Prolog
+             Datalog
+             Alma
+             Absys
+          f) Front End Lang : mostly used for supporting UI/UX(User Interface/User Experience),Images, Colors, Text, navigation
+             Html/CSS
+             Javascripts
+             React Js
+             Angular
+          g) Back End Lang : Deals with storage and manipulation of data(server side software). No direct interaction with the user
+              JavaScript
+              PHP
+              Java
+              C#
+
+Application Development Models :
+   1. Desktop applications/windows applications 
+   2. Client/Server applications (2 tier, 3 tier, n tier)
+   3. Web Model application(browser enabled)
+   4. Mobile applications (Xamarin)
+
+DNS : Domain Naming System/Services
+DHCP : Dynamic Host Control/Config Protocol 
+
+192.23.4.5  0-255 0-255    
+
+www.amazon.in    --- mapped IP address 172.3.45.78
+                                       172.3.12.7
+                                       172.8.34.67
+
+www.irctc.co.in  ---
+www.bookmyshow.com ---
+
+
+Load Balancer 
+Security Services
+
+             
+
+
+     
+    
