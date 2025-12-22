@@ -1,0 +1,18 @@
+State Management : storing/retaining values across pages
+
+can be achieved using techniques as below :
+ 1. Client Side
+    a) ViewState : is a simple dictionary object that stores data as key value pairs
+      - does not need any typecasting
+      - can store any data including UDT's
+      - stores the data at the client side
+      - can retain the state across multiple postbacks of the same page
+      - cannot travel to other pages
+
+
+   b) HiddenFields : is a control in the toolbox, which will not be visible at runtime
+    - is a class that needs to be intialized along with its members, which can be a load on the system
+    - Like viewstate, this also can retain the state across multiple postbacks of the same page
+    - cannot travel to other pages
+    - can be used if minimal data needs to be stored
+
