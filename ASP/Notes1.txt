@@ -1,0 +1,53 @@
+ASP.Net : A web development platform, which provides programming model, comprehensive software infrastructure, and various services required to build robust web applications for PCs as well as mobiles
+
+other web development tools in the market
+ - PHP
+ - CGI
+ - PERL
+ - RUBY ON RAIL
+ - JAVA ETC..
+
+- was introduced along with .net framework 1.1 in the year 2002
+- web application are always hosted onto a webserver viz
+   - Node
+   - Apache
+   - IIS
+   - Nginx
+   - Litespeed
+- provides cross platform support
+- is a client server architecture (browsers, web application)
+
+
+Web Form : a form/web page has 
+1. code behind file :has an extension of aspx.cs and contains the code the developer writes 
+2. designer file : auto generated
+
+- web forms are associated with the code behind file using @page  directive
+
+Web Form Model :
+- an event driven model for interaction with the web application. When client requests for a resource on the webserver, the webserver returns a full mark-up page or html in response
+- HTTP is a stateless protocol. The ASP.Net framework helps in storing the state/information of the application which consists
+   - Page State
+   - Session State
+
+-- inline Code : <%...%> refers to any code written along with HTML inside the .aspx file
+-- code behind : refers to code of an asp.net web page written in a separate class file with .cs extension
+
+Web Page : When a request is received, an instance of the requested page/form is created
+- events are processed
+- generates html and POSTS to the client
+- the page is destroyed immediately
+
+Life Cycle of a Page:
+S - starts the page
+I - initialization (all control class
+L - Load
+V - Validate
+E - Event Handling
+R - Render (css, html, ui)
+
+Trace :
+
+is like a debugger tool that traces all requests and responses of a page
+
+
