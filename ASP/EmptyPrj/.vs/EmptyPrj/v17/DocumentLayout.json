@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Infinite_Oct25\\ASP\\EmptyPrj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{485D56F2-E7C3-4C34-8341-D938B68A69E3}|EmptyPrj\\EmptyPrj.csproj|c:\\infinite_oct25\\asp\\emptyprj\\emptyprj\\form1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{485D56F2-E7C3-4C34-8341-D938B68A69E3}|EmptyPrj\\EmptyPrj.csproj|solutionrelative:emptyprj\\form1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{485D56F2-E7C3-4C34-8341-D938B68A69E3}|EmptyPrj\\EmptyPrj.csproj|c:\\infinite_oct25\\asp\\emptyprj\\emptyprj\\postbackeg.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485D56F2-E7C3-4C34-8341-D938B68A69E3}|EmptyPrj\\EmptyPrj.csproj|solutionrelative:emptyprj\\postbackeg.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{485D56F2-E7C3-4C34-8341-D938B68A69E3}|EmptyPrj\\EmptyPrj.csproj|c:\\infinite_oct25\\asp\\emptyprj\\emptyprj\\form1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{485D56F2-E7C3-4C34-8341-D938B68A69E3}|EmptyPrj\\EmptyPrj.csproj|C:\\Infinite_Oct25\\ASP\\EmptyPrj\\emptyprj\\form1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{485D56F2-E7C3-4C34-8341-D938B68A69E3}|EmptyPrj\\EmptyPrj.csproj|solutionrelative:emptyprj\\form1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{485D56F2-E7C3-4C34-8341-D938B68A69E3}|EmptyPrj\\EmptyPrj.csproj|c:\\infinite_oct25\\asp\\emptyprj\\emptyprj\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{485D56F2-E7C3-4C34-8341-D938B68A69E3}|EmptyPrj\\EmptyPrj.csproj|C:\\Infinite_Oct25\\ASP\\EmptyPrj\\emptyprj\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{485D56F2-E7C3-4C34-8341-D938B68A69E3}|EmptyPrj\\EmptyPrj.csproj|solutionrelative:emptyprj\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485D56F2-E7C3-4C34-8341-D938B68A69E3}|EmptyPrj\\EmptyPrj.csproj|c:\\infinite_oct25\\asp\\emptyprj\\emptyprj\\postbackeg.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{485D56F2-E7C3-4C34-8341-D938B68A69E3}|EmptyPrj\\EmptyPrj.csproj|solutionrelative:emptyprj\\postbackeg.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485D56F2-E7C3-4C34-8341-D938B68A69E3}|EmptyPrj\\EmptyPrj.csproj|c:\\infinite_oct25\\asp\\emptyprj\\emptyprj\\pagelifecycle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485D56F2-E7C3-4C34-8341-D938B68A69E3}|EmptyPrj\\EmptyPrj.csproj|solutionrelative:emptyprj\\pagelifecycle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485D56F2-E7C3-4C34-8341-D938B68A69E3}|EmptyPrj\\EmptyPrj.csproj|c:\\infinite_oct25\\asp\\emptyprj\\emptyprj\\pagelifecycle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{485D56F2-E7C3-4C34-8341-D938B68A69E3}|EmptyPrj\\EmptyPrj.csproj|solutionrelative:emptyprj\\pagelifecycle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485D56F2-E7C3-4C34-8341-D938B68A69E3}|EmptyPrj\\EmptyPrj.csproj|c:\\infinite_oct25\\asp\\emptyprj\\emptyprj\\form1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485D56F2-E7C3-4C34-8341-D938B68A69E3}|EmptyPrj\\EmptyPrj.csproj|solutionrelative:emptyprj\\form1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,12 +47,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PostBackEg.aspx.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\EmptyPrj\\EmptyPrj\\PostBackEg.aspx.cs",
+              "RelativeDocumentMoniker": "EmptyPrj\\PostBackEg.aspx.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\ASP\\EmptyPrj\\EmptyPrj\\PostBackEg.aspx.cs",
+              "RelativeToolTip": "EmptyPrj\\PostBackEg.aspx.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T10:25:28.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostBackEg.aspx",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\EmptyPrj\\EmptyPrj\\PostBackEg.aspx",
+              "RelativeDocumentMoniker": "EmptyPrj\\PostBackEg.aspx",
+              "ToolTip": "C:\\Infinite_Oct25\\ASP\\EmptyPrj\\EmptyPrj\\PostBackEg.aspx",
+              "RelativeToolTip": "EmptyPrj\\PostBackEg.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-22T10:23:02.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PageLifeCycle.aspx.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\EmptyPrj\\EmptyPrj\\PageLifeCycle.aspx.cs",
+              "RelativeDocumentMoniker": "EmptyPrj\\PageLifeCycle.aspx.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\ASP\\EmptyPrj\\EmptyPrj\\PageLifeCycle.aspx.cs",
+              "RelativeToolTip": "EmptyPrj\\PageLifeCycle.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T09:55:02.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageLifeCycle.aspx",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\EmptyPrj\\EmptyPrj\\PageLifeCycle.aspx",
+              "RelativeDocumentMoniker": "EmptyPrj\\PageLifeCycle.aspx",
+              "ToolTip": "C:\\Infinite_Oct25\\ASP\\EmptyPrj\\EmptyPrj\\PageLifeCycle.aspx",
+              "RelativeToolTip": "EmptyPrj\\PageLifeCycle.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-22T09:54:44.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Form1.aspx.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\EmptyPrj\\EmptyPrj\\Form1.aspx.cs",
               "RelativeDocumentMoniker": "EmptyPrj\\Form1.aspx.cs",
               "ToolTip": "C:\\Infinite_Oct25\\ASP\\EmptyPrj\\EmptyPrj\\Form1.aspx.cs",
               "RelativeToolTip": "EmptyPrj\\Form1.aspx.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAxwBIAAAArAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABIAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-22T08:01:45.218Z",
               "EditorCaption": ""
@@ -62,7 +130,7 @@
               "RelativeDocumentMoniker": "EmptyPrj\\Global.asax.cs",
               "ToolTip": "C:\\Infinite_Oct25\\ASP\\EmptyPrj\\EmptyPrj\\Global.asax.cs",
               "RelativeToolTip": "EmptyPrj\\Global.asax.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswBcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-22T07:49:41.617Z",
               "EditorCaption": ""

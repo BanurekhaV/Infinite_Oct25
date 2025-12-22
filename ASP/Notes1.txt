@@ -46,8 +46,38 @@ V - Validate
 E - Event Handling
 R - Render (css, html, ui)
 
+
+
+PreInit
+Init 
+Init_Complete
+PreLoad
+Load 
+LoadComplete
+PagePrerender 
+PageRender 
+PageUnload 
+
+Application Life Cycle:
+
+ApplicationStart : 
+ObjectCreation : HttpContext, HttpRequest, HttpResponse
+HttpApplication Creation : 
+Dispose : 
+Application End : 
+
 Trace :
 
 is like a debugger tool that traces all requests and responses of a page
+
+Note : All web forms are basically instances of Asp.Net web page class. The Page class has the following very useful properties that corresponds to the intrinsic objects
+ - Application
+ - Session
+ - Request
+ - Response
+ - Cache
+ - Server
+
+ViewState : All server controls have a viewstate variable by default that can maintain state across the postbacks of the same page
 
 
