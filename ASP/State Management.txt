@@ -16,3 +16,17 @@ can be achieved using techniques as below :
     - cannot travel to other pages
     - can be used if minimal data needs to be stored
 
+
+   c) Cookies : Allows managing the state across pages
+                can travel to other pages with the previous state
+                They are of 2 types
+                   1. Persistent cookies (uses an object HttpCookies class to store data)
+                   2. non-persistent (Data is stored directly in the response object)
+
+
+
+
+
+
+
+

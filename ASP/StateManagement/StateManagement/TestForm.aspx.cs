@@ -11,9 +11,15 @@ namespace StateManagement
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            //view state object is not having any valid reference and hence exception
-            lblmsg.Text = "Your Name is : " + ViewState["uname"].ToString() +
-                 "and your password is : " + ViewState["pass"].ToString();
+            //1. view state object is not having any valid reference and hence exception
+            //lblmsg.Text = "Your Name is : " + ViewState["uname"].ToString() +
+            //     "and your password is : " + ViewState["pass"].ToString();
+
+            //2. hidden fields being an object, do not even show up in other pages
+            // than in the page where declared
+
+            // lblmsg.Text= HiddenField1.Value + HiddenField2.Value;
+            Response.Write("Hi Reached Test Form");
         }
     }
 }
