@@ -18,10 +18,10 @@ namespace StateManagement
         {
             //1. using prsistent cookie to receive data
 
-            //HttpCookie rc = Request.Cookies["OurCookie"];
+            HttpCookie rc = Request.Cookies["OurCookie"];
 
             //lblname.Text = rc.Name + " " + rc.Value;   
-           // lblpass.Text = rc["d2"];
+           
 
             //2. using non persistent cookie
 

@@ -23,6 +23,17 @@ can be achieved using techniques as below :
                    1. Persistent cookies (uses an object HttpCookies class to store data)
                    2. non-persistent (Data is stored directly in the response object)
 
+   d) Query Strings : allows to manage the state across pages using url
+                      we may use url encoding to format data
+                      the data is carried from one page to the other on the address bar
+                      sensitive data should not be sent via query string
+
+2. Server Side :
+
+   a) Session State : are like viewstate variables that keeps track of the state of a page across others at the server side
+
+   b) Application State : Manages the entire application instance for every session
+
 
 
 
