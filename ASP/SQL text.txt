@@ -1,0 +1,39 @@
+
+create database Infinite
+
+create table tblProducts
+(
+ID int identity primary key,
+PName nvarchar(50),
+Description nvarchar(200)
+)
+
+insert into tblProducts values('Laptops','Dell Laptops'),
+('Desktop','HP Computers'),('iPhone','Apple Ltd.,'),('LED TV', 'Samsung LED')
+
+select * from tblProducts
+
+create or alter proc spGetProducts
+as
+begin
+waitfor delay '00:00:05'
+select Id, pname, description from tblproducts
+end
+
+execute spGetProducts
+
+create or alter proc spGetProductByName
+@Productname nvarchar(50)
+as
+begin
+ if(@Productname = 'All')
+  begin
+    select Id, pname, description from tblproducts
+  end
+ else
+  begin
+    select Id, pname, description from tblproducts where pname=@Productname
+  end
+end
+
+exec spGetProductByName 'all'
