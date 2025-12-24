@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Infinite_Oct25\\ASP\\MasterPage_Prj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE31AC31-38FC-4069-BD67-980B4221A6A5}|MasterPage_Prj\\MasterPage_Prj.csproj|c:\\infinite_oct25\\asp\\masterpage_prj\\masterpage_prj\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EE31AC31-38FC-4069-BD67-980B4221A6A5}|MasterPage_Prj\\MasterPage_Prj.csproj|solutionrelative:masterpage_prj\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE31AC31-38FC-4069-BD67-980B4221A6A5}|MasterPage_Prj\\MasterPage_Prj.csproj|c:\\infinite_oct25\\asp\\masterpage_prj\\masterpage_prj\\layout.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{EE31AC31-38FC-4069-BD67-980B4221A6A5}|MasterPage_Prj\\MasterPage_Prj.csproj|solutionrelative:masterpage_prj\\layout.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE31AC31-38FC-4069-BD67-980B4221A6A5}|MasterPage_Prj\\MasterPage_Prj.csproj|c:\\infinite_oct25\\asp\\masterpage_prj\\masterpage_prj\\sampleform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EE31AC31-38FC-4069-BD67-980B4221A6A5}|MasterPage_Prj\\MasterPage_Prj.csproj|solutionrelative:masterpage_prj\\sampleform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sampleform.aspx",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\MasterPage_Prj\\MasterPage_Prj\\Sampleform.aspx",
+              "RelativeDocumentMoniker": "MasterPage_Prj\\Sampleform.aspx",
+              "ToolTip": "C:\\Infinite_Oct25\\ASP\\MasterPage_Prj\\MasterPage_Prj\\Sampleform.aspx",
+              "RelativeToolTip": "MasterPage_Prj\\Sampleform.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-24T11:21:35.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\MasterPage_Prj\\MasterPage_Prj\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "MasterPage_Prj\\WebForm1.aspx",
+              "ToolTip": "C:\\Infinite_Oct25\\ASP\\MasterPage_Prj\\MasterPage_Prj\\WebForm1.aspx",
+              "RelativeToolTip": "MasterPage_Prj\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-24T11:16:18.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Layout.Master",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\MasterPage_Prj\\MasterPage_Prj\\Layout.Master",
+              "RelativeDocumentMoniker": "MasterPage_Prj\\Layout.Master",
+              "ToolTip": "C:\\Infinite_Oct25\\ASP\\MasterPage_Prj\\MasterPage_Prj\\Layout.Master",
+              "RelativeToolTip": "MasterPage_Prj\\Layout.Master",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-24T10:46:30.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
