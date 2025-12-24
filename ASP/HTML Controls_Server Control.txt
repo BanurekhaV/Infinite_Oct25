@@ -1,0 +1,23 @@
+HTML Controls  VS   Server Control
+- are meant to serve different purpose
+
+HTML Controls : - are meant to be executed in the browser. They do not posses any server side capabilities by default.
+- These do not maintain the state across post backs
+- Cannot automatically detect client browser and adapt the behaviour according
+- These have very limited set of attributes that can be used to define its behaviour and appearance
+- Are simple and straightforward, that they cannot have any logic for abstraction
+
+
+Server Control : are on the server side and generate the html for the user(browser). They can handle events with more or complex functionality
+- These maintain the state across post backs using a mechanism viewstate, allowing the data to be persistent between request. This in turn helps in managing user inputs
+- Can detect a client(browser) and according generate html, ensuring compatibility and optimal display
+- These have a rich set of properties and methods providing more control over their behaviour and appearance. They support OO Programming principles and can also manipulate from the server side code
+- These can provide high level abstraction
+
+
+In conclusion, html controls are suitable for simple client side interactions, where as asp controls provide more advanced features
+
+
+IIS : Internet Information Services is a flexible general purpose web server developed by Microsoft. 
+- It is used to host websites, web applications and services.
+- It supports both static (html,css) and dynamic content(asp.net appln). 
