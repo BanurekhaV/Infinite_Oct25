@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Infinite_Oct25\\ASP\\DataProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47B362CA-EBF2-4512-89CA-7879A80EC474}|DataProject\\DataProject.csproj|c:\\infinite_oct25\\asp\\dataproject\\dataproject\\detailsform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{47B362CA-EBF2-4512-89CA-7879A80EC474}|DataProject\\DataProject.csproj|solutionrelative:dataproject\\detailsform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B362CA-EBF2-4512-89CA-7879A80EC474}|DataProject\\DataProject.csproj|c:\\infinite_oct25\\asp\\dataproject\\dataproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{47B362CA-EBF2-4512-89CA-7879A80EC474}|DataProject\\DataProject.csproj|solutionrelative:dataproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B362CA-EBF2-4512-89CA-7879A80EC474}|DataProject\\DataProject.csproj|c:\\infinite_oct25\\asp\\dataproject\\dataproject\\dataform_withds.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{47B362CA-EBF2-4512-89CA-7879A80EC474}|DataProject\\DataProject.csproj|solutionrelative:dataproject\\dataform_withds.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B362CA-EBF2-4512-89CA-7879A80EC474}|DataProject\\DataProject.csproj|c:\\infinite_oct25\\asp\\dataproject\\dataproject\\dataform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B362CA-EBF2-4512-89CA-7879A80EC474}|DataProject\\DataProject.csproj|solutionrelative:dataproject\\dataform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B362CA-EBF2-4512-89CA-7879A80EC474}|DataProject\\DataProject.csproj|c:\\infinite_oct25\\asp\\dataproject\\dataproject\\dataform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{47B362CA-EBF2-4512-89CA-7879A80EC474}|DataProject\\DataProject.csproj|solutionrelative:dataproject\\dataform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailsForm.aspx",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\DataProject\\DataProject\\DetailsForm.aspx",
+              "RelativeDocumentMoniker": "DataProject\\DetailsForm.aspx",
+              "ToolTip": "C:\\Infinite_Oct25\\ASP\\DataProject\\DataProject\\DetailsForm.aspx",
+              "RelativeToolTip": "DataProject\\DetailsForm.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-24T07:37:27.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\DataProject\\DataProject\\Web.config",
+              "RelativeDocumentMoniker": "DataProject\\Web.config",
+              "ToolTip": "C:\\Infinite_Oct25\\ASP\\DataProject\\DataProject\\Web.config",
+              "RelativeToolTip": "DataProject\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAClAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-24T07:25:22.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataForm_withDS.aspx",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\DataProject\\DataProject\\DataForm_withDS.aspx",
+              "RelativeDocumentMoniker": "DataProject\\DataForm_withDS.aspx",
+              "ToolTip": "C:\\Infinite_Oct25\\ASP\\DataProject\\DataProject\\DataForm_withDS.aspx",
+              "RelativeToolTip": "DataProject\\DataForm_withDS.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-24T07:17:26.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataForm.aspx.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\DataProject\\DataProject\\DataForm.aspx.cs",
+              "RelativeDocumentMoniker": "DataProject\\DataForm.aspx.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\ASP\\DataProject\\DataProject\\DataForm.aspx.cs",
+              "RelativeToolTip": "DataProject\\DataForm.aspx.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T06:58:14.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataForm.aspx",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\DataProject\\DataProject\\DataForm.aspx",
+              "RelativeDocumentMoniker": "DataProject\\DataForm.aspx",
+              "ToolTip": "C:\\Infinite_Oct25\\ASP\\DataProject\\DataProject\\DataForm.aspx",
+              "RelativeToolTip": "DataProject\\DataForm.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-24T06:47:25.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
