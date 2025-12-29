@@ -1,0 +1,42 @@
+Navigation : From one resource to another(within the application or across application, in the same server, or different server)
+
+Response.Redirect : the object transfers to the given resource permanently and ends the processing of he current resource, and the new resource processing continues
+- It also sends a command back to the browser(that it has stopped processing of the current resource, leading to unnecessary roundtrip)
+
+Usage : We want the users to understand the url address and resources
+        We want to redirect to a new resource as well as a new webserver
+        We do not want to preserve the state of the current resource
+        We don't mind extra roundtrips
+
+
+Server.Transfer : helps in navigating between resources of the same application and server
+- the original(first) resource is still in the memory that can read the values directly from the new page/resource
+- terminates the execution of the current resource and starts executing new resource
+- the resource is not redirected permanently
+
+Usage : transfers within the same server
+        To preserve server resources and avoid roundtrips to the server
+        To preserve the state of the first /previous resource
+        To not disclose the url address of all navigating resources
+
+Server.Execute : Similar to transfer except that it does not terminate the execution of previous resource, and Post completion of next resource, returns back to the previous resource
+
+
+Exceptions : In web forms we can handle exceptions using
+   1. Try{} catch {} blocks
+   2. Inline code <% %>
+   3. Code behind by handling Page_Error() event / per page
+   4. Handling Application_Error() event for the entire application
+   5. Handling custom errors in the Web.config file
+   6. Logging errors onto a file
+   7. Logging onto the database
+
+
+
+
+ 
+
+
+
+
+
