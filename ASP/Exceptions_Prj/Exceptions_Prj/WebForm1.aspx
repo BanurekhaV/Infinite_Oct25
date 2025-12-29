@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="Exceptions_Prj.WebForm1" ErrorPage="err.aspx"%>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="Exceptions_Prj.WebForm1"%>
 
 <!DOCTYPE html>
 

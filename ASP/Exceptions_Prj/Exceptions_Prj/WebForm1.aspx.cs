@@ -26,15 +26,15 @@ namespace Exceptions_Prj
             //}
         }
 
-        protected void Page_Error(object sender, EventArgs e)
-        {
-            Exception ex = Server.GetLastError();
-             Server.ClearError();
-           // Response.Write(ex.GetType()); this gives specific details
+        //protected void Page_Error(object sender, EventArgs e)
+        //{
+        //    Exception ex = Server.GetLastError();
+        //    Server.ClearError();
+        //    // Response.Write(ex.GetType()); this gives specific details
 
-           // Response.Write(Server.GetLastError());  // this gives a very detailed error info.
-           Server.Transfer("~/err.aspx");
+        //    // Response.Write(Server.GetLastError());  // this gives a very detailed error info.
+        //    Server.Transfer("~/err.aspx");
 
-        }
+        //}
     }
 }

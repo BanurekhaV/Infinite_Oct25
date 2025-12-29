@@ -67,12 +67,25 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="apperr.html" />
+    <Content Include="defaulterr.aspx" />
     <Content Include="Employee.xml" />
     <Content Include="err.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="PageNotFound.aspx" />
+    <Content Include="Servererr.aspx" />
+    <Content Include="testerr.aspx" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="defaulterr.aspx.cs">
+      <DependentUpon>defaulterr.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="defaulterr.aspx.designer.cs">
+      <DependentUpon>defaulterr.aspx</DependentUpon>
+    </Compile>
     <Compile Include="err.aspx.cs">
       <DependentUpon>err.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -80,7 +93,31 @@
     <Compile Include="err.aspx.designer.cs">
       <DependentUpon>err.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="PageNotFound.aspx.cs">
+      <DependentUpon>PageNotFound.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PageNotFound.aspx.designer.cs">
+      <DependentUpon>PageNotFound.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Servererr.aspx.cs">
+      <DependentUpon>Servererr.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Servererr.aspx.designer.cs">
+      <DependentUpon>Servererr.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="testerr.aspx.cs">
+      <DependentUpon>testerr.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="testerr.aspx.designer.cs">
+      <DependentUpon>testerr.aspx</DependentUpon>
+    </Compile>
     <Compile Include="WebForm1.aspx.cs">
       <DependentUpon>WebForm1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
