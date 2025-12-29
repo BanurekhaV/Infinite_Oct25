@@ -6,6 +6,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
+using System.Text;
 
 namespace Caching_Prj
 {
@@ -13,7 +14,15 @@ namespace Caching_Prj
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            if(!IsPostBack)
+            {
+                GetProductsByName("All");
+                Response.Cache.SetExpires(DateTime.Now.AddSeconds(30)); //duration
+                Response.Cache.VaryByParams["None"] = true; //varybyparam
+                Response.Cache.SetCacheability(HttpCacheability.ServerAndPrivate); //location
+            }
 
+            lblmsg.Text = "This Page is cached at : " + DateTime.Now.ToString();
         }
 
         private void GetProductsByName(string productname)
@@ -41,4 +50,5 @@ namespace Caching_Prj
 
         }
     }
-}
+
+  }

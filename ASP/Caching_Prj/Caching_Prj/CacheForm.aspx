@@ -1,5 +1,5 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CacheForm.aspx.cs" Inherits="Caching_Prj.CacheForm" %>
-
+<%--<%@ OutputCache Duration="30" VaryByParam="None" Location="Client" %>--%>
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -39,6 +39,10 @@
 
         Client Time :
         <br /> <br />
+
+        <script>
+            document.write(Date());
+        </script>
     </form>
 </body>
 </html>
