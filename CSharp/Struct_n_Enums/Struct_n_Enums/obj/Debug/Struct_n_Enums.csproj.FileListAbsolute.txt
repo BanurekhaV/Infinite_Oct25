@@ -1,0 +1,7 @@
+C:\Infinite_Oct25\CSharp\Struct_n_Enums\Struct_n_Enums\bin\Debug\Struct_n_Enums.exe.config
+C:\Infinite_Oct25\CSharp\Struct_n_Enums\Struct_n_Enums\bin\Debug\Struct_n_Enums.exe
+C:\Infinite_Oct25\CSharp\Struct_n_Enums\Struct_n_Enums\bin\Debug\Struct_n_Enums.pdb
+C:\Infinite_Oct25\CSharp\Struct_n_Enums\Struct_n_Enums\obj\Debug\Struct_n_Enums.csproj.AssemblyReference.cache
+C:\Infinite_Oct25\CSharp\Struct_n_Enums\Struct_n_Enums\obj\Debug\Struct_n_Enums.csproj.CoreCompileInputs.cache
+C:\Infinite_Oct25\CSharp\Struct_n_Enums\Struct_n_Enums\obj\Debug\Struct_n_Enums.exe
+C:\Infinite_Oct25\CSharp\Struct_n_Enums\Struct_n_Enums\obj\Debug\Struct_n_Enums.pdb
