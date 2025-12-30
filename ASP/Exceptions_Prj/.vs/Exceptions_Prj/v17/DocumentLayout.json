@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\infinite_oct25\\asp\\exceptions_prj\\exceptions_prj\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\infinite_oct25\\asp\\exceptions_prj\\exceptions_prj\\dberror.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\dberror.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\infinite_oct25\\asp\\exceptions_prj\\exceptions_prj\\servererr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\servererr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\infinite_oct25\\asp\\exceptions_prj\\exceptions_prj\\exceptionloggingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\exceptionloggingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\infinite_oct25\\asp\\exceptions_prj\\exceptions_prj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\exceptions_prj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\infinite_oct25\\asp\\exceptions_prj\\exceptions_prj\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\infinite_oct25\\asp\\exceptions_prj\\exceptions_prj\\dberror.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\dberror.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\exceptions_prj\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\infinite_oct25\\asp\\exceptions_prj\\exceptions_prj\\testerr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\testerr.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\infinite_oct25\\asp\\exceptions_prj\\exceptions_prj\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|c:\\infinite_oct25\\asp\\exceptions_prj\\exceptions_prj\\apperr.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\apperr.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\exceptions_prj\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|solutionrelative:exceptions_prj\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82656FD9-2C48-4D32-8A4D-D35ECDB71725}|Exceptions_Prj\\Exceptions_Prj.csproj|C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\exceptions_prj\\err.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,28 +50,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Servererr.aspx",
-              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\Exceptions_Prj\\Servererr.aspx",
-              "RelativeDocumentMoniker": "Exceptions_Prj\\Servererr.aspx",
-              "ToolTip": "C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\Exceptions_Prj\\Servererr.aspx",
-              "RelativeToolTip": "Exceptions_Prj\\Servererr.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-29T12:57:43.287Z",
+              "DocumentIndex": 0,
+              "Title": "DbError.aspx.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\Exceptions_Prj\\DbError.aspx.cs",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\DbError.aspx.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\Exceptions_Prj\\DbError.aspx.cs",
+              "RelativeToolTip": "Exceptions_Prj\\DbError.aspx.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T05:50:56.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "testerr.aspx",
-              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\Exceptions_Prj\\testerr.aspx",
-              "RelativeDocumentMoniker": "Exceptions_Prj\\testerr.aspx",
-              "ToolTip": "C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\Exceptions_Prj\\testerr.aspx",
-              "RelativeToolTip": "Exceptions_Prj\\testerr.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "DocumentIndex": 1,
+              "Title": "ExceptionLoggingDb.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\Exceptions_Prj\\ExceptionLoggingDb.cs",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\ExceptionLoggingDb.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\Exceptions_Prj\\ExceptionLoggingDb.cs",
+              "RelativeToolTip": "Exceptions_Prj\\ExceptionLoggingDb.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T05:28:37.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbError.aspx",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\Exceptions_Prj\\DbError.aspx",
+              "RelativeDocumentMoniker": "Exceptions_Prj\\DbError.aspx",
+              "ToolTip": "C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\Exceptions_Prj\\DbError.aspx",
+              "RelativeToolTip": "Exceptions_Prj\\DbError.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-29T12:46:10.483Z",
+              "WhenOpened": "2025-12-30T05:16:56.745Z",
               "EditorCaption": ""
             },
             {
@@ -82,7 +95,7 @@
               "RelativeDocumentMoniker": "Exceptions_Prj\\Web.config",
               "ToolTip": "C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\Exceptions_Prj\\Web.config",
               "RelativeToolTip": "Exceptions_Prj\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-12-29T12:36:24.223Z",
               "EditorCaption": ""
@@ -90,25 +103,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "apperr.html",
-              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\Exceptions_Prj\\apperr.html",
-              "RelativeDocumentMoniker": "Exceptions_Prj\\apperr.html",
-              "ToolTip": "C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\Exceptions_Prj\\apperr.html",
-              "RelativeToolTip": "Exceptions_Prj\\apperr.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-12-29T12:32:38.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\Exceptions_Prj\\Global.asax.cs",
               "RelativeDocumentMoniker": "Exceptions_Prj\\Global.asax.cs",
               "ToolTip": "C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\Exceptions_Prj\\Global.asax.cs",
               "RelativeToolTip": "Exceptions_Prj\\Global.asax.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAACQAAAAuAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAUwDMAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-29T12:25:57.133Z",
               "EditorCaption": ""
@@ -123,17 +123,18 @@
               "RelativeToolTip": "Exceptions_Prj\\err.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-29T11:39:12.206Z"
+              "WhenOpened": "2025-12-29T11:39:12.206Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "WebForm1.aspx.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\Exceptions_Prj\\WebForm1.aspx.cs",
               "RelativeDocumentMoniker": "Exceptions_Prj\\WebForm1.aspx.cs",
               "ToolTip": "C:\\Infinite_Oct25\\ASP\\Exceptions_Prj\\Exceptions_Prj\\WebForm1.aspx.cs",
               "RelativeToolTip": "Exceptions_Prj\\WebForm1.aspx.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAswCUAAAALAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvxIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-29T11:19:17.409Z",
               "EditorCaption": ""

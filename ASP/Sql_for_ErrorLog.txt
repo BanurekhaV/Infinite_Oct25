@@ -1,0 +1,23 @@
+use infinite
+
+create table tblExceptionLog
+(
+LogId bigint identity not null,
+Exceptionmsg nvarchar(100),
+Exceptiontype varchar(100),
+Exceptionsource nvarchar(max),
+ExceptionUrl varchar(100),
+Logdate datetime
+)
+
+--let us create stored proc to log any exceptions happening 
+
+create or alter proc ExceptionLoggingTodatabase
+(@excmsg nvarchar(100),@exctype varchar(100),@excsrc nvarchar(max),
+@excurl varchar(100))
+as
+begin
+insert into tblExceptionLog select @excmsg,@exctype,@excsrc,@excurl,getdate()
+end
+
+select * from tblExceptionLog

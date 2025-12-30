@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="apperr.html" />
+    <Content Include="DbError.aspx" />
     <Content Include="defaulterr.aspx" />
     <Content Include="Employee.xml" />
     <Content Include="err.aspx" />
@@ -79,6 +80,13 @@
     <Content Include="WebForm1.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DbError.aspx.cs">
+      <DependentUpon>DbError.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DbError.aspx.designer.cs">
+      <DependentUpon>DbError.aspx</DependentUpon>
+    </Compile>
     <Compile Include="defaulterr.aspx.cs">
       <DependentUpon>defaulterr.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -93,6 +101,7 @@
     <Compile Include="err.aspx.designer.cs">
       <DependentUpon>err.aspx</DependentUpon>
     </Compile>
+    <Compile Include="ExceptionLoggingDb.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
