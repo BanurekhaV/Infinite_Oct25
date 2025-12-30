@@ -67,11 +67,27 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CrossPage.aspx" />
+    <Content Include="CrossPageIndex.aspx" />
     <Content Include="Page1.aspx" />
     <Content Include="RedirectVsTransfer.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CrossPage.aspx.cs">
+      <DependentUpon>CrossPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CrossPage.aspx.designer.cs">
+      <DependentUpon>CrossPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CrossPageIndex.aspx.cs">
+      <DependentUpon>CrossPageIndex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CrossPageIndex.aspx.designer.cs">
+      <DependentUpon>CrossPageIndex.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Page1.aspx.cs">
       <DependentUpon>Page1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

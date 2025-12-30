@@ -3,23 +3,39 @@
   "WorkspaceRootPath": "C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|c:\\infinite_oct25\\asp\\navigation_prj\\navigation_prj\\crosspage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|solutionrelative:navigation_prj\\crosspage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|c:\\infinite_oct25\\asp\\navigation_prj\\navigation_prj\\crosspageindex.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|solutionrelative:navigation_prj\\crosspageindex.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|c:\\infinite_oct25\\asp\\navigation_prj\\navigation_prj\\crosspageindex.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|solutionrelative:navigation_prj\\crosspageindex.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|c:\\infinite_oct25\\asp\\navigation_prj\\navigation_prj\\crosspage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|solutionrelative:navigation_prj\\crosspage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|c:\\infinite_oct25\\asp\\navigation_prj\\navigation_prj\\redirectvstransfer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|solutionrelative:navigation_prj\\redirectvstransfer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|c:\\infinite_oct25\\asp\\navigation_prj\\navigation_prj\\page1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\navigation_prj\\page1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|solutionrelative:navigation_prj\\page1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|c:\\infinite_oct25\\asp\\navigation_prj\\navigation_prj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\navigation_prj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|solutionrelative:navigation_prj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|c:\\infinite_oct25\\asp\\navigation_prj\\navigation_prj\\page1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\navigation_prj\\page1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|solutionrelative:navigation_prj\\page1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|c:\\infinite_oct25\\asp\\navigation_prj\\navigation_prj\\redirectvstransfer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\navigation_prj\\redirectvstransfer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{FD8E5544-E7E4-43CB-9B8F-64FCA71C2192}|Navigation_Prj\\Navigation_Prj.csproj|solutionrelative:navigation_prj\\redirectvstransfer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -30,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +54,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrossPageIndex.aspx.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\Navigation_Prj\\CrossPageIndex.aspx.cs",
+              "RelativeDocumentMoniker": "Navigation_Prj\\CrossPageIndex.aspx.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\Navigation_Prj\\CrossPageIndex.aspx.cs",
+              "RelativeToolTip": "Navigation_Prj\\CrossPageIndex.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T11:39:34.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CrossPageIndex.aspx",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\Navigation_Prj\\CrossPageIndex.aspx",
+              "RelativeDocumentMoniker": "Navigation_Prj\\CrossPageIndex.aspx",
+              "ToolTip": "C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\Navigation_Prj\\CrossPageIndex.aspx",
+              "RelativeToolTip": "Navigation_Prj\\CrossPageIndex.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T11:32:04.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrossPage.aspx.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\Navigation_Prj\\CrossPage.aspx.cs",
+              "RelativeDocumentMoniker": "Navigation_Prj\\CrossPage.aspx.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\Navigation_Prj\\CrossPage.aspx.cs",
+              "RelativeToolTip": "Navigation_Prj\\CrossPage.aspx.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T11:23:26.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrossPage.aspx",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\Navigation_Prj\\CrossPage.aspx",
+              "RelativeDocumentMoniker": "Navigation_Prj\\CrossPage.aspx",
+              "ToolTip": "C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\Navigation_Prj\\CrossPage.aspx",
+              "RelativeToolTip": "Navigation_Prj\\CrossPage.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T11:22:52.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RedirectVsTransfer.aspx.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\Navigation_Prj\\RedirectVsTransfer.aspx.cs",
+              "RelativeDocumentMoniker": "Navigation_Prj\\RedirectVsTransfer.aspx.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\Navigation_Prj\\RedirectVsTransfer.aspx.cs",
+              "RelativeToolTip": "Navigation_Prj\\RedirectVsTransfer.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T10:17:44.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\Navigation_Prj\\Web.config",
               "RelativeDocumentMoniker": "Navigation_Prj\\Web.config",
@@ -51,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Page1.aspx.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\Navigation_Prj\\Page1.aspx.cs",
               "RelativeDocumentMoniker": "Navigation_Prj\\Page1.aspx.cs",
@@ -64,39 +145,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Page1.aspx",
               "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\Navigation_Prj\\Page1.aspx",
               "RelativeDocumentMoniker": "Navigation_Prj\\Page1.aspx",
               "ToolTip": "C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\Navigation_Prj\\Page1.aspx",
               "RelativeToolTip": "Navigation_Prj\\Page1.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-12-29T10:25:02.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RedirectVsTransfer.aspx.cs",
-              "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\Navigation_Prj\\RedirectVsTransfer.aspx.cs",
-              "RelativeDocumentMoniker": "Navigation_Prj\\RedirectVsTransfer.aspx.cs",
-              "ToolTip": "C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\Navigation_Prj\\RedirectVsTransfer.aspx.cs",
-              "RelativeToolTip": "Navigation_Prj\\RedirectVsTransfer.aspx.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T10:17:44.856Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "RedirectVsTransfer.aspx",
               "DocumentMoniker": "C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\Navigation_Prj\\RedirectVsTransfer.aspx",
               "RelativeDocumentMoniker": "Navigation_Prj\\RedirectVsTransfer.aspx",
               "ToolTip": "C:\\Infinite_Oct25\\ASP\\Navigation_Prj\\Navigation_Prj\\RedirectVsTransfer.aspx",
               "RelativeToolTip": "Navigation_Prj\\RedirectVsTransfer.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-12-29T10:14:43.541Z",
               "EditorCaption": ""
