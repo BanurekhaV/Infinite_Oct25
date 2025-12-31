@@ -183,6 +183,8 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Demo\ViewMethod.cshtml" />
     <Content Include="Views\HR\DisplayEmployee.cshtml" />
+    <Content Include="Views\HR\EmployeeList.cshtml" />
+    <Content Include="Views\HR\DepartmentList.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
