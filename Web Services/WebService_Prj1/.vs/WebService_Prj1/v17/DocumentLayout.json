@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Infinite_Oct25\\Web Services\\WebService_Prj1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB42A68A-6C48-45EB-9BA0-D6E69DE6F5D4}|Webservice_Client\\Webservice_Client.csproj|c:\\infinite_oct25\\web services\\webservice_prj1\\webservice_client\\clientform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BB42A68A-6C48-45EB-9BA0-D6E69DE6F5D4}|Webservice_Client\\Webservice_Client.csproj|solutionrelative:webservice_client\\clientform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB42A68A-6C48-45EB-9BA0-D6E69DE6F5D4}|Webservice_Client\\Webservice_Client.csproj|c:\\infinite_oct25\\web services\\webservice_prj1\\webservice_client\\clientform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB42A68A-6C48-45EB-9BA0-D6E69DE6F5D4}|Webservice_Client\\Webservice_Client.csproj|solutionrelative:webservice_client\\clientform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0124D7-83A6-4824-B6FD-39C3E523B21D}|WebService_Prj1\\WebService_Prj1.csproj|c:\\infinite_oct25\\web services\\webservice_prj1\\webservice_prj1\\web_infinite_services.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0124D7-83A6-4824-B6FD-39C3E523B21D}|WebService_Prj1\\WebService_Prj1.csproj|solutionrelative:webservice_prj1\\web_infinite_services.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientForm.aspx.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Web Services\\WebService_Prj1\\Webservice_Client\\ClientForm.aspx.cs",
+              "RelativeDocumentMoniker": "Webservice_Client\\ClientForm.aspx.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Web Services\\WebService_Prj1\\Webservice_Client\\ClientForm.aspx.cs",
+              "RelativeToolTip": "Webservice_Client\\ClientForm.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T06:02:16.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientForm.aspx",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Web Services\\WebService_Prj1\\Webservice_Client\\ClientForm.aspx",
+              "RelativeDocumentMoniker": "Webservice_Client\\ClientForm.aspx",
+              "ToolTip": "C:\\Infinite_Oct25\\Web Services\\WebService_Prj1\\Webservice_Client\\ClientForm.aspx",
+              "RelativeToolTip": "Webservice_Client\\ClientForm.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-31T05:56:45.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web_Infinite_Services.asmx.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Web Services\\WebService_Prj1\\WebService_Prj1\\Web_Infinite_Services.asmx.cs",
+              "RelativeDocumentMoniker": "WebService_Prj1\\Web_Infinite_Services.asmx.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Web Services\\WebService_Prj1\\WebService_Prj1\\Web_Infinite_Services.asmx.cs",
+              "RelativeToolTip": "WebService_Prj1\\Web_Infinite_Services.asmx.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T05:30:35.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
