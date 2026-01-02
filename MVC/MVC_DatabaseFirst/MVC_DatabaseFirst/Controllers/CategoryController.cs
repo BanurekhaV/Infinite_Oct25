@@ -40,6 +40,7 @@ namespace MVC_DatabaseFirst.Controllers
             return RedirectToAction("Index");   
         }
 
+        //4 deleting category
         public ActionResult Delete(int Id)
         {
             Category c = db.Categories.Find(Id);
@@ -52,6 +53,39 @@ namespace MVC_DatabaseFirst.Controllers
             db.Categories.Remove(cat);
             db.SaveChanges();
             return RedirectToAction("Index");
+        }
+
+        //5. category details
+        public ActionResult Details(int Id)
+        {
+          Category category = db.Categories.Find(Id);
+            return View(category);
+        }
+
+        //6. edit
+        public ActionResult Edit(int Id)
+        {
+            Category category = db.Categories.Find(Id);
+            return View();
+        }
+
+        [HttpPost,ActionName("Edit")]
+        public ActionResult Update(Category category)
+        {
+            Category c = db.Categories.Find(category.CategoryID);
+            c.CategoryName = category.CategoryName;
+            c.Description = category.Description;
+            db.SaveChanges();
+            return RedirectToAction("Index");
+        }
+        //7. sorting category by name
+        public ActionResult GetCategoryByName()
+        {
+            List<String> sortedcatlist =(from c in db.Categories
+                                         orderby c.CategoryName
+                                         select c.CategoryName).ToList();
+
+            return View(sortedcatlist);
         }
     }
 }
