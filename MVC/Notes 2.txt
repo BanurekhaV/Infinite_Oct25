@@ -38,3 +38,17 @@ and to access it in the view
 
 State management of data using tempdata is possible without any additional commands as long as we are in a chain of request. 
 if we want the tempdata even on a fresh request, we can get it provided we use TempData.Keep(), that retains the value
+
+HTTP Verbs for CRUD operations:
+   - HttpGet : is a get request for a resource from server
+   - HttpPost : is a post request for sending data from the view to the server(via controller)
+   - HttpPut : is a request for change (from view to the controller)
+   - HttpDelete : is a request for deletion 
+
+-- To pass data from View to the controller
+   1. Model Object
+   2. Forms Collection
+   3. Parameters Collection
+   4. Request Object
+
+
