@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Infinite_Oct25\\MVC\\FirstMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{752D4973-489E-4D31-A279-05D1F88AD5C2}|FirstMVC\\FirstMVC.csproj|c:\\infinite_oct25\\mvc\\firstmvc\\firstmvc\\views\\hr\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{752D4973-489E-4D31-A279-05D1F88AD5C2}|FirstMVC\\FirstMVC.csproj|solutionrelative:firstmvc\\views\\hr\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{752D4973-489E-4D31-A279-05D1F88AD5C2}|FirstMVC\\FirstMVC.csproj|c:\\infinite_oct25\\mvc\\firstmvc\\firstmvc\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{752D4973-489E-4D31-A279-05D1F88AD5C2}|FirstMVC\\FirstMVC.csproj|solutionrelative:firstmvc\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{752D4973-489E-4D31-A279-05D1F88AD5C2}|FirstMVC\\FirstMVC.csproj|c:\\infinite_oct25\\mvc\\firstmvc\\firstmvc\\views\\hr\\departmentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{752D4973-489E-4D31-A279-05D1F88AD5C2}|FirstMVC\\FirstMVC.csproj|solutionrelative:firstmvc\\views\\hr\\departmentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{752D4973-489E-4D31-A279-05D1F88AD5C2}|FirstMVC\\FirstMVC.csproj|c:\\infinite_oct25\\mvc\\firstmvc\\firstmvc\\views\\hr\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{752D4973-489E-4D31-A279-05D1F88AD5C2}|FirstMVC\\FirstMVC.csproj|solutionrelative:firstmvc\\views\\hr\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{752D4973-489E-4D31-A279-05D1F88AD5C2}|FirstMVC\\FirstMVC.csproj|C:\\Infinite_Oct25\\MVC\\FirstMVC\\firstmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{752D4973-489E-4D31-A279-05D1F88AD5C2}|FirstMVC\\FirstMVC.csproj|solutionrelative:firstmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{752D4973-489E-4D31-A279-05D1F88AD5C2}|FirstMVC\\FirstMVC.csproj|c:\\infinite_oct25\\mvc\\firstmvc\\firstmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{752D4973-489E-4D31-A279-05D1F88AD5C2}|FirstMVC\\FirstMVC.csproj|solutionrelative:firstmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752D4973-489E-4D31-A279-05D1F88AD5C2}|FirstMVC\\FirstMVC.csproj|C:\\Infinite_Oct25\\MVC\\FirstMVC\\firstmvc\\views\\hr\\departmentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{752D4973-489E-4D31-A279-05D1F88AD5C2}|FirstMVC\\FirstMVC.csproj|solutionrelative:firstmvc\\views\\hr\\departmentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{752D4973-489E-4D31-A279-05D1F88AD5C2}|FirstMVC\\FirstMVC.csproj|C:\\Infinite_Oct25\\MVC\\FirstMVC\\firstmvc\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{752D4973-489E-4D31-A279-05D1F88AD5C2}|FirstMVC\\FirstMVC.csproj|solutionrelative:firstmvc\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{752D4973-489E-4D31-A279-05D1F88AD5C2}|FirstMVC\\FirstMVC.csproj|C:\\Infinite_Oct25\\MVC\\FirstMVC\\firstmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{752D4973-489E-4D31-A279-05D1F88AD5C2}|FirstMVC\\FirstMVC.csproj|solutionrelative:firstmvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{752D4973-489E-4D31-A279-05D1F88AD5C2}|FirstMVC\\FirstMVC.csproj|C:\\Infinite_Oct25\\MVC\\FirstMVC\\firstmvc\\views\\hr\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{752D4973-489E-4D31-A279-05D1F88AD5C2}|FirstMVC\\FirstMVC.csproj|solutionrelative:firstmvc\\views\\hr\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{752D4973-489E-4D31-A279-05D1F88AD5C2}|FirstMVC\\FirstMVC.csproj|C:\\Infinite_Oct25\\MVC\\FirstMVC\\firstmvc\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,24 +46,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\FirstMVC\\FirstMVC\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "FirstMVC\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\FirstMVC\\FirstMVC\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "FirstMVC\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T05:26:37.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\FirstMVC\\FirstMVC\\Views\\HR\\Test.cshtml",
+              "RelativeDocumentMoniker": "FirstMVC\\Views\\HR\\Test.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\FirstMVC\\FirstMVC\\Views\\HR\\Test.cshtml",
+              "RelativeToolTip": "FirstMVC\\Views\\HR\\Test.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T05:19:19.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DepartmentList.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\FirstMVC\\FirstMVC\\Views\\HR\\DepartmentList.cshtml",
               "RelativeDocumentMoniker": "FirstMVC\\Views\\HR\\DepartmentList.cshtml",
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\FirstMVC\\FirstMVC\\Views\\HR\\DepartmentList.cshtml",
               "RelativeToolTip": "FirstMVC\\Views\\HR\\DepartmentList.cshtml",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBIAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwA8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-31T12:48:49.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "EmployeeList.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\FirstMVC\\FirstMVC\\Views\\HR\\EmployeeList.cshtml",
               "RelativeDocumentMoniker": "FirstMVC\\Views\\HR\\EmployeeList.cshtml",
@@ -67,25 +97,24 @@
               "RelativeToolTip": "FirstMVC\\Views\\HR\\EmployeeList.cshtml",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-31T12:33:38.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-31T12:33:38.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HRController.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\FirstMVC\\FirstMVC\\Controllers\\HRController.cs",
               "RelativeDocumentMoniker": "FirstMVC\\Controllers\\HRController.cs",
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\FirstMVC\\FirstMVC\\Controllers\\HRController.cs",
               "RelativeToolTip": "FirstMVC\\Controllers\\HRController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAUwDsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-31T12:28:59.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\FirstMVC\\FirstMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "FirstMVC\\Controllers\\HomeController.cs",
@@ -98,31 +127,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DemoController.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\FirstMVC\\FirstMVC\\Controllers\\DemoController.cs",
               "RelativeDocumentMoniker": "FirstMVC\\Controllers\\DemoController.cs",
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\FirstMVC\\FirstMVC\\Controllers\\DemoController.cs",
               "RelativeToolTip": "FirstMVC\\Controllers\\DemoController.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAkwDMAAAA5AAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAIwCgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T10:16:44.896Z"
+              "WhenOpened": "2025-12-31T10:16:44.896Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\FirstMVC\\FirstMVC\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "FirstMVC\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Infinite_Oct25\\MVC\\FirstMVC\\FirstMVC\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "FirstMVC\\App_Start\\RouteConfig.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABIAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-31T09:55:58.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FilterConfig.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\FirstMVC\\FirstMVC\\App_Start\\FilterConfig.cs",
               "RelativeDocumentMoniker": "FirstMVC\\App_Start\\FilterConfig.cs",
@@ -134,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "BundleConfig.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\FirstMVC\\FirstMVC\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "FirstMVC\\App_Start\\BundleConfig.cs",

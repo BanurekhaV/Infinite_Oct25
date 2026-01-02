@@ -38,6 +38,7 @@ namespace FirstMVC.Controllers
 
         //4. emptyresult
 
+        [NonAction]
         public EmptyResult EmptyMethod()
         {
             int amt = 45000;

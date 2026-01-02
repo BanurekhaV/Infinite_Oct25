@@ -1,0 +1,31 @@
+Action Selectors : NonAction - to indicate that an action method is non actionable and hence cannot be invoked, as it does not have an entry in the routing table
+
+ActionName: a provision to map action names with different view name 
+
+Custom Segment Routing : we can change the url routing, and also have many map routes(the first being taken as the default)
+
+Passing Information/Data from the controller to the view
+----------------------------------------------------------
+ - ViewBag : are Dynamic Data Types
+             has short life, meaning once the data is passed from the controller to the view, it will be set null.
+             does not need any typecasting
+
+Eg :  ViewBag.mydata = "Data One";   //declaring a view bag object and setting value
+
+and to access the data in the view page
+      @ViewBag.mydata     
+
+ - ViewData : is a Dictionary object that is derived from ViewDataDictionary
+              uses key/value pair for storing and retrieving data
+              has a short life, (after passing data to the view, becomes null)
+              requires typecasting
+
+Eg : ViewData["mydata"] = "Data Two"  //to declare and assign
+
+and to access it in the view
+
+@ViewData["mydata"]
+
+
+
+ - TempData

@@ -49,6 +49,17 @@ namespace FirstMVC.Controllers
             return View(emplist);
         }
 
-      
+        //4. To change the name of the view different from action method name
+        //4.1 we can give action name selector and map it to different view name
+
+        //4.2 We can change the view name to suit the action name
+        [ActionName("Test")]
+        public ActionResult DifferentViewName()
+        {             
+            ViewBag.sample = "Testing Views with different names";
+            ViewData["mydata"] = "view data value";
+            //   return View("DifferentViewName");  //4.1
+            return View();   //4.2
+        }
     }
 }
