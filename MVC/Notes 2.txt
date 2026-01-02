@@ -28,4 +28,13 @@ and to access it in the view
 
 
 
- - TempData
+ - TempData : is a Dictionary object that is derived from TempDataDictionary
+              uses key/value pair for storing and retrieving data
+              internally makes use of session to store data
+              to always check for null before using tempdata to avoid runtime errors
+              requires typecasting
+              has bigger life than viewbag and viewdata
+              it is generally used to transfer data from one controller to another
+
+State management of data using tempdata is possible without any additional commands as long as we are in a chain of request. 
+if we want the tempdata even on a fresh request, we can get it provided we use TempData.Keep(), that retains the value
