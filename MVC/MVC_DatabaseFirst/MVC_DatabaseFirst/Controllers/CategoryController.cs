@@ -66,15 +66,15 @@ namespace MVC_DatabaseFirst.Controllers
         public ActionResult Edit(int Id)
         {
             Category category = db.Categories.Find(Id);
-            return View();
+            return View(category);
         }
 
         [HttpPost,ActionName("Edit")]
-        public ActionResult Update(Category category)
+        public ActionResult Update(Category cat)
         {
-            Category c = db.Categories.Find(category.CategoryID);
-            c.CategoryName = category.CategoryName;
-            c.Description = category.Description;
+            Category c = db.Categories.Find(cat.CategoryID);
+            c.CategoryName = cat.CategoryName;
+            c.Description = cat.Description;
             db.SaveChanges();
             return RedirectToAction("Index");
         }
