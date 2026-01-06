@@ -2,3 +2,19 @@ Repository Pattern : is a structural pattern that abstracts the data access, pro
 
 - It is an intermediary layer between an appln business logic and data storage
 - Enhanced code maintainability, testability, flexibility making it easier to work with different data sources
+
+
+Asynchronous Controllers: It is a normal 
+
+ - return type is prefixed with async modifier - method returns data asynchronously
+ - they are task based Task<ActionResult> that return a value
+
+
+Deferred         vs                                     Immediate LINQ
+
+Query is not executed at the point of decl/construction       executes at the time of construction/declaration itself
+Projection operators - select,                                Use Aggregate functions and Element operators - 
+      selectmany                                                  first,last,single,tolist,toarray, todictionary
+Restriction operators - paginationoperators take,skip
+
+It can reflect latest data                                  reflects data at the time of execution

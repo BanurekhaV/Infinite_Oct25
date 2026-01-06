@@ -1,0 +1,7 @@
+C:\Infinite_Oct25\CSharp\Linq_ImmediateVsDefferred\Linq_ImmediateVsDefferred\bin\Debug\Linq_ImmediateVsDefferred.exe.config
+C:\Infinite_Oct25\CSharp\Linq_ImmediateVsDefferred\Linq_ImmediateVsDefferred\bin\Debug\Linq_ImmediateVsDefferred.exe
+C:\Infinite_Oct25\CSharp\Linq_ImmediateVsDefferred\Linq_ImmediateVsDefferred\bin\Debug\Linq_ImmediateVsDefferred.pdb
+C:\Infinite_Oct25\CSharp\Linq_ImmediateVsDefferred\Linq_ImmediateVsDefferred\obj\Debug\Linq_ImmediateVsDefferred.csproj.AssemblyReference.cache
+C:\Infinite_Oct25\CSharp\Linq_ImmediateVsDefferred\Linq_ImmediateVsDefferred\obj\Debug\Linq_ImmediateVsDefferred.csproj.CoreCompileInputs.cache
+C:\Infinite_Oct25\CSharp\Linq_ImmediateVsDefferred\Linq_ImmediateVsDefferred\obj\Debug\Linq_ImmediateVsDefferred.exe
+C:\Infinite_Oct25\CSharp\Linq_ImmediateVsDefferred\Linq_ImmediateVsDefferred\obj\Debug\Linq_ImmediateVsDefferred.pdb
