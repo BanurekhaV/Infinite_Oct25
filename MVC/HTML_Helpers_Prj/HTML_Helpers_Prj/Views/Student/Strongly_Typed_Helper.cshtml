@@ -1,0 +1,26 @@
+﻿@model HTML_Helpers_Prj.Models.Student
+@{
+    ViewBag.Title = "Strongly_Typed_Helper";
+}
+
+<h2>Strongly_Typed_Helper</h2>
+@using (Html.BeginForm())
+            {
+                <table border="1" cellpadding="7" cellspacing="5">
+                    <tr>
+                        <td>@Html.LabelFor(m => m.RNO)</td>
+                        <td>@Html.TextBoxFor(m => m.RNO)</td>
+                    </tr>
+                    <tr>
+                        <td>@Html.LabelFor(m => m.Name)</td>
+                        <td>@Html.TextBoxFor(m => m.Name)</td>
+                    </tr>
+                    <tr>
+                        <td>@Html.LabelFor(m => m.Address)</td>
+                        <td>@Html.TextAreaFor(m => m.Address)</td>
+                    </tr>
+                    <tr>
+                        <td><input type="submit" /></td>
+                    </tr>
+                </table>
+            }

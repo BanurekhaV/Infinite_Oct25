@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Infinite_Oct25\\MVC\\MVC_DatabaseFirst\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2205DAA-521D-402F-AD95-A0C68AAEE52E}|MVC_DatabaseFirst\\MVC_DatabaseFirst.csproj|C:\\Infinite_Oct25\\MVC\\MVC_DatabaseFirst\\mvc_databasefirst\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2205DAA-521D-402F-AD95-A0C68AAEE52E}|MVC_DatabaseFirst\\MVC_DatabaseFirst.csproj|solutionrelative:mvc_databasefirst\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2205DAA-521D-402F-AD95-A0C68AAEE52E}|MVC_DatabaseFirst\\MVC_DatabaseFirst.csproj|c:\\infinite_oct25\\mvc\\mvc_databasefirst\\mvc_databasefirst\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2205DAA-521D-402F-AD95-A0C68AAEE52E}|MVC_DatabaseFirst\\MVC_DatabaseFirst.csproj|solutionrelative:mvc_databasefirst\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2205DAA-521D-402F-AD95-A0C68AAEE52E}|MVC_DatabaseFirst\\MVC_DatabaseFirst.csproj|c:\\infinite_oct25\\mvc\\mvc_databasefirst\\mvc_databasefirst\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2205DAA-521D-402F-AD95-A0C68AAEE52E}|MVC_DatabaseFirst\\MVC_DatabaseFirst.csproj|C:\\Infinite_Oct25\\MVC\\MVC_DatabaseFirst\\mvc_databasefirst\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2205DAA-521D-402F-AD95-A0C68AAEE52E}|MVC_DatabaseFirst\\MVC_DatabaseFirst.csproj|solutionrelative:mvc_databasefirst\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2205DAA-521D-402F-AD95-A0C68AAEE52E}|MVC_DatabaseFirst\\MVC_DatabaseFirst.csproj|C:\\Infinite_Oct25\\MVC\\MVC_DatabaseFirst\\mvc_databasefirst\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2205DAA-521D-402F-AD95-A0C68AAEE52E}|MVC_DatabaseFirst\\MVC_DatabaseFirst.csproj|solutionrelative:mvc_databasefirst\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2205DAA-521D-402F-AD95-A0C68AAEE52E}|MVC_DatabaseFirst\\MVC_DatabaseFirst.csproj|C:\\Infinite_Oct25\\MVC\\MVC_DatabaseFirst\\mvc_databasefirst\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2205DAA-521D-402F-AD95-A0C68AAEE52E}|MVC_DatabaseFirst\\MVC_DatabaseFirst.csproj|solutionrelative:mvc_databasefirst\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2205DAA-521D-402F-AD95-A0C68AAEE52E}|MVC_DatabaseFirst\\MVC_DatabaseFirst.csproj|C:\\Infinite_Oct25\\MVC\\MVC_DatabaseFirst\\mvc_databasefirst\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,11 +82,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\MVC_DatabaseFirst\\MVC_DatabaseFirst\\Web.config",
               "RelativeDocumentMoniker": "MVC_DatabaseFirst\\Web.config",
@@ -99,19 +99,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\MVC_DatabaseFirst\\MVC_DatabaseFirst\\Views\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "MVC_DatabaseFirst\\Views\\Products\\Create.cshtml",
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\MVC_DatabaseFirst\\MVC_DatabaseFirst\\Views\\Products\\Create.cshtml",
               "RelativeToolTip": "MVC_DatabaseFirst\\Views\\Products\\Create.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-05T11:21:28.833Z"
+              "WhenOpened": "2026-01-05T11:21:28.833Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\MVC_DatabaseFirst\\MVC_DatabaseFirst\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "MVC_DatabaseFirst\\Views\\Products\\Index.cshtml",
@@ -123,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\MVC_DatabaseFirst\\MVC_DatabaseFirst\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "MVC_DatabaseFirst\\Controllers\\ProductsController.cs",
@@ -135,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EmployeesController.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\MVC_DatabaseFirst\\MVC_DatabaseFirst\\Controllers\\EmployeesController.cs",
               "RelativeDocumentMoniker": "MVC_DatabaseFirst\\Controllers\\EmployeesController.cs",
@@ -143,8 +144,7 @@
               "RelativeToolTip": "MVC_DatabaseFirst\\Controllers\\EmployeesController.cs",
               "ViewState": "AQIAAGQAAAAAAAAAAAAUwFUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T10:09:17.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T10:09:17.896Z"
             },
             {
               "$type": "Document",

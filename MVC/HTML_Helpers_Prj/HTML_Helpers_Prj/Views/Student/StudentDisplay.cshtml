@@ -1,0 +1,11 @@
+﻿@model HTML_Helpers_Prj.Models.Student
+@{
+    ViewBag.Title = "StudentDisplay";
+}
+
+<h2>StudentDisplay</h2>
+
+@Html.DisplayForModel()
+<hr/>
+@*viewdata passed to display function*@
+<h2>@Html.Display("stddata")</h2>
