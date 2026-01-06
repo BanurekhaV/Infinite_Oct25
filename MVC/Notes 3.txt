@@ -18,3 +18,44 @@ Projection operators - select,                                Use Aggregate func
 Restriction operators - paginationoperators take,skip
 
 It can reflect latest data                                  reflects data at the time of execution
+
+
+HTML Helpers : are C# methods that are used to return HTML. Using the helpers we can render all HTML controls(image, textbox, anchor, button)
+
+Types of HTML Helpers :
+1. Inline Html helper : are used on a single view of the same page. They are created using @helper tag
+
+Eg : @helper MyInlineHelper(string[] words)
+{
+   <ol>
+    @foreach(string s in words)
+{
+    <li>@s</l1>
+}
+</ol>
+}
+
+2. Built in Helpers
+
+2.1. Standard Html Helper : are used to render typical html elements
+
+ Eg : @Html.Action()  -- to create link tags
+      @Html.TextBox()
+      @Html.BeginForm()  -- to start a form action
+
+2.2 Strongly Typed Html Helper : These take lambda expressions with parameters and informs the helper which property of the model has to be used
+ Eg : @Html.LabelFor(model=>model.ID)
+       @Html.TextBoxFor();
+
+2.3 Templated Html Helper : is used for data display and input. Generates Html automatically as per the model property and also for the complete model with just a single Tag. It has 2 types
+    1. Display Template : @Html.Display(), @Html.DisplayFor()
+
+       @Html.DisplayForModel()  //single tag for entire model
+
+    2. Editor Template : @Html.Editor(), @html.EditorFor()
+     
+        @Html.EditorForModel();
+
+ 3. Custom Html Helper : Users Preferences in the views. These can be of 2 types
+     1. Static Helpers
+     2. Extension Helpers

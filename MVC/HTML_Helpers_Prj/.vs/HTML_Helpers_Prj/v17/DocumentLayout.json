@@ -3,19 +3,35 @@
   "WorkspaceRootPath": "C:\\Infinite_Oct25\\MVC\\HTML_Helpers_Prj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70330810-44DD-4E50-8522-1B780573E595}|HTML_Helpers_Prj\\HTML_Helpers_Prj.csproj|c:\\infinite_oct25\\mvc\\html_helpers_prj\\html_helpers_prj\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70330810-44DD-4E50-8522-1B780573E595}|HTML_Helpers_Prj\\HTML_Helpers_Prj.csproj|solutionrelative:html_helpers_prj\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{70330810-44DD-4E50-8522-1B780573E595}|HTML_Helpers_Prj\\HTML_Helpers_Prj.csproj|c:\\infinite_oct25\\mvc\\html_helpers_prj\\html_helpers_prj\\views\\student\\standardhelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{70330810-44DD-4E50-8522-1B780573E595}|HTML_Helpers_Prj\\HTML_Helpers_Prj.csproj|solutionrelative:html_helpers_prj\\views\\student\\standardhelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70330810-44DD-4E50-8522-1B780573E595}|HTML_Helpers_Prj\\HTML_Helpers_Prj.csproj|c:\\infinite_oct25\\mvc\\html_helpers_prj\\html_helpers_prj\\views\\student\\studentdisplay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{70330810-44DD-4E50-8522-1B780573E595}|HTML_Helpers_Prj\\HTML_Helpers_Prj.csproj|C:\\Infinite_Oct25\\MVC\\HTML_Helpers_Prj\\html_helpers_prj\\views\\customhelpers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70330810-44DD-4E50-8522-1B780573E595}|HTML_Helpers_Prj\\HTML_Helpers_Prj.csproj|solutionrelative:html_helpers_prj\\views\\customhelpers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70330810-44DD-4E50-8522-1B780573E595}|HTML_Helpers_Prj\\HTML_Helpers_Prj.csproj|C:\\Infinite_Oct25\\MVC\\HTML_Helpers_Prj\\html_helpers_prj\\controllers\\customhelperscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70330810-44DD-4E50-8522-1B780573E595}|HTML_Helpers_Prj\\HTML_Helpers_Prj.csproj|solutionrelative:html_helpers_prj\\controllers\\customhelperscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70330810-44DD-4E50-8522-1B780573E595}|HTML_Helpers_Prj\\HTML_Helpers_Prj.csproj|C:\\Infinite_Oct25\\MVC\\HTML_Helpers_Prj\\html_helpers_prj\\custom helpers\\customextensionhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70330810-44DD-4E50-8522-1B780573E595}|HTML_Helpers_Prj\\HTML_Helpers_Prj.csproj|solutionrelative:html_helpers_prj\\custom helpers\\customextensionhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70330810-44DD-4E50-8522-1B780573E595}|HTML_Helpers_Prj\\HTML_Helpers_Prj.csproj|C:\\Infinite_Oct25\\MVC\\HTML_Helpers_Prj\\html_helpers_prj\\custom helpers\\customstatichelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70330810-44DD-4E50-8522-1B780573E595}|HTML_Helpers_Prj\\HTML_Helpers_Prj.csproj|solutionrelative:html_helpers_prj\\custom helpers\\customstatichelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70330810-44DD-4E50-8522-1B780573E595}|HTML_Helpers_Prj\\HTML_Helpers_Prj.csproj|C:\\Infinite_Oct25\\MVC\\HTML_Helpers_Prj\\html_helpers_prj\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70330810-44DD-4E50-8522-1B780573E595}|HTML_Helpers_Prj\\HTML_Helpers_Prj.csproj|solutionrelative:html_helpers_prj\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70330810-44DD-4E50-8522-1B780573E595}|HTML_Helpers_Prj\\HTML_Helpers_Prj.csproj|C:\\Infinite_Oct25\\MVC\\HTML_Helpers_Prj\\html_helpers_prj\\views\\student\\studentdisplay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{70330810-44DD-4E50-8522-1B780573E595}|HTML_Helpers_Prj\\HTML_Helpers_Prj.csproj|solutionrelative:html_helpers_prj\\views\\student\\studentdisplay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70330810-44DD-4E50-8522-1B780573E595}|HTML_Helpers_Prj\\HTML_Helpers_Prj.csproj|c:\\infinite_oct25\\mvc\\html_helpers_prj\\html_helpers_prj\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70330810-44DD-4E50-8522-1B780573E595}|HTML_Helpers_Prj\\HTML_Helpers_Prj.csproj|C:\\Infinite_Oct25\\MVC\\HTML_Helpers_Prj\\html_helpers_prj\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70330810-44DD-4E50-8522-1B780573E595}|HTML_Helpers_Prj\\HTML_Helpers_Prj.csproj|solutionrelative:html_helpers_prj\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,24 +42,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\HTML_Helpers_Prj\\HTML_Helpers_Prj\\Views\\CustomHelpers\\Index.cshtml",
+              "RelativeDocumentMoniker": "HTML_Helpers_Prj\\Views\\CustomHelpers\\Index.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\HTML_Helpers_Prj\\HTML_Helpers_Prj\\Views\\CustomHelpers\\Index.cshtml",
+              "RelativeToolTip": "HTML_Helpers_Prj\\Views\\CustomHelpers\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T12:49:40.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomHelpersController.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\HTML_Helpers_Prj\\HTML_Helpers_Prj\\Controllers\\CustomHelpersController.cs",
+              "RelativeDocumentMoniker": "HTML_Helpers_Prj\\Controllers\\CustomHelpersController.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\HTML_Helpers_Prj\\HTML_Helpers_Prj\\Controllers\\CustomHelpersController.cs",
+              "RelativeToolTip": "HTML_Helpers_Prj\\Controllers\\CustomHelpersController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:49:18.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomExtensionHelpers.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\HTML_Helpers_Prj\\HTML_Helpers_Prj\\Custom Helpers\\CustomExtensionHelpers.cs",
+              "RelativeDocumentMoniker": "HTML_Helpers_Prj\\Custom Helpers\\CustomExtensionHelpers.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\HTML_Helpers_Prj\\HTML_Helpers_Prj\\Custom Helpers\\CustomExtensionHelpers.cs",
+              "RelativeToolTip": "HTML_Helpers_Prj\\Custom Helpers\\CustomExtensionHelpers.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:43:34.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomStaticHelpers.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\HTML_Helpers_Prj\\HTML_Helpers_Prj\\Custom Helpers\\CustomStaticHelpers.cs",
+              "RelativeDocumentMoniker": "HTML_Helpers_Prj\\Custom Helpers\\CustomStaticHelpers.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\HTML_Helpers_Prj\\HTML_Helpers_Prj\\Custom Helpers\\CustomStaticHelpers.cs",
+              "RelativeToolTip": "HTML_Helpers_Prj\\Custom Helpers\\CustomStaticHelpers.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:36:00.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "StandardHelper.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\HTML_Helpers_Prj\\HTML_Helpers_Prj\\Views\\Student\\StandardHelper.cshtml",
               "RelativeDocumentMoniker": "HTML_Helpers_Prj\\Views\\Student\\StandardHelper.cshtml",
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\HTML_Helpers_Prj\\HTML_Helpers_Prj\\Views\\Student\\StandardHelper.cshtml",
               "RelativeToolTip": "HTML_Helpers_Prj\\Views\\Student\\StandardHelper.cshtml",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAwwCkAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-06T11:10:12.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "StudentDisplay.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\HTML_Helpers_Prj\\HTML_Helpers_Prj\\Views\\Student\\StudentDisplay.cshtml",
               "RelativeDocumentMoniker": "HTML_Helpers_Prj\\Views\\Student\\StudentDisplay.cshtml",
@@ -51,12 +115,11 @@
               "RelativeToolTip": "HTML_Helpers_Prj\\Views\\Student\\StudentDisplay.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T11:00:08.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T11:00:08.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\HTML_Helpers_Prj\\HTML_Helpers_Prj\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "HTML_Helpers_Prj\\Controllers\\StudentController.cs",
@@ -64,12 +127,11 @@
               "RelativeToolTip": "HTML_Helpers_Prj\\Controllers\\StudentController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T10:20:53.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T10:20:53.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\HTML_Helpers_Prj\\HTML_Helpers_Prj\\Models\\Student.cs",
               "RelativeDocumentMoniker": "HTML_Helpers_Prj\\Models\\Student.cs",
@@ -77,8 +139,7 @@
               "RelativeToolTip": "HTML_Helpers_Prj\\Models\\Student.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAAAoAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T10:09:48.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-06T10:09:48.516Z"
             }
           ]
         }
