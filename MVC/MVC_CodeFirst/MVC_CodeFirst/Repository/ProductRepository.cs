@@ -46,7 +46,7 @@ namespace MVC_CodeFirst.Repository
 
         public void Save()
         {
-            db.SaveChanges()
+            db.SaveChanges();
         }
     }
 }

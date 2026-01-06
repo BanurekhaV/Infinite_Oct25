@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="InfiniteModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tblDepartment">
+    <Key>
+      <PropertyRef Name="Deptid" />
+    </Key>
+    <Property Name="Deptid" Type="int" Nullable="false" />
+    <Property Name="Deptname" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Budget" Type="decimal" Precision="18" Scale="0" />
+  </EntityType>
+  <EntityType Name="tblEmployees">
+    <Key>
+      <PropertyRef Name="empid" />
+    </Key>
+    <Property Name="empid" Type="int" Nullable="false" />
+    <Property Name="empname" Type="varchar" MaxLength="50" />
+    <Property Name="gender" Type="char" MaxLength="7" />
+    <Property Name="salary" Type="float" />
+    <Property Name="deptid" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Infinite.dbo.tblExceptionLog' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="tblExceptionLog">
+    <Key>
+      <PropertyRef Name="LogId" />
+    </Key>
+    <Property Name="LogId" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Exceptionmsg" Type="nvarchar" MaxLength="100" />
+    <Property Name="Exceptiontype" Type="varchar" MaxLength="100" />
+    <Property Name="Exceptionsource" Type="nvarchar(max)" />
+    <Property Name="ExceptionUrl" Type="varchar" MaxLength="100" />
+    <Property Name="Logdate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="tblProducts">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Description" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <Association Name="FK__tblEmploy__depti__2C3393D0">
+    <End Role="tblDepartment" Type="Self.tblDepartment" Multiplicity="0..1" />
+    <End Role="tblEmployees" Type="Self.tblEmployees" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblDepartment">
+        <PropertyRef Name="Deptid" />
+      </Principal>
+      <Dependent Role="tblEmployees">
+        <PropertyRef Name="deptid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="InfiniteModel1StoreContainer">
+    <EntitySet Name="tblDepartment" EntityType="Self.tblDepartment" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblEmployees" EntityType="Self.tblEmployees" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblProducts" EntityType="Self.tblProducts" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblExceptionLog" EntityType="Self.tblExceptionLog" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [tblExceptionLog].[LogId] AS [LogId], 
+    [tblExceptionLog].[Exceptionmsg] AS [Exceptionmsg], 
+    [tblExceptionLog].[Exceptiontype] AS [Exceptiontype], 
+    [tblExceptionLog].[Exceptionsource] AS [Exceptionsource], 
+    [tblExceptionLog].[ExceptionUrl] AS [ExceptionUrl], 
+    [tblExceptionLog].[Logdate] AS [Logdate]
+    FROM [dbo].[tblExceptionLog] AS [tblExceptionLog]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK__tblEmploy__depti__2C3393D0" Association="Self.FK__tblEmploy__depti__2C3393D0">
+      <End Role="tblDepartment" EntitySet="tblDepartment" />
+      <End Role="tblEmployees" EntitySet="tblEmployees" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
