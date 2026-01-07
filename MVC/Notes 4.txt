@@ -1,0 +1,6 @@
+ViewModels : View created out of multiple models
+
+
+Validations (in-built and custom)
+
+ModelState 
