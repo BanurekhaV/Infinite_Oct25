@@ -18,8 +18,9 @@ namespace CustomValidations_Prj.Models
         [Range(3,10,ErrorMessage ="Experience must be between 3 and 10 Years")]
         public int experience {  get; set; }
         [DisplayName("DOB")]
-        [DataType(DataType.Date)]
+        [DataType(DataType.Date)]       
         [ValidBirthDate(ErrorMessage ="DOB should be between 01/01/1998 and 31/12/2004 only")]
+        [BirthDateValidations]
         public DateTime birthdate { get; set; }
         [Required]
         [Display(Name ="Email Id")]
@@ -32,6 +33,7 @@ namespace CustomValidations_Prj.Models
         [RegularExpression(@"^(0(?!\.00)|[1-9]\d{0,6})\.\d{2}$",ErrorMessage =
             "Salary should be like 60000.45")]
         public decimal expsal {  get; set; }
+        [SkillValidation(ErrorMessage ="Please select 3 or more skills")]
         public List<CheckBox> Skills { get; set; }
         [Required]
         public string HavePassport {  get; set; }

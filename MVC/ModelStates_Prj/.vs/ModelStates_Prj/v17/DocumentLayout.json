@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Infinite_Oct25\\MVC\\ModelStates_Prj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE534A17-0937-41B5-9185-637D83F47BF3}|ModelStates_Prj\\ModelStates_Prj.csproj|c:\\infinite_oct25\\mvc\\modelstates_prj\\modelstates_prj\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE534A17-0937-41B5-9185-637D83F47BF3}|ModelStates_Prj\\ModelStates_Prj.csproj|solutionrelative:modelstates_prj\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE534A17-0937-41B5-9185-637D83F47BF3}|ModelStates_Prj\\ModelStates_Prj.csproj|c:\\infinite_oct25\\mvc\\modelstates_prj\\modelstates_prj\\views\\user\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE534A17-0937-41B5-9185-637D83F47BF3}|ModelStates_Prj\\ModelStates_Prj.csproj|solutionrelative:modelstates_prj\\views\\user\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE534A17-0937-41B5-9185-637D83F47BF3}|ModelStates_Prj\\ModelStates_Prj.csproj|c:\\infinite_oct25\\mvc\\modelstates_prj\\modelstates_prj\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE534A17-0937-41B5-9185-637D83F47BF3}|ModelStates_Prj\\ModelStates_Prj.csproj|solutionrelative:modelstates_prj\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE534A17-0937-41B5-9185-637D83F47BF3}|ModelStates_Prj\\ModelStates_Prj.csproj|c:\\infinite_oct25\\mvc\\modelstates_prj\\modelstates_prj\\views\\user\\userstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE534A17-0937-41B5-9185-637D83F47BF3}|ModelStates_Prj\\ModelStates_Prj.csproj|solutionrelative:modelstates_prj\\views\\user\\userstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE534A17-0937-41B5-9185-637D83F47BF3}|ModelStates_Prj\\ModelStates_Prj.csproj|c:\\infinite_oct25\\mvc\\modelstates_prj\\modelstates_prj\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE534A17-0937-41B5-9185-637D83F47BF3}|ModelStates_Prj\\ModelStates_Prj.csproj|solutionrelative:modelstates_prj\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddUser.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\ModelStates_Prj\\ModelStates_Prj\\Views\\User\\AddUser.cshtml",
+              "RelativeDocumentMoniker": "ModelStates_Prj\\Views\\User\\AddUser.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\ModelStates_Prj\\ModelStates_Prj\\Views\\User\\AddUser.cshtml",
+              "RelativeToolTip": "ModelStates_Prj\\Views\\User\\AddUser.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T11:41:40.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserStatus.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\ModelStates_Prj\\ModelStates_Prj\\Views\\User\\UserStatus.cshtml",
+              "RelativeDocumentMoniker": "ModelStates_Prj\\Views\\User\\UserStatus.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\ModelStates_Prj\\ModelStates_Prj\\Views\\User\\UserStatus.cshtml",
+              "RelativeToolTip": "ModelStates_Prj\\Views\\User\\UserStatus.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T11:38:19.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\ModelStates_Prj\\ModelStates_Prj\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "ModelStates_Prj\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\ModelStates_Prj\\ModelStates_Prj\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "ModelStates_Prj\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T11:25:34.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\ModelStates_Prj\\ModelStates_Prj\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ModelStates_Prj\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\ModelStates_Prj\\ModelStates_Prj\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ModelStates_Prj\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvyMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T11:25:08.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\ModelStates_Prj\\ModelStates_Prj\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ModelStates_Prj\\Models\\User.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\ModelStates_Prj\\ModelStates_Prj\\Models\\User.cs",
+              "RelativeToolTip": "ModelStates_Prj\\Models\\User.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T11:17:55.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
