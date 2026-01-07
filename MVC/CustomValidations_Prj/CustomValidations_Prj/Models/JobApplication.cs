@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel;
+using CustomValidations_Prj.CustomValitions;
+using CustomValidations_Prj.CustomValidations;
 
 namespace CustomValidations_Prj.Models
 {
@@ -17,12 +19,14 @@ namespace CustomValidations_Prj.Models
         public int experience {  get; set; }
         [DisplayName("DOB")]
         [DataType(DataType.Date)]
+        [ValidBirthDate(ErrorMessage ="DOB should be between 01/01/1998 and 31/12/2004 only")]
         public DateTime birthdate { get; set; }
         [Required]
         [Display(Name ="Email Id")]
         [RegularExpression(@"^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})$",
             ErrorMessage ="Invalid Email Format")]
         public string email {  get; set; }
+        [GenderValidate(ErrorMessage ="Please select your correct Gender")]
         public string Gender { get; set; }
         [DisplayName("Expected Salary")]
         [RegularExpression(@"^(0(?!\.00)|[1-9]\d{0,6})\.\d{2}$",ErrorMessage =

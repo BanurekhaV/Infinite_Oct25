@@ -3,19 +3,27 @@
   "WorkspaceRootPath": "C:\\Infinite_Oct25\\MVC\\CustomValidations_Prj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F143D40-D962-445C-9FAB-ABA540001C35}|CustomValidations_Prj\\CustomValidations_Prj.csproj|c:\\infinite_oct25\\mvc\\customvalidations_prj\\customvalidations_prj\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F143D40-D962-445C-9FAB-ABA540001C35}|CustomValidations_Prj\\CustomValidations_Prj.csproj|solutionrelative:customvalidations_prj\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9F143D40-D962-445C-9FAB-ABA540001C35}|CustomValidations_Prj\\CustomValidations_Prj.csproj|c:\\infinite_oct25\\mvc\\customvalidations_prj\\customvalidations_prj\\views\\jobapplication\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F143D40-D962-445C-9FAB-ABA540001C35}|CustomValidations_Prj\\CustomValidations_Prj.csproj|solutionrelative:customvalidations_prj\\views\\jobapplication\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F143D40-D962-445C-9FAB-ABA540001C35}|CustomValidations_Prj\\CustomValidations_Prj.csproj|c:\\infinite_oct25\\mvc\\customvalidations_prj\\customvalidations_prj\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F143D40-D962-445C-9FAB-ABA540001C35}|CustomValidations_Prj\\CustomValidations_Prj.csproj|C:\\Infinite_Oct25\\MVC\\CustomValidations_Prj\\customvalidations_prj\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F143D40-D962-445C-9FAB-ABA540001C35}|CustomValidations_Prj\\CustomValidations_Prj.csproj|solutionrelative:customvalidations_prj\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F143D40-D962-445C-9FAB-ABA540001C35}|CustomValidations_Prj\\CustomValidations_Prj.csproj|C:\\Infinite_Oct25\\MVC\\CustomValidations_Prj\\customvalidations_prj\\customvalidations\\gendervalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F143D40-D962-445C-9FAB-ABA540001C35}|CustomValidations_Prj\\CustomValidations_Prj.csproj|solutionrelative:customvalidations_prj\\customvalidations\\gendervalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F143D40-D962-445C-9FAB-ABA540001C35}|CustomValidations_Prj\\CustomValidations_Prj.csproj|C:\\Infinite_Oct25\\MVC\\CustomValidations_Prj\\customvalidations_prj\\customvalidations\\validbirthdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F143D40-D962-445C-9FAB-ABA540001C35}|CustomValidations_Prj\\CustomValidations_Prj.csproj|solutionrelative:customvalidations_prj\\customvalidations\\validbirthdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F143D40-D962-445C-9FAB-ABA540001C35}|CustomValidations_Prj\\CustomValidations_Prj.csproj|C:\\Infinite_Oct25\\MVC\\CustomValidations_Prj\\customvalidations_prj\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F143D40-D962-445C-9FAB-ABA540001C35}|CustomValidations_Prj\\CustomValidations_Prj.csproj|solutionrelative:customvalidations_prj\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F143D40-D962-445C-9FAB-ABA540001C35}|CustomValidations_Prj\\CustomValidations_Prj.csproj|c:\\infinite_oct25\\mvc\\customvalidations_prj\\customvalidations_prj\\models\\checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F143D40-D962-445C-9FAB-ABA540001C35}|CustomValidations_Prj\\CustomValidations_Prj.csproj|C:\\Infinite_Oct25\\MVC\\CustomValidations_Prj\\customvalidations_prj\\models\\checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F143D40-D962-445C-9FAB-ABA540001C35}|CustomValidations_Prj\\CustomValidations_Prj.csproj|solutionrelative:customvalidations_prj\\models\\checkbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,24 +34,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "GenderValidate.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\CustomValidations_Prj\\CustomValidations_Prj\\CustomValidations\\GenderValidate.cs",
+              "RelativeDocumentMoniker": "CustomValidations_Prj\\CustomValidations\\GenderValidate.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\CustomValidations_Prj\\CustomValidations_Prj\\CustomValidations\\GenderValidate.cs",
+              "RelativeToolTip": "CustomValidations_Prj\\CustomValidations\\GenderValidate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T07:50:29.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidBirthDate.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\CustomValidations_Prj\\CustomValidations_Prj\\CustomValidations\\ValidBirthDate.cs",
+              "RelativeDocumentMoniker": "CustomValidations_Prj\\CustomValidations\\ValidBirthDate.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\CustomValidations_Prj\\CustomValidations_Prj\\CustomValidations\\ValidBirthDate.cs",
+              "RelativeToolTip": "CustomValidations_Prj\\CustomValidations\\ValidBirthDate.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T07:28:00.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\CustomValidations_Prj\\CustomValidations_Prj\\Views\\JobApplication\\Index.cshtml",
               "RelativeDocumentMoniker": "CustomValidations_Prj\\Views\\JobApplication\\Index.cshtml",
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\CustomValidations_Prj\\CustomValidations_Prj\\Views\\JobApplication\\Index.cshtml",
               "RelativeToolTip": "CustomValidations_Prj\\Views\\JobApplication\\Index.cshtml",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAuwFUAAAA4AAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAuwDEAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-07T06:01:18.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "JobApplicationController.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\CustomValidations_Prj\\CustomValidations_Prj\\Controllers\\JobApplicationController.cs",
               "RelativeDocumentMoniker": "CustomValidations_Prj\\Controllers\\JobApplicationController.cs",
@@ -51,12 +83,11 @@
               "RelativeToolTip": "CustomValidations_Prj\\Controllers\\JobApplicationController.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAAABMAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T05:56:04.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T05:56:04.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CheckBox.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\CustomValidations_Prj\\CustomValidations_Prj\\Models\\CheckBox.cs",
               "RelativeDocumentMoniker": "CustomValidations_Prj\\Models\\CheckBox.cs",
@@ -64,21 +95,19 @@
               "RelativeToolTip": "CustomValidations_Prj\\Models\\CheckBox.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T05:31:38.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T05:31:38.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "JobApplication.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\CustomValidations_Prj\\CustomValidations_Prj\\Models\\JobApplication.cs",
               "RelativeDocumentMoniker": "CustomValidations_Prj\\Models\\JobApplication.cs",
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\CustomValidations_Prj\\CustomValidations_Prj\\Models\\JobApplication.cs",
               "RelativeToolTip": "CustomValidations_Prj\\Models\\JobApplication.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAowBgAAAAqAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwB0AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T05:27:17.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T05:27:17.622Z"
             }
           ]
         }
