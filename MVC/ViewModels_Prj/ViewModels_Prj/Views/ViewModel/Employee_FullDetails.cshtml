@@ -1,0 +1,38 @@
+﻿@model ViewModels_Prj.Models.EmployeeAddress
+@{
+    ViewBag.Title = "Employee_FullDetails";
+}
+<html>
+<head>
+    <title>@Model.PageTitle</title>
+</head>
+<body>
+    <h1>@Model.PageTitle</h1>
+    @*<div>Employee Data
+     Employee Number :  @Model.employee.EID
+     Employee Name   :  @Model.employee.Ename
+     Employee Salary :  @Model.employee.Salary
+    </div>
+    <hr/>
+    <div>Address Details
+     Door No         :  @Model.address.DoorNo
+     Street          :  @Model.address.Street
+     City            :  @Model.address.City     
+    </div>*@
+<fieldset>
+    <legend>Employee Official Details</legend>
+      @Model.employee.EID
+      @Model.employee.Ename
+      @Model.employee.Salary
+    
+</fieldset>
+<fieldset>
+    <legend>Employee Personal Details</legend>
+    Door No         :  @Model.address.DoorNo
+    Street          :  @Model.address.Street
+    City            :  @Model.address.City
+</fieldset>
+</body>
+</html>
+
+
