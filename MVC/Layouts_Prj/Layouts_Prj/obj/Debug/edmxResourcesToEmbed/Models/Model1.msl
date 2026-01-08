@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="InfiniteModelStoreContainer" CdmEntityContainer="InfiniteEntities1">
+    <EntitySetMapping Name="tblDepartments">
+      <EntityTypeMapping TypeName="InfiniteModel.tblDepartment">
+        <MappingFragment StoreEntitySet="tblDepartment">
+          <ScalarProperty Name="Deptid" ColumnName="Deptid" />
+          <ScalarProperty Name="Deptname" ColumnName="Deptname" />
+          <ScalarProperty Name="Budget" ColumnName="Budget" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblEmployees">
+      <EntityTypeMapping TypeName="InfiniteModel.tblEmployee">
+        <MappingFragment StoreEntitySet="tblEmployees">
+          <ScalarProperty Name="empid" ColumnName="empid" />
+          <ScalarProperty Name="empname" ColumnName="empname" />
+          <ScalarProperty Name="gender" ColumnName="gender" />
+          <ScalarProperty Name="salary" ColumnName="salary" />
+          <ScalarProperty Name="deptid" ColumnName="deptid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblProducts">
+      <EntityTypeMapping TypeName="InfiniteModel.tblProduct">
+        <MappingFragment StoreEntitySet="tblProducts">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="PName" ColumnName="PName" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblExceptionLogs">
+      <EntityTypeMapping TypeName="InfiniteModel.tblExceptionLog">
+        <MappingFragment StoreEntitySet="tblExceptionLog">
+          <ScalarProperty Name="LogId" ColumnName="LogId" />
+          <ScalarProperty Name="Exceptionmsg" ColumnName="Exceptionmsg" />
+          <ScalarProperty Name="Exceptiontype" ColumnName="Exceptiontype" />
+          <ScalarProperty Name="Exceptionsource" ColumnName="Exceptionsource" />
+          <ScalarProperty Name="ExceptionUrl" ColumnName="ExceptionUrl" />
+          <ScalarProperty Name="Logdate" ColumnName="Logdate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

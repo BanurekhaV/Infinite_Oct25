@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Infinite_Oct25\\MVC\\Partial_Views_Prj\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{96867675-45F8-441B-B0E8-47864967DA0E}|Partial_Views_Prj\\Partial_Views_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Partial_Views_Prj\\partial_views_prj\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96867675-45F8-441B-B0E8-47864967DA0E}|Partial_Views_Prj\\Partial_Views_Prj.csproj|solutionrelative:partial_views_prj\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{96867675-45F8-441B-B0E8-47864967DA0E}|Partial_Views_Prj\\Partial_Views_Prj.csproj|c:\\infinite_oct25\\mvc\\partial_views_prj\\partial_views_prj\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96867675-45F8-441B-B0E8-47864967DA0E}|Partial_Views_Prj\\Partial_Views_Prj.csproj|solutionrelative:partial_views_prj\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96867675-45F8-441B-B0E8-47864967DA0E}|Partial_Views_Prj\\Partial_Views_Prj.csproj|c:\\infinite_oct25\\mvc\\partial_views_prj\\partial_views_prj\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{96867675-45F8-441B-B0E8-47864967DA0E}|Partial_Views_Prj\\Partial_Views_Prj.csproj|solutionrelative:partial_views_prj\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96867675-45F8-441B-B0E8-47864967DA0E}|Partial_Views_Prj\\Partial_Views_Prj.csproj|c:\\infinite_oct25\\mvc\\partial_views_prj\\partial_views_prj\\views\\shared\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{96867675-45F8-441B-B0E8-47864967DA0E}|Partial_Views_Prj\\Partial_Views_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Partial_Views_Prj\\partial_views_prj\\views\\shared\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{96867675-45F8-441B-B0E8-47864967DA0E}|Partial_Views_Prj\\Partial_Views_Prj.csproj|solutionrelative:partial_views_prj\\views\\shared\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96867675-45F8-441B-B0E8-47864967DA0E}|Partial_Views_Prj\\Partial_Views_Prj.csproj|c:\\infinite_oct25\\mvc\\partial_views_prj\\partial_views_prj\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96867675-45F8-441B-B0E8-47864967DA0E}|Partial_Views_Prj\\Partial_Views_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Partial_Views_Prj\\partial_views_prj\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96867675-45F8-441B-B0E8-47864967DA0E}|Partial_Views_Prj\\Partial_Views_Prj.csproj|solutionrelative:partial_views_prj\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -36,33 +36,33 @@
               "RelativeDocumentMoniker": "Partial_Views_Prj\\Views\\Shared\\ProductDetails.cshtml",
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\Partial_Views_Prj\\Partial_Views_Prj\\Views\\Shared\\ProductDetails.cshtml",
               "RelativeToolTip": "Partial_Views_Prj\\Views\\Shared\\ProductDetails.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-08T07:53:10.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Partial_Views_Prj\\Partial_Views_Prj\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Partial_Views_Prj\\Views\\Product\\Index.cshtml",
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\Partial_Views_Prj\\Partial_Views_Prj\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Partial_Views_Prj\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBQAAAABAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-08T07:46:54.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Partial_Views_Prj\\Partial_Views_Prj\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Partial_Views_Prj\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\Partial_Views_Prj\\Partial_Views_Prj\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Partial_Views_Prj\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAUwB0AAAAUAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAqwCQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T07:33:15.775Z",
               "EditorCaption": ""
@@ -77,8 +77,7 @@
               "RelativeToolTip": "Partial_Views_Prj\\Models\\Product.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:30:54.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T07:30:54.667Z"
             }
           ]
         }

@@ -15,8 +15,20 @@
     </ul>
 }
 <hr />
-<h2>Products Partial View Renering Using Multiple Options</h2>
+<h2>Products Partial View Rendering Using Multiple Options</h2>
 @*@Html.Partial("Productdetails");*@
-@{Html.RenderPartial("ProductDetails");
-}
+@*@{Html.RenderPartial("ProductDetails");
+    }*@
+@*@{ Html.RenderAction("GetAllProducts");}*@
+@*@Html.Action("GetAllProducts");*@
+<hr/>
+<!--using jquery load function-->
+<div id="partialview">
 
+</div>
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#partialview").load('/Product/GetAllProducts');
+    });
+</script>

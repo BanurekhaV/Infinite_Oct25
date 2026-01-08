@@ -1,6 +1,82 @@
 ViewModels : View created out of multiple models
 
 
-Validations (in-built and custom)
+Validations (in-built and custom validation attributes)
 
-ModelState 
+ModelState (programmatically controlling validations using Modelstate properties)
+
+
+Model Binder : is the mechanism which converts the URL segment into method Parameters
+- The Parameters can be of primitive type or complex type
+- It acts like a bridge between http request and action method and maps the values from the URL which may be as below :
+
+ Model binder uses default Model Binder mapping (rules for mapping)
+1. Request.Form[] : if the request is post
+2. RouteData.Values[] : if the value is in the route
+3. Request.QueryString[] : if the values are concatenated in the url as query string
+4. Request.Files[] : If the file is being uploaded
+
+public actionresult GetEmployeedata()
+{
+  var ID=RouteData.Values["Id"]       (var ID=Request.QueryString["Id"])
+
+Employee emp = emplist.where(e=>e.Id==Convert.ToInt32(ID)).SingleOrDefault();
+  return View(emp)
+}
+
+
+Id :     2   Name :    XXX          Age:    26 
+
+int id = Convert.ToInt32(Request.Form["Id"])
+
+posting with model binder
+
+public actionresult SaveData(Employee e)
+{
+
+post request
+
+}
+
+
+When we have to custom bind in situations where the UI controls names are different from Model properties names, we can implement the IModelBinder interface BindModel Method()
+  
+posting with model binder : sample code
+
+public class EmployeeModel : IModelBinder
+{
+   public object BindModel(ControllerContext cc, ModelBindingContext mbc)
+{
+     var obj = cc.HttpContext;
+string name = obj.Request.Form["txtname"];
+int age = Convert.Toint32(obj.Request.Form["txtage"];
+
+Employee e = new Employee()
+{
+    Ename = name;
+    Eage = age;
+};
+return e;
+
+
+Bundling & Minification : is a concept of making use of static files viz .js, .css etc that are required by the application.
+- This would be rendered after compressing the resources 
+- We can add any resources to the bundle collection of the BundleConfig.cs
+
+
+Partial Views : are views that are rendered within another view.
+- have .cshtml extension like normal views
+- are used when we need some common view to be displayed as part of many other views
+- are also useful to divide the webpage into smaller portions (header, footer, menus etc..)
+
+To Render a Partial View :
+
+  1. Html.RenderPartial : is a void method
+
+  2. Html.Partial: 
+  3. Html.RenderAction : 
+  4. Html.Action : 
+  5. Jquery Load method
+
+
+ 

@@ -30,5 +30,13 @@ namespace Partial_Views_Prj.Controllers
         {           
             return View(products);
         }
+
+        //2. partial views
+        public PartialViewResult GetAllProducts()
+        {
+            
+            return PartialView("ProductDetails", products);
+        }
+
     }
 }
