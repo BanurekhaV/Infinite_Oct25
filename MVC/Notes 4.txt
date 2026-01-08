@@ -71,12 +71,21 @@ Partial Views : are views that are rendered within another view.
 
 To Render a Partial View :
 
-  1. Html.RenderPartial : is a void method
+  1. Html.RenderPartial : Is a void Method that writes the output to the response stream as a part of the same Http Response
+  - it is fastest way to render partial views
+  - since it is a void method, we should enclose the call within the '{}'
 
-  2. Html.Partial: 
-  3. Html.RenderAction : 
-  4. Html.Action : 
-  5. Jquery Load method
+  2. Html.Partial : this method returns a MVC IHtmlString
 
+  3. Html.RenderAction : is the best choice when we want to cache the partial view. 
+   - can call child action methods and then render the partial view
+   - since it is a void method, we should enclose the call within the '{}'
+
+  4. Html.Action : same as above, but returns a partial view result as IHtmlstring
+
+  5. JQuery Load Function : Can display the partial views on Load method of the Jquery
+
+
+Layouts and Custom Layouts :
 
  

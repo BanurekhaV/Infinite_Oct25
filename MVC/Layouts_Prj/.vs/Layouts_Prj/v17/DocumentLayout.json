@@ -3,39 +3,39 @@
   "WorkspaceRootPath": "C:\\Infinite_Oct25\\MVC\\Layouts_Prj\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Layouts_Prj\\layouts_prj\\controllers\\tblemployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|solutionrelative:layouts_prj\\controllers\\tblemployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Layouts_Prj\\layouts_prj\\views\\tblemployees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|solutionrelative:layouts_prj\\views\\tblemployees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|c:\\infinite_oct25\\mvc\\layouts_prj\\layouts_prj\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|solutionrelative:layouts_prj\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|c:\\infinite_oct25\\mvc\\layouts_prj\\layouts_prj\\views\\tblemployees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Layouts_Prj\\layouts_prj\\views\\tblemployees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|solutionrelative:layouts_prj\\views\\tblemployees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|c:\\infinite_oct25\\mvc\\layouts_prj\\layouts_prj\\controllers\\tblemployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|solutionrelative:layouts_prj\\controllers\\tblemployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|c:\\infinite_oct25\\mvc\\layouts_prj\\layouts_prj\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Layouts_Prj\\layouts_prj\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|solutionrelative:layouts_prj\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|c:\\infinite_oct25\\mvc\\layouts_prj\\layouts_prj\\views\\tblemployees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|solutionrelative:layouts_prj\\views\\tblemployees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|c:\\infinite_oct25\\mvc\\layouts_prj\\layouts_prj\\views\\shared\\differentlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Layouts_Prj\\layouts_prj\\views\\shared\\differentlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|solutionrelative:layouts_prj\\views\\shared\\differentlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|c:\\infinite_oct25\\mvc\\layouts_prj\\layouts_prj\\views\\shared\\_customlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Layouts_Prj\\layouts_prj\\views\\shared\\_customlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|solutionrelative:layouts_prj\\views\\shared\\_customlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|c:\\infinite_oct25\\mvc\\layouts_prj\\layouts_prj\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Layouts_Prj\\layouts_prj\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|solutionrelative:layouts_prj\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|c:\\infinite_oct25\\mvc\\layouts_prj\\layouts_prj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Layouts_Prj\\layouts_prj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{56C82817-8CB6-456C-B8AE-4B62F6CB9E55}|Layouts_Prj\\Layouts_Prj.csproj|solutionrelative:layouts_prj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -46,56 +46,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Layouts_Prj\\Layouts_Prj\\Views\\tblEmployees\\Index.cshtml",
               "RelativeDocumentMoniker": "Layouts_Prj\\Views\\tblEmployees\\Index.cshtml",
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\Layouts_Prj\\Layouts_Prj\\Views\\tblEmployees\\Index.cshtml",
               "RelativeToolTip": "Layouts_Prj\\Views\\tblEmployees\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAqwCIAAAAXAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBQAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-08T11:35:18.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Layouts_Prj\\Layouts_Prj\\Views\\tblEmployees\\Edit.cshtml",
               "RelativeDocumentMoniker": "Layouts_Prj\\Views\\tblEmployees\\Edit.cshtml",
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\Layouts_Prj\\Layouts_Prj\\Views\\tblEmployees\\Edit.cshtml",
               "RelativeToolTip": "Layouts_Prj\\Views\\tblEmployees\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-08T11:03:43.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Layouts_Prj\\Layouts_Prj\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "Layouts_Prj\\App_Start\\RouteConfig.cs",
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\Layouts_Prj\\Layouts_Prj\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "Layouts_Prj\\App_Start\\RouteConfig.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABIAAAAyAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T10:50:41.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Layouts_Prj\\Layouts_Prj\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Layouts_Prj\\Views\\_ViewStart.cshtml",
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\Layouts_Prj\\Layouts_Prj\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Layouts_Prj\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-08T10:43:26.829Z",
               "EditorCaption": ""
@@ -110,8 +110,7 @@
               "RelativeToolTip": "Layouts_Prj\\Views\\Shared\\DifferentLayout.cshtml",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-08T11:05:52.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T11:05:52.03Z"
             },
             {
               "$type": "Document",
@@ -123,18 +122,17 @@
               "RelativeToolTip": "Layouts_Prj\\Views\\Shared\\_CustomLayout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-08T10:32:48.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T10:32:48.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "tblEmployeesController.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Layouts_Prj\\Layouts_Prj\\Controllers\\tblEmployeesController.cs",
               "RelativeDocumentMoniker": "Layouts_Prj\\Controllers\\tblEmployeesController.cs",
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\Layouts_Prj\\Layouts_Prj\\Controllers\\tblEmployeesController.cs",
               "RelativeToolTip": "Layouts_Prj\\Controllers\\tblEmployeesController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAAIAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T10:49:54.2Z",
               "EditorCaption": ""
@@ -148,8 +146,7 @@
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\Layouts_Prj\\Layouts_Prj\\Models\\Model1.edmx [Diagram1]",
               "RelativeToolTip": "Layouts_Prj\\Models\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2026-01-08T10:47:31.802Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2026-01-08T10:47:31.802Z"
             },
             {
               "$type": "Document",
@@ -161,8 +158,7 @@
               "RelativeToolTip": "Layouts_Prj\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-08T10:32:02.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T10:32:02.495Z"
             }
           ]
         }

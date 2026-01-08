@@ -18,7 +18,7 @@ namespace Layouts_Prj.Controllers
         public ActionResult Index()
         {
             var tblEmployees = db.tblEmployees.Include(t => t.tblDepartment);
-            return View(tblEmployees.ToList());
+            return View("Index","_CustomLayout",tblEmployees.ToList());
         }
 
         // GET: tblEmployees/Details/5
