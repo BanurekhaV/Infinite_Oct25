@@ -23,5 +23,12 @@ namespace Custom_ModelBinding_Prj.Controllers
             ViewBag.dt=cm.Date;
             return View(cm);
         }
+
+        //bundling scripts
+        public ActionResult Bundling_Minify()
+        { 
+            return View();
+        }
+
     }
 }
