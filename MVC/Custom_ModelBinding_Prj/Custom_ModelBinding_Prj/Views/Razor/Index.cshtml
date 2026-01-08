@@ -1,0 +1,76 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<!--switching between c# code and html using"-->
+@for (int i = 1; i <= 10; i++)
+{
+    <b>@i</b>
+}
+
+<!--using Razor block-->
+@{
+    int evennumtotal = 0;
+    int oddnumtotal = 0;
+
+    for (int i = 1; i <= 10; i++)
+    {
+        if (i % 2 == 0)
+        {
+            evennumtotal = evennumtotal + 1;
+        }
+        else
+        {
+            oddnumtotal += 1;
+        }
+    }
+}
+<h3>Sum of even numbers = @evennumtotal</h3>
+<h3>Sum of odd numbers = @oddnumtotal</h3>
+<br />
+@* using <text> or @: to switch between code and html*@
+
+@for (int i = 1; i <= 10; i++)
+{
+    <b>@i</b>
+    if (i % 2 == 0)
+    {
+        <text> - Even </text>
+    }
+    else
+    {
+        <text> - Odd </text>
+    }
+    <br />
+}
+
+@*rewrite the above as below*@
+<br/>
+@for (int i = 1; i <= 10; i++)
+{
+    <b>@i</b>
+    if (i % 2 == 0)
+    {
+        @: - Even 
+    }
+    else
+    {
+        @: - Odd 
+    }
+    <br />
+}
+
+@*C3 expression and literal text transitioning*@
+
+@{ 
+    int day = 08;
+    int month = 01;
+    int year = 2026;
+}
+
+Date is @day-@month-@year
+
+<br/>
+We have a meeting @@office

@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Partial_Views_Prj.Models.Product>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>General View of Products</h2>
+@foreach (var p in Model)
+{
+    <ul>
+        <li>@p.ProductId</li>
+
+        <li>@p.ProductName</li>
+
+        <li>@p.Price</li>
+    </ul>
+}
+<hr />
+<h2>Products Partial View Renering Using Multiple Options</h2>
+@*@Html.Partial("Productdetails");*@
+@{Html.RenderPartial("ProductDetails");
+}
+

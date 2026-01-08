@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Infinite_Oct25\\MVC\\Custom_ModelBinding_Prj\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|c:\\infinite_oct25\\mvc\\custom_modelbinding_prj\\custom_modelbinding_prj\\views\\razor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|solutionrelative:custom_modelbinding_prj\\views\\razor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|c:\\infinite_oct25\\mvc\\custom_modelbinding_prj\\custom_modelbinding_prj\\controllers\\razorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|solutionrelative:custom_modelbinding_prj\\controllers\\razorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|c:\\infinite_oct25\\mvc\\custom_modelbinding_prj\\custom_modelbinding_prj\\views\\default\\bundling_minify.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|solutionrelative:custom_modelbinding_prj\\views\\default\\bundling_minify.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|c:\\infinite_oct25\\mvc\\custom_modelbinding_prj\\custom_modelbinding_prj\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Custom_ModelBinding_Prj\\custom_modelbinding_prj\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|solutionrelative:custom_modelbinding_prj\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,23 +23,23 @@
       "RelativeMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|solutionrelative:custom_modelbinding_prj\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|c:\\infinite_oct25\\mvc\\custom_modelbinding_prj\\custom_modelbinding_prj\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Custom_ModelBinding_Prj\\custom_modelbinding_prj\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|solutionrelative:custom_modelbinding_prj\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|c:\\infinite_oct25\\mvc\\custom_modelbinding_prj\\custom_modelbinding_prj\\scripts\\js3.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Custom_ModelBinding_Prj\\custom_modelbinding_prj\\scripts\\js3.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|solutionrelative:custom_modelbinding_prj\\scripts\\js3.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|c:\\infinite_oct25\\mvc\\custom_modelbinding_prj\\custom_modelbinding_prj\\scripts\\js2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Custom_ModelBinding_Prj\\custom_modelbinding_prj\\scripts\\js2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|solutionrelative:custom_modelbinding_prj\\scripts\\js2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|c:\\infinite_oct25\\mvc\\custom_modelbinding_prj\\custom_modelbinding_prj\\scripts\\js1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Custom_ModelBinding_Prj\\custom_modelbinding_prj\\scripts\\js1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|solutionrelative:custom_modelbinding_prj\\scripts\\js1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|c:\\infinite_oct25\\mvc\\custom_modelbinding_prj\\custom_modelbinding_prj\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Custom_ModelBinding_Prj\\custom_modelbinding_prj\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{797B611C-0FC8-4E69-A9BE-6E0D30259443}|Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj.csproj|solutionrelative:custom_modelbinding_prj\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -55,6 +63,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj\\Views\\Razor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Custom_ModelBinding_Prj\\Views\\Razor\\Index.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj\\Views\\Razor\\Index.cshtml",
+              "RelativeToolTip": "Custom_ModelBinding_Prj\\Views\\Razor\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAwwEoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T07:02:41.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RazorController.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj\\Controllers\\RazorController.cs",
+              "RelativeDocumentMoniker": "Custom_ModelBinding_Prj\\Controllers\\RazorController.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj\\Controllers\\RazorController.cs",
+              "RelativeToolTip": "Custom_ModelBinding_Prj\\Controllers\\RazorController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:02:28.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Bundling_Minify.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj\\Views\\Default\\Bundling_Minify.cshtml",
               "RelativeDocumentMoniker": "Custom_ModelBinding_Prj\\Views\\Default\\Bundling_Minify.cshtml",
@@ -67,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj\\Global.asax.cs",
               "RelativeDocumentMoniker": "Custom_ModelBinding_Prj\\Global.asax.cs",
@@ -75,12 +109,11 @@
               "RelativeToolTip": "Custom_ModelBinding_Prj\\Global.asax.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T06:12:26.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T06:12:26.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BundleConfig.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "Custom_ModelBinding_Prj\\App_Start\\BundleConfig.cs",
@@ -88,12 +121,11 @@
               "RelativeToolTip": "Custom_ModelBinding_Prj\\App_Start\\BundleConfig.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAAACQAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T06:03:56.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T06:03:56.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Js3.js",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj\\Scripts\\Js3.js",
               "RelativeDocumentMoniker": "Custom_ModelBinding_Prj\\Scripts\\Js3.js",
@@ -101,12 +133,11 @@
               "RelativeToolTip": "Custom_ModelBinding_Prj\\Scripts\\Js3.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-08T06:02:23.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T06:02:23.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Js2.js",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj\\Scripts\\Js2.js",
               "RelativeDocumentMoniker": "Custom_ModelBinding_Prj\\Scripts\\Js2.js",
@@ -114,12 +145,11 @@
               "RelativeToolTip": "Custom_ModelBinding_Prj\\Scripts\\Js2.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-08T06:02:07.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T06:02:07.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Js1.js",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj\\Scripts\\Js1.js",
               "RelativeDocumentMoniker": "Custom_ModelBinding_Prj\\Scripts\\Js1.js",
@@ -127,12 +157,11 @@
               "RelativeToolTip": "Custom_ModelBinding_Prj\\Scripts\\Js1.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-08T06:01:10.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T06:01:10.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj\\Views\\Default\\Index.cshtml",
               "RelativeDocumentMoniker": "Custom_ModelBinding_Prj\\Views\\Default\\Index.cshtml",
@@ -140,12 +169,11 @@
               "RelativeToolTip": "Custom_ModelBinding_Prj\\Views\\Default\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-08T05:18:24.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T05:18:24.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CustomBinder.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj\\CustomBindings\\CustomBinder.cs",
               "RelativeDocumentMoniker": "Custom_ModelBinding_Prj\\CustomBindings\\CustomBinder.cs",
@@ -157,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DefaultController.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj\\Controllers\\DefaultController.cs",
               "RelativeDocumentMoniker": "Custom_ModelBinding_Prj\\Controllers\\DefaultController.cs",
@@ -165,12 +193,11 @@
               "RelativeToolTip": "Custom_ModelBinding_Prj\\Controllers\\DefaultController.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAAABwAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T05:00:49.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T05:00:49.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "CustomModel.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Custom_ModelBinding_Prj\\Custom_ModelBinding_Prj\\Models\\CustomModel.cs",
               "RelativeDocumentMoniker": "Custom_ModelBinding_Prj\\Models\\CustomModel.cs",
