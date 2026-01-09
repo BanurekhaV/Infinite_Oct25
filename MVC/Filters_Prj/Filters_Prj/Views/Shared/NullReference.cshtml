@@ -1,6 +1,7 @@
-﻿
+﻿@model System.Web.Mvc.HandleErrorInfo
+
 @{
-    ViewBag.Title = "NullReference";
+    Layout = null;
 }
 
 <html>
@@ -10,6 +11,9 @@
 <body>
     <hgroup>
         <h1>Null Reference Error Occured</h1>
+        <h2>Controller Name : @Model.ControllerName</h2>
+        <h2>Action Name : @Model.ActionName</h2>
+        <h2>Exception Details : @Model.Exception</h2>
     </hgroup>
 </body>
 </html>

@@ -3,25 +3,28 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using Filters_Prj.Models;
 
 namespace Filters_Prj.Controllers
 {
     //[AllowAnonymous]
 
-    [HandleError(ExceptionType = typeof(DivideByZeroException), View = "DivideByZero")]
-    [HandleError(ExceptionType = typeof(NullReferenceException), View = "NullReference")]
-    [HandleError]
+    // [HandleError(ExceptionType = typeof(DivideByZeroException), View = "DivideByZero")]
+    // [HandleError(ExceptionType = typeof(NullReferenceException), View = "NullReference")]
+    // [HandleError]
+
+   // [LogCustomException]
     public class HomeController : Controller
     {
         //[Authorize]
-        //public ActionResult Index()
-        //{
-        //    throw new Exception("Something Went Wrong..");
-        //    //  return View();
-        //}
+        public ActionResult Index()
+        {
+            throw new Exception("Something Went Wrong..");
+            //  return View();
+        }
 
         //
-        
+
         public ActionResult TestMethod1()
         {
             throw new NullReferenceException();
