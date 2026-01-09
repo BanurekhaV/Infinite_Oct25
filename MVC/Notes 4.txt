@@ -87,5 +87,10 @@ To Render a Partial View :
 
 
 Layouts and Custom Layouts :
+Layouts : View/s that can provide common look and feel
+- .cshtml is the extension, and makes use of Razor engine and syntax
+- we can create our own layouts and use them on different views
+Layouts can be specified at Action Method , _ViewStart , or individual Views
+
 
  
