@@ -63,7 +63,7 @@ namespace Filters_Prj.CustomFilters
         //creating a method for logging the data
         private void LogExecutionDetails(string data)
         {
-            File.AppendAllText(HttpContext.Current.Server.MapPath("~/DataLog/Data1.txt"), data);  
+            File.AppendAllText(HttpContext.Current.Server.MapPath("~/DataFolder/datalog.txt"), data);  
         }
     }
 }

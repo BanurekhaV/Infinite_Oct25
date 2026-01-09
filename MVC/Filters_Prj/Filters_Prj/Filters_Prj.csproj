@@ -185,7 +185,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="DataLog\" />
+    <Folder Include="DataFolder\" />
     <Folder Include="ErrorLogs\" />
     <Folder Include="Views\CustomFilter\" />
   </ItemGroup>

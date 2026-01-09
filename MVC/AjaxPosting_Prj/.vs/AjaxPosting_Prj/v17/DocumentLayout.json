@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Infinite_Oct25\\MVC\\AjaxPosting_Prj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EE8237-1E0B-41D3-B0B7-FFCB872137BF}|AjaxPosting_Prj\\AjaxPosting_Prj.csproj|c:\\infinite_oct25\\mvc\\ajaxposting_prj\\ajaxposting_prj\\migrations\\202601091320357_validation changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EE8237-1E0B-41D3-B0B7-FFCB872137BF}|AjaxPosting_Prj\\AjaxPosting_Prj.csproj|solutionrelative:ajaxposting_prj\\migrations\\202601091320357_validation changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EE8237-1E0B-41D3-B0B7-FFCB872137BF}|AjaxPosting_Prj\\AjaxPosting_Prj.csproj|c:\\infinite_oct25\\mvc\\ajaxposting_prj\\ajaxposting_prj\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EE8237-1E0B-41D3-B0B7-FFCB872137BF}|AjaxPosting_Prj\\AjaxPosting_Prj.csproj|solutionrelative:ajaxposting_prj\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EE8237-1E0B-41D3-B0B7-FFCB872137BF}|AjaxPosting_Prj\\AjaxPosting_Prj.csproj|c:\\infinite_oct25\\mvc\\ajaxposting_prj\\ajaxposting_prj\\migrations\\202601091318063_validation changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EE8237-1E0B-41D3-B0B7-FFCB872137BF}|AjaxPosting_Prj\\AjaxPosting_Prj.csproj|solutionrelative:ajaxposting_prj\\migrations\\202601091318063_validation changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EE8237-1E0B-41D3-B0B7-FFCB872137BF}|AjaxPosting_Prj\\AjaxPosting_Prj.csproj|c:\\infinite_oct25\\mvc\\ajaxposting_prj\\ajaxposting_prj\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EE8237-1E0B-41D3-B0B7-FFCB872137BF}|AjaxPosting_Prj\\AjaxPosting_Prj.csproj|solutionrelative:ajaxposting_prj\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EE8237-1E0B-41D3-B0B7-FFCB872137BF}|AjaxPosting_Prj\\AjaxPosting_Prj.csproj|c:\\infinite_oct25\\mvc\\ajaxposting_prj\\ajaxposting_prj\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EE8237-1E0B-41D3-B0B7-FFCB872137BF}|AjaxPosting_Prj\\AjaxPosting_Prj.csproj|solutionrelative:ajaxposting_prj\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EE8237-1E0B-41D3-B0B7-FFCB872137BF}|AjaxPosting_Prj\\AjaxPosting_Prj.csproj|c:\\infinite_oct25\\mvc\\ajaxposting_prj\\ajaxposting_prj\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1EE8237-1E0B-41D3-B0B7-FFCB872137BF}|AjaxPosting_Prj\\AjaxPosting_Prj.csproj|solutionrelative:ajaxposting_prj\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EE8237-1E0B-41D3-B0B7-FFCB872137BF}|AjaxPosting_Prj\\AjaxPosting_Prj.csproj|c:\\infinite_oct25\\mvc\\ajaxposting_prj\\ajaxposting_prj\\migrations\\202601091308539_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EE8237-1E0B-41D3-B0B7-FFCB872137BF}|AjaxPosting_Prj\\AjaxPosting_Prj.csproj|solutionrelative:ajaxposting_prj\\migrations\\202601091308539_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EE8237-1E0B-41D3-B0B7-FFCB872137BF}|AjaxPosting_Prj\\AjaxPosting_Prj.csproj|c:\\infinite_oct25\\mvc\\ajaxposting_prj\\ajaxposting_prj\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1EE8237-1E0B-41D3-B0B7-FFCB872137BF}|AjaxPosting_Prj\\AjaxPosting_Prj.csproj|solutionrelative:ajaxposting_prj\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202601091320357_validation changes.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\AjaxPosting_Prj\\AjaxPosting_Prj\\Migrations\\202601091320357_validation changes.cs",
+              "RelativeDocumentMoniker": "AjaxPosting_Prj\\Migrations\\202601091320357_validation changes.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\AjaxPosting_Prj\\AjaxPosting_Prj\\Migrations\\202601091320357_validation changes.cs",
+              "RelativeToolTip": "AjaxPosting_Prj\\Migrations\\202601091320357_validation changes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:20:42.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "202601091318063_validation changes.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\AjaxPosting_Prj\\AjaxPosting_Prj\\Migrations\\202601091318063_validation changes.cs",
+              "RelativeDocumentMoniker": "AjaxPosting_Prj\\Migrations\\202601091318063_validation changes.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\AjaxPosting_Prj\\AjaxPosting_Prj\\Migrations\\202601091318063_validation changes.cs",
+              "RelativeToolTip": "AjaxPosting_Prj\\Migrations\\202601091318063_validation changes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:18:11.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "202601091308539_Initial Create.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\AjaxPosting_Prj\\AjaxPosting_Prj\\Migrations\\202601091308539_Initial Create.cs",
+              "RelativeDocumentMoniker": "AjaxPosting_Prj\\Migrations\\202601091308539_Initial Create.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\AjaxPosting_Prj\\AjaxPosting_Prj\\Migrations\\202601091308539_Initial Create.cs",
+              "RelativeToolTip": "AjaxPosting_Prj\\Migrations\\202601091308539_Initial Create.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:09:07.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\AjaxPosting_Prj\\AjaxPosting_Prj\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "AjaxPosting_Prj\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\AjaxPosting_Prj\\AjaxPosting_Prj\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "AjaxPosting_Prj\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:08:11.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\AjaxPosting_Prj\\AjaxPosting_Prj\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "AjaxPosting_Prj\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\AjaxPosting_Prj\\AjaxPosting_Prj\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "AjaxPosting_Prj\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T12:32:23.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\AjaxPosting_Prj\\AjaxPosting_Prj\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "AjaxPosting_Prj\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\AjaxPosting_Prj\\AjaxPosting_Prj\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "AjaxPosting_Prj\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:24:14.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\AjaxPosting_Prj\\AjaxPosting_Prj\\Models\\StudentContext.cs",
+              "RelativeDocumentMoniker": "AjaxPosting_Prj\\Models\\StudentContext.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\AjaxPosting_Prj\\AjaxPosting_Prj\\Models\\StudentContext.cs",
+              "RelativeToolTip": "AjaxPosting_Prj\\Models\\StudentContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:19:28.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\AjaxPosting_Prj\\AjaxPosting_Prj\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "AjaxPosting_Prj\\Models\\Student.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\AjaxPosting_Prj\\AjaxPosting_Prj\\Models\\Student.cs",
+              "RelativeToolTip": "AjaxPosting_Prj\\Models\\Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:17:57.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
