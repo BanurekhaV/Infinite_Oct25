@@ -16,7 +16,7 @@ namespace Attribute_Routing_Prj
             //enabling attribute routing
             routes.MapMvcAttributeRoutes();
 
-            routes.MapRoute(
+               routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }

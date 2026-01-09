@@ -3,35 +3,39 @@
   "WorkspaceRootPath": "C:\\Infinite_Oct25\\MVC\\Attribute_Routing_Prj\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|c:\\infinite_oct25\\mvc\\attribute_routing_prj\\attribute_routing_prj\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|solutionrelative:attribute_routing_prj\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|c:\\infinite_oct25\\mvc\\attribute_routing_prj\\attribute_routing_prj\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|solutionrelative:attribute_routing_prj\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|c:\\infinite_oct25\\mvc\\attribute_routing_prj\\attribute_routing_prj\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Attribute_Routing_Prj\\attribute_routing_prj\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|solutionrelative:attribute_routing_prj\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|c:\\infinite_oct25\\mvc\\attribute_routing_prj\\attribute_routing_prj\\views\\student\\gettrainers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|solutionrelative:attribute_routing_prj\\views\\student\\gettrainers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|c:\\infinite_oct25\\mvc\\attribute_routing_prj\\attribute_routing_prj\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|solutionrelative:attribute_routing_prj\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|c:\\infinite_oct25\\mvc\\attribute_routing_prj\\attribute_routing_prj\\views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|solutionrelative:attribute_routing_prj\\views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|c:\\infinite_oct25\\mvc\\attribute_routing_prj\\attribute_routing_prj\\views\\student\\getstudentcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|solutionrelative:attribute_routing_prj\\views\\student\\getstudentcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|c:\\infinite_oct25\\mvc\\attribute_routing_prj\\attribute_routing_prj\\views\\student\\getstudentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Attribute_Routing_Prj\\attribute_routing_prj\\views\\student\\getstudentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|solutionrelative:attribute_routing_prj\\views\\student\\getstudentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|c:\\infinite_oct25\\mvc\\attribute_routing_prj\\attribute_routing_prj\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Attribute_Routing_Prj\\attribute_routing_prj\\views\\student\\gettrainers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|solutionrelative:attribute_routing_prj\\views\\student\\gettrainers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Attribute_Routing_Prj\\attribute_routing_prj\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|solutionrelative:attribute_routing_prj\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Attribute_Routing_Prj\\attribute_routing_prj\\views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|solutionrelative:attribute_routing_prj\\views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Attribute_Routing_Prj\\attribute_routing_prj\\views\\student\\getstudentcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|solutionrelative:attribute_routing_prj\\views\\student\\getstudentcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Attribute_Routing_Prj\\attribute_routing_prj\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFBC4EEF-C186-4F21-BD1C-28BBE57F846F}|Attribute_Routing_Prj\\Attribute_Routing_Prj.csproj|solutionrelative:attribute_routing_prj\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,11 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Attribute_Routing_Prj\\Attribute_Routing_Prj\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "Attribute_Routing_Prj\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\Attribute_Routing_Prj\\Attribute_Routing_Prj\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "Attribute_Routing_Prj\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T07:20:55.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GetTrainers.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Attribute_Routing_Prj\\Attribute_Routing_Prj\\Views\\Student\\GetTrainers.cshtml",
               "RelativeDocumentMoniker": "Attribute_Routing_Prj\\Views\\Student\\GetTrainers.cshtml",
@@ -54,25 +71,24 @@
               "RelativeToolTip": "Attribute_Routing_Prj\\Views\\Student\\GetTrainers.cshtml",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-09T05:51:38.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T05:51:38.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "GetStudentDetails.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Attribute_Routing_Prj\\Attribute_Routing_Prj\\Views\\Student\\GetStudentDetails.cshtml",
               "RelativeDocumentMoniker": "Attribute_Routing_Prj\\Views\\Student\\GetStudentDetails.cshtml",
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\Attribute_Routing_Prj\\Attribute_Routing_Prj\\Views\\Student\\GetStudentDetails.cshtml",
               "RelativeToolTip": "Attribute_Routing_Prj\\Views\\Student\\GetStudentDetails.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAwwA4AAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-09T04:52:03.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "GetAllStudents.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Attribute_Routing_Prj\\Attribute_Routing_Prj\\Views\\Student\\GetAllStudents.cshtml",
               "RelativeDocumentMoniker": "Attribute_Routing_Prj\\Views\\Student\\GetAllStudents.cshtml",
@@ -80,38 +96,37 @@
               "RelativeToolTip": "Attribute_Routing_Prj\\Views\\Student\\GetAllStudents.cshtml",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-09T04:47:51.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T04:47:51.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Attribute_Routing_Prj\\Attribute_Routing_Prj\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Attribute_Routing_Prj\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\Attribute_Routing_Prj\\Attribute_Routing_Prj\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Attribute_Routing_Prj\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEcAAAAQAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAmwC0AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-09T04:35:51.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Attribute_Routing_Prj\\Attribute_Routing_Prj\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "Attribute_Routing_Prj\\App_Start\\RouteConfig.cs",
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\Attribute_Routing_Prj\\Attribute_Routing_Prj\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "Attribute_Routing_Prj\\App_Start\\RouteConfig.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAMAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-09T04:34:27.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Trainer.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Attribute_Routing_Prj\\Attribute_Routing_Prj\\Models\\Trainer.cs",
               "RelativeDocumentMoniker": "Attribute_Routing_Prj\\Models\\Trainer.cs",
@@ -119,12 +134,11 @@
               "RelativeToolTip": "Attribute_Routing_Prj\\Models\\Trainer.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T04:33:46.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T04:33:46.023Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "GetStudentCourses.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Attribute_Routing_Prj\\Attribute_Routing_Prj\\Views\\Student\\GetStudentCourses.cshtml",
               "RelativeDocumentMoniker": "Attribute_Routing_Prj\\Views\\Student\\GetStudentCourses.cshtml",
@@ -132,12 +146,11 @@
               "RelativeToolTip": "Attribute_Routing_Prj\\Views\\Student\\GetStudentCourses.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-09T05:40:50.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T05:40:50.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Attribute_Routing_Prj\\Attribute_Routing_Prj\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Attribute_Routing_Prj\\Models\\Student.cs",
@@ -145,8 +158,7 @@
               "RelativeToolTip": "Attribute_Routing_Prj\\Models\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T04:33:08.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T04:33:08.572Z"
             }
           ]
         }

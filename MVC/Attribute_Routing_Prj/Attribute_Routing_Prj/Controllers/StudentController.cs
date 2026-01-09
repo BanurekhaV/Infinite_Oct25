@@ -32,19 +32,22 @@ namespace Attribute_Routing_Prj.Controllers
         }
 
         //2. get by id
-        [Route("{studentId:int}")]
+        // [Route("{studentId:int:min(1):max(3)}")] // can be also written as below
+        [Route("{studentId:int:range(1,3)}")]
         public ActionResult GetStudentDetails(int studentId)
         {
             Student student = students.FirstOrDefault(s => s.Id == studentId);
+            ViewBag.data = "Student Id";
             return View(student);
         }
 
         //3. by name
         [HttpGet]
-        [Route("{studentname:alpha}")]
+        [Route("{studentname:alpha:minlength(4)}")]
         public ActionResult GetStudentDetails(string studentname)
         {
             Student stddetails = students.FirstOrDefault(s => s.Name == studentname);
+            ViewBag.data = "Student Name";
             return View(stddetails);
         }
 
@@ -68,6 +71,8 @@ namespace Attribute_Routing_Prj.Controllers
         }
 
         //populate the second object model trainer
+
+      //  [Route("technical/trainers")]  //this works with the prefix followed by the route
         //~ is used to override a routeprefix
         [Route("~/Technical/trainers")]
        

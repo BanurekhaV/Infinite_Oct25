@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Infinite_Oct25\\MVC\\Filters_Prj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2224B092-11F0-4585-80C0-56ECEB7B885D}|Filters_Prj\\Filters_Prj.csproj|c:\\infinite_oct25\\mvc\\filters_prj\\filters_prj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2224B092-11F0-4585-80C0-56ECEB7B885D}|Filters_Prj\\Filters_Prj.csproj|solutionrelative:filters_prj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2224B092-11F0-4585-80C0-56ECEB7B885D}|Filters_Prj\\Filters_Prj.csproj|c:\\infinite_oct25\\mvc\\filters_prj\\filters_prj\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2224B092-11F0-4585-80C0-56ECEB7B885D}|Filters_Prj\\Filters_Prj.csproj|solutionrelative:filters_prj\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2224B092-11F0-4585-80C0-56ECEB7B885D}|Filters_Prj\\Filters_Prj.csproj|c:\\infinite_oct25\\mvc\\filters_prj\\filters_prj\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2224B092-11F0-4585-80C0-56ECEB7B885D}|Filters_Prj\\Filters_Prj.csproj|solutionrelative:filters_prj\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2224B092-11F0-4585-80C0-56ECEB7B885D}|Filters_Prj\\Filters_Prj.csproj|c:\\infinite_oct25\\mvc\\filters_prj\\filters_prj\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2224B092-11F0-4585-80C0-56ECEB7B885D}|Filters_Prj\\Filters_Prj.csproj|solutionrelative:filters_prj\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2224B092-11F0-4585-80C0-56ECEB7B885D}|Filters_Prj\\Filters_Prj.csproj|c:\\infinite_oct25\\mvc\\filters_prj\\filters_prj\\views\\shared\\nullreference.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2224B092-11F0-4585-80C0-56ECEB7B885D}|Filters_Prj\\Filters_Prj.csproj|solutionrelative:filters_prj\\views\\shared\\nullreference.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2224B092-11F0-4585-80C0-56ECEB7B885D}|Filters_Prj\\Filters_Prj.csproj|c:\\infinite_oct25\\mvc\\filters_prj\\filters_prj\\views\\shared\\dividebyzero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2224B092-11F0-4585-80C0-56ECEB7B885D}|Filters_Prj\\Filters_Prj.csproj|solutionrelative:filters_prj\\views\\shared\\dividebyzero.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Filters_Prj\\Filters_Prj\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "Filters_Prj\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\Filters_Prj\\Filters_Prj\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "Filters_Prj\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T07:55:14.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Filters_Prj\\Filters_Prj\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Filters_Prj\\Global.asax.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\Filters_Prj\\Filters_Prj\\Global.asax.cs",
+              "RelativeToolTip": "Filters_Prj\\Global.asax.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T07:53:57.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NullReference.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Filters_Prj\\Filters_Prj\\Views\\Shared\\NullReference.cshtml",
+              "RelativeDocumentMoniker": "Filters_Prj\\Views\\Shared\\NullReference.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\Filters_Prj\\Filters_Prj\\Views\\Shared\\NullReference.cshtml",
+              "RelativeToolTip": "Filters_Prj\\Views\\Shared\\NullReference.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T07:44:59.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DivideByZero.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Filters_Prj\\Filters_Prj\\Views\\Shared\\DivideByZero.cshtml",
+              "RelativeDocumentMoniker": "Filters_Prj\\Views\\Shared\\DivideByZero.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\Filters_Prj\\Filters_Prj\\Views\\Shared\\DivideByZero.cshtml",
+              "RelativeToolTip": "Filters_Prj\\Views\\Shared\\DivideByZero.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T07:43:22.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Filters_Prj\\Filters_Prj\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Filters_Prj\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\Filters_Prj\\Filters_Prj\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Filters_Prj\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T07:42:45.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Filters_Prj\\Filters_Prj\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Filters_Prj\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\Filters_Prj\\Filters_Prj\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Filters_Prj\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T07:29:03.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
