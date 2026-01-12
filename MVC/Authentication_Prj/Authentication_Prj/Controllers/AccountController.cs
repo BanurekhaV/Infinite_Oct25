@@ -4,13 +4,11 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using Authentication_Prj.Models;
-using Authentication_Prj.CustomFilters;
+
 
 
 namespace Authentication_Prj.Controllers
 {
-    // [CustomAuthenticationFilter]
-    
     public class AccountController : Controller
     {
         // GET: Account
@@ -29,7 +27,7 @@ namespace Authentication_Prj.Controllers
                 {
                     //store the username in a session
                     Session["UserName"] = model.UserName;
-                    return RedirectToAction("index", "home");
+                    return RedirectToAction("contact", "home");
                 }
                 else
                 {

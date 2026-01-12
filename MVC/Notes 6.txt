@@ -6,3 +6,37 @@ Benefits :
   - Making async calls
   - User friendly
   - Performance
+
+
+
+
+
+create database Authentication_MVC
+
+create table Employee
+( ID int primary key identity(1,1),
+Name varchar(50),
+Designation varchar(50),
+Salary int)
+
+--users table
+create table Users
+( U_ID int primary key identity(1,1),
+UserName varchar(50),
+UserPassword varchar(50))
+
+--Role master
+create table RoleMaster(
+RID int primary key identity(1,1),
+RoleName varchar(50))
+
+--map users to roles
+create table UserRolesMapping
+(
+URM int primary key,
+UserID int references Users(U_ID),
+RoleID int references RoleMaster(RID))
+
+
+select * from Employee
+select * from Users

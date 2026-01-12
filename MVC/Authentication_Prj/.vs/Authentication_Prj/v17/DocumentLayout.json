@@ -3,23 +3,31 @@
   "WorkspaceRootPath": "C:\\Infinite_Oct25\\MVC\\Authentication_Prj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E234DFFF-82D6-4194-AD80-2F7C09A0CD32}|Authentication_Prj\\Authentication_Prj.csproj|c:\\infinite_oct25\\mvc\\authentication_prj\\authentication_prj\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E234DFFF-82D6-4194-AD80-2F7C09A0CD32}|Authentication_Prj\\Authentication_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Authentication_Prj\\authentication_prj\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E234DFFF-82D6-4194-AD80-2F7C09A0CD32}|Authentication_Prj\\Authentication_Prj.csproj|solutionrelative:authentication_prj\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E234DFFF-82D6-4194-AD80-2F7C09A0CD32}|Authentication_Prj\\Authentication_Prj.csproj|c:\\infinite_oct25\\mvc\\authentication_prj\\authentication_prj\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E234DFFF-82D6-4194-AD80-2F7C09A0CD32}|Authentication_Prj\\Authentication_Prj.csproj|solutionrelative:authentication_prj\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E234DFFF-82D6-4194-AD80-2F7C09A0CD32}|Authentication_Prj\\Authentication_Prj.csproj|c:\\infinite_oct25\\mvc\\authentication_prj\\authentication_prj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E234DFFF-82D6-4194-AD80-2F7C09A0CD32}|Authentication_Prj\\Authentication_Prj.csproj|solutionrelative:authentication_prj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E234DFFF-82D6-4194-AD80-2F7C09A0CD32}|Authentication_Prj\\Authentication_Prj.csproj|c:\\infinite_oct25\\mvc\\authentication_prj\\authentication_prj\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E234DFFF-82D6-4194-AD80-2F7C09A0CD32}|Authentication_Prj\\Authentication_Prj.csproj|solutionrelative:authentication_prj\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E234DFFF-82D6-4194-AD80-2F7C09A0CD32}|Authentication_Prj\\Authentication_Prj.csproj|c:\\infinite_oct25\\mvc\\authentication_prj\\authentication_prj\\customfilters\\customauthenticationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E234DFFF-82D6-4194-AD80-2F7C09A0CD32}|Authentication_Prj\\Authentication_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Authentication_Prj\\authentication_prj\\customfilters\\customauthenticationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E234DFFF-82D6-4194-AD80-2F7C09A0CD32}|Authentication_Prj\\Authentication_Prj.csproj|solutionrelative:authentication_prj\\customfilters\\customauthenticationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E234DFFF-82D6-4194-AD80-2F7C09A0CD32}|Authentication_Prj\\Authentication_Prj.csproj|c:\\infinite_oct25\\mvc\\authentication_prj\\authentication_prj\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E234DFFF-82D6-4194-AD80-2F7C09A0CD32}|Authentication_Prj\\Authentication_Prj.csproj|c:\\infinite_oct25\\mvc\\authentication_prj\\authentication_prj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E234DFFF-82D6-4194-AD80-2F7C09A0CD32}|Authentication_Prj\\Authentication_Prj.csproj|solutionrelative:authentication_prj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E234DFFF-82D6-4194-AD80-2F7C09A0CD32}|Authentication_Prj\\Authentication_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Authentication_Prj\\authentication_prj\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E234DFFF-82D6-4194-AD80-2F7C09A0CD32}|Authentication_Prj\\Authentication_Prj.csproj|solutionrelative:authentication_prj\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E234DFFF-82D6-4194-AD80-2F7C09A0CD32}|Authentication_Prj\\Authentication_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Authentication_Prj\\authentication_prj\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E234DFFF-82D6-4194-AD80-2F7C09A0CD32}|Authentication_Prj\\Authentication_Prj.csproj|solutionrelative:authentication_prj\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E234DFFF-82D6-4194-AD80-2F7C09A0CD32}|Authentication_Prj\\Authentication_Prj.csproj|C:\\Infinite_Oct25\\MVC\\Authentication_Prj\\authentication_prj\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E234DFFF-82D6-4194-AD80-2F7C09A0CD32}|Authentication_Prj\\Authentication_Prj.csproj|solutionrelative:authentication_prj\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,6 +47,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Authentication_Prj\\Authentication_Prj\\Web.config",
+              "RelativeDocumentMoniker": "Authentication_Prj\\Web.config",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\Authentication_Prj\\Authentication_Prj\\Web.config",
+              "RelativeToolTip": "Authentication_Prj\\Web.config",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-12T06:50:02.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Authentication_Prj\\Authentication_Prj\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Authentication_Prj\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\Authentication_Prj\\Authentication_Prj\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Authentication_Prj\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA0wBEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T06:02:17.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Authentication_Prj\\Authentication_Prj\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Authentication_Prj\\Views\\Account\\Login.cshtml",
@@ -46,18 +80,17 @@
               "RelativeToolTip": "Authentication_Prj\\Views\\Account\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-12T05:37:47.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T05:37:47.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Authentication_Prj\\Authentication_Prj\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "Authentication_Prj\\App_Start\\RouteConfig.cs",
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\Authentication_Prj\\Authentication_Prj\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "Authentication_Prj\\App_Start\\RouteConfig.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBQAAAAJAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBIAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-12T05:34:45.62Z",
               "EditorCaption": ""
@@ -70,27 +103,27 @@
               "RelativeDocumentMoniker": "Authentication_Prj\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\Authentication_Prj\\Authentication_Prj\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Authentication_Prj\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBAAAAAjAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwBYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-12T05:28:07.601Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CustomAuthenticationFilter.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Authentication_Prj\\Authentication_Prj\\CustomFilters\\CustomAuthenticationFilter.cs",
               "RelativeDocumentMoniker": "Authentication_Prj\\CustomFilters\\CustomAuthenticationFilter.cs",
               "ToolTip": "C:\\Infinite_Oct25\\MVC\\Authentication_Prj\\Authentication_Prj\\CustomFilters\\CustomAuthenticationFilter.cs",
               "RelativeToolTip": "Authentication_Prj\\CustomFilters\\CustomAuthenticationFilter.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwBsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-12T05:12:05.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Authentication_Prj\\Authentication_Prj\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "Authentication_Prj\\Models\\LoginModel.cs",
@@ -98,8 +131,7 @@
               "RelativeToolTip": "Authentication_Prj\\Models\\LoginModel.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAwAsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T05:07:30.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T05:07:30.086Z"
             }
           ]
         }
