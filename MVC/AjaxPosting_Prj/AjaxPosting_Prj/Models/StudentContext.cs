@@ -6,10 +6,10 @@ using System.Data.Entity;
 
 namespace AjaxPosting_Prj.Models
 {
-    public class StudentContext : DbContext
+    public class StudentContext :DbContext
     {
-        public StudentContext() : base("name=stdcontext") { }
-
+        public StudentContext() : base("name=StdContext") { }
+        
         public DbSet<Student> Students { get; set; }
     }
 }

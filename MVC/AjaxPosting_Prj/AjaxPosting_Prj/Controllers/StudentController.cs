@@ -9,28 +9,28 @@ namespace AjaxPosting_Prj.Controllers
 {
     public class StudentController : Controller
     {
-        StudentContext db = new StudentContext();
-        // GET: Student
+        StudentContext context = new StudentContext();
+
         public ActionResult Index()
         {
             return View();
         }
 
-        //creating a post for a new student record
+        //creating a post fro new student record
         [HttpPost]
-        public ActionResult CreateStudent(Student student)
+        public ActionResult CreateStudent(Student std)
         {
-            db.Students.Add(student);
-            db.SaveChanges();
+            context.Students.Add(std);
+            context.SaveChanges();
             string message = "SUCCESS";
-            return Json(new {Message= message,JsonRequestBehavior.AllowGet});
+            return Json(new { Message = message, JsonRequestBehavior.AllowGet });
         }
 
-        //get  a student
+        //get a student
         public ActionResult GetStudent(string id)
         {
-          List<Student> students = new List<Student>();
-            students = db.Students.ToList();
+            List<Student> students = new List<Student>();
+            students = context.Students.ToList();
             return Json(students, JsonRequestBehavior.AllowGet);
         }
     }

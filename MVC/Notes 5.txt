@@ -8,6 +8,28 @@ Routing :  a module responsible for mapping the incoming browser request to an a
   Attribute based : define routes using [Route]
   - We have to enable attribute routing in routeconfig.cs
 
+--Decorate with the [Route]
+
+Advantages of attribute based routing
+ 1. It gives us more control. We can create hierarchical URL Pattern
+ (students have courses, orders have products, departments have employees)
+ 2. Reduces the chance of error
+ 3. May decouple the controller and action name 
+ 4. Easy to map 2 routes pointing to same action 
+
+RoutePrefix : is a common attribute placed on a controller, for all the action methods of a controller
+
+--To override the RoutePrefix , use a "~  symbol along with a different route)
+
+--Route Contraints : can be applied on different action methods 
+ - int  - 32 bit integer
+ - alpha - matches upper/lower alphabets
+ - bool - 
+ - datetime 
+ - guid 
+ - length - string with specified length
+ - max, min, minlength, maxlength, long, range, regex
+
   
 Filters : are frameworks attributes that allows some logical code on a particular action/result/exception
  - helps in performing certain functionalities (Caching, Logging, authentication, authorizing etc..) during before/after of action/result declaration/exception
@@ -53,3 +75,11 @@ In order to overcome the above limitations, we need to go for custom handlers by
 Steps  :
 
 0. remove customerrors mode in web.config file
+
+
+
+
+AJAX Posting
+
+
+

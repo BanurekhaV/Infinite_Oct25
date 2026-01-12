@@ -7,7 +7,7 @@
 <div class="col-md-12">
     <div class="panel panel-primary">
         <div class="panel-heading">
-            <h3 class="panel-title">Please Enter the Below Details </h3>
+            <h3 class="panel-title">Please Enter the below Details</h3>
         </div>
         <div class="panel-body">
             <div class="form-group col-md-5">
@@ -15,22 +15,22 @@
                 <input type="text" name="StudentName" id="StudentName" class="form-control"
                        placeholder="Enter Student Name" required="" />
             </div>
-             <div class="form-group col-md-5">
-            <label>Student Address</label>
-            <input type="text" name="StudentAddress" id="StudentAddress" class="form-control"
-                   placeholder="Enter Student Address" required="" />
-             </div>
             <div class="form-group col-md-5">
-                <div style="float:right;display:inline-block">
+                <label>Student Address</label>
+                <input type="text" name="StudentAddress" id="StudentAddress" class="form-control"
+                       placeholder="Enter Student Address" required="" />
+            </div>
+            <div class="form-group col-md-1">
+                <div style="float:right; display:inline-block">
                     <input class="btn btn-primary" type="button"
-                           name="SubmitButton" id="btnSave" value="Save" />
+                           name="submitButton" id="btnSave" value="Save" />
                 </div>
-       
+            </div>
         </div>
     </div>
-</div>
-    <hr />
-    <table id="tblStudent" class="table table-bordered table-striped table-responsive table-hover">
+    <hr/>
+    <table id="tblStudent" class="table table-bordered table-striped table-responsive
+           table-hover">
         <thead>
             <tr>
                 <th align="left" class="productth">ID</th>
@@ -42,7 +42,7 @@
 
         </tbody>
     </table>
-    </div>
+</div>
 
 @section Scripts
 {<script type="text/javascript">
@@ -58,22 +58,23 @@
                 data: '{std :' + JSON.stringify(std) + '}',
                 dataType: "json",
                 contentType: "application/json; charset=utf-8",
-                Success: function () {
+                success: function () {
                     LoadData();
                 },
                 error: function () {
                     alert("Error While Inserting Data");
                 }
             });
+            return false;
         });
-    })
+    });
 
     function LoadData() {
         $("#tblStudent tbody tr").remove();
         $.ajax({
             type: 'POST',
             url: '@Url.Action("GetStudent")',
-            dataType: "json",
+            dataType: 'json',
             data: { id: '' },
             success: function (data) {
                 var items = '';
@@ -87,13 +88,13 @@
             },
             error: function (e) {
                 var r = jQuery.parseJSON(response.responseText);
-                alert("Message :" + r.Message);
-                alert("StackTrace :" + r.StackTrace);
-                alert("ExceptionType :" + r.ExceptionType);
+                alert("Message : " + r.Message);
+                alert("StackTrace : " + r.StackTrace);
+                alert("ExceptionType : " + r.ExceptionType);
             }
         });
         return false;
     }
     </script>
- 
+    
     }

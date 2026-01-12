@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("AjaxPosting_Prj")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HP")]
+[assembly: AssemblyCompany("HP Inc.")]
 [assembly: AssemblyProduct("AjaxPosting_Prj")]
-[assembly: AssemblyCopyright("Copyright © HP 2026")]
+[assembly: AssemblyCopyright("Copyright © HP Inc. 2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f8749f3f-bd27-4fea-9a43-66f0caeab0bd")]
+[assembly: Guid("8dbba0e5-91ab-4c29-b656-9973f4ba3e85")]
 
 // Version information for an assembly consists of the following four values:
 //

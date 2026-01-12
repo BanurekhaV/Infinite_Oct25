@@ -1,0 +1,8 @@
+AJAX : Async JavaScript and XML. It is a client side script that communicates to and from the server/database without the need for postback or a complete page refresh. Ajax speeds up response time
+- Ajax in other words is the method of exchanging data with the server, and updating parts of a web page, without reloading the entire page
+
+Benefits :
+  - Callbacks
+  - Making async calls
+  - User friendly
+  - Performance

@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Infinite_Oct25\\MVC\\Security_Prj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95E6E397-3EF0-40B4-8922-6EAC005EE4D2}|Security_Prj\\Security_Prj.csproj|c:\\infinite_oct25\\mvc\\security_prj\\security_prj\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E6E397-3EF0-40B4-8922-6EAC005EE4D2}|Security_Prj\\Security_Prj.csproj|solutionrelative:security_prj\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E6E397-3EF0-40B4-8922-6EAC005EE4D2}|Security_Prj\\Security_Prj.csproj|c:\\infinite_oct25\\mvc\\security_prj\\security_prj\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95E6E397-3EF0-40B4-8922-6EAC005EE4D2}|Security_Prj\\Security_Prj.csproj|solutionrelative:security_prj\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E6E397-3EF0-40B4-8922-6EAC005EE4D2}|Security_Prj\\Security_Prj.csproj|c:\\infinite_oct25\\mvc\\security_prj\\security_prj\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95E6E397-3EF0-40B4-8922-6EAC005EE4D2}|Security_Prj\\Security_Prj.csproj|solutionrelative:security_prj\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E6E397-3EF0-40B4-8922-6EAC005EE4D2}|Security_Prj\\Security_Prj.csproj|c:\\infinite_oct25\\mvc\\security_prj\\security_prj\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95E6E397-3EF0-40B4-8922-6EAC005EE4D2}|Security_Prj\\Security_Prj.csproj|solutionrelative:security_prj\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E6E397-3EF0-40B4-8922-6EAC005EE4D2}|Security_Prj\\Security_Prj.csproj|c:\\infinite_oct25\\mvc\\security_prj\\security_prj\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E6E397-3EF0-40B4-8922-6EAC005EE4D2}|Security_Prj\\Security_Prj.csproj|solutionrelative:security_prj\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E6E397-3EF0-40B4-8922-6EAC005EE4D2}|Security_Prj\\Security_Prj.csproj|c:\\infinite_oct25\\mvc\\security_prj\\security_prj\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E6E397-3EF0-40B4-8922-6EAC005EE4D2}|Security_Prj\\Security_Prj.csproj|solutionrelative:security_prj\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E6E397-3EF0-40B4-8922-6EAC005EE4D2}|Security_Prj\\Security_Prj.csproj|c:\\infinite_oct25\\mvc\\security_prj\\security_prj\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E6E397-3EF0-40B4-8922-6EAC005EE4D2}|Security_Prj\\Security_Prj.csproj|solutionrelative:security_prj\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Security_Prj\\Security_Prj\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Security_Prj\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\Security_Prj\\Security_Prj\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Security_Prj\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T05:00:25.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Security_Prj\\Security_Prj\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Security_Prj\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\Security_Prj\\Security_Prj\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Security_Prj\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T04:59:21.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Security_Prj\\Security_Prj\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Security_Prj\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\Security_Prj\\Security_Prj\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Security_Prj\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-12T04:59:17.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Security_Prj\\Security_Prj\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Security_Prj\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\Security_Prj\\Security_Prj\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Security_Prj\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAIQBAAAAAAAAAAAAAIsBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T04:53:55.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageViewModels.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Security_Prj\\Security_Prj\\Models\\ManageViewModels.cs",
+              "RelativeDocumentMoniker": "Security_Prj\\Models\\ManageViewModels.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\Security_Prj\\Security_Prj\\Models\\ManageViewModels.cs",
+              "RelativeToolTip": "Security_Prj\\Models\\ManageViewModels.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T04:52:38.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Security_Prj\\Security_Prj\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "Security_Prj\\Models\\AccountViewModels.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\Security_Prj\\Security_Prj\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "Security_Prj\\Models\\AccountViewModels.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T04:51:22.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\MVC\\Security_Prj\\Security_Prj\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "Security_Prj\\Models\\IdentityModels.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\MVC\\Security_Prj\\Security_Prj\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "Security_Prj\\Models\\IdentityModels.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T04:50:40.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
