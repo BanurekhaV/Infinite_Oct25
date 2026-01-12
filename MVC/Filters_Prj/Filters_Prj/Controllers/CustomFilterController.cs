@@ -10,6 +10,7 @@ namespace Filters_Prj.Controllers
     public class CustomFilterController : Controller
     {
         // GET: CustomFilter
+        [TrackExecutions]
         public string Index()
         {
              return "Index Action of Custom Controller Invoked";           

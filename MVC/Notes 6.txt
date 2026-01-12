@@ -8,7 +8,19 @@ Benefits :
   - Performance
 
 
+Security :
 
+Forms Authentication : 
+
+- include System.Web.Security;
+
+steps to implement
+ 1. Set the Authentication mode as Forms in the web.config file
+ 2. We need to use FormsAuthentication.SetAuthCookie for login
+ 3. We need to use FormsAuthentication.SignOut for logout
+
+
+For Sql:
 
 
 create database Authentication_MVC
