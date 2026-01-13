@@ -44,7 +44,10 @@ namespace WebApi_EF.Controllers
             {
                 db.SaveChanges();
             }
-            catch (DbUpdateConcurrencyException ex) { }
+            catch (DbUpdateConcurrencyException ex)
+            {
+                return NotFound();
+            }
             return StatusCode(HttpStatusCode.NoContent);
         }
 

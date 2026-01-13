@@ -87,3 +87,5 @@ C:\Infinite_Oct25\WebAPI\WebApi_EF\WebApi_EF\bin\EntityFramework.dll
 C:\Infinite_Oct25\WebAPI\WebApi_EF\WebApi_EF\bin\EntityFramework.SqlServer.dll
 C:\Infinite_Oct25\WebAPI\WebApi_EF\WebApi_EF\bin\EntityFramework.xml
 C:\Infinite_Oct25\WebAPI\WebApi_EF\WebApi_EF\bin\EntityFramework.SqlServer.xml
+C:\Infinite_Oct25\WebAPI\WebApi_EF\WebApi_EF\bin\Swashbuckle.Core.dll
+C:\Infinite_Oct25\WebAPI\WebApi_EF\WebApi_EF\bin\WebActivatorEx.dll
