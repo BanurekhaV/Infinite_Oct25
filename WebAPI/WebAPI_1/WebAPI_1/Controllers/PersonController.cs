@@ -35,7 +35,8 @@ namespace WebAPI_1.Controllers
             HttpResponseMessage response = Request.CreateResponse(HttpStatusCode.OK,personslist);
 
             //incase we want to send only response and no data
-          //  HttpResponseMessage r = new StringContent("Thanks");
+           // HttpResponseMessage r = new HttpResponseMessage(HttpStatusCode.NoContent);
+           // r.Content = null;
             return response;
         }
 
@@ -95,6 +96,23 @@ namespace WebAPI_1.Controllers
         {
             personslist.RemoveAt(pid - 1);
             return personslist;
+        }
+
+        //custom names to web methods
+        [HttpGet]
+      //  [Route("lp")]
+        public HttpResponseMessage LoadAllPersons() 
+        { 
+            var plist = personslist.ToList();
+            return Request.CreateResponse(HttpStatusCode.OK, plist);
+        }
+
+        [HttpGet]
+      //  [Route("lm")]
+        public HttpResponseMessage LoadAllMalePersons()
+        {
+            var plist = personslist.Where(p=>p.Gender == "Male").ToList();
+            return Request.CreateResponse(HttpStatusCode.OK,plist);
         }
     }
 
