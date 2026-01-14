@@ -35,15 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "WebApp_Core1",
+              "Title": "WebApp_Core1.csproj",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\WebApp_Core1\\WebApp_Core1\\WebApp_Core1.csproj",
               "RelativeDocumentMoniker": "WebApp_Core1\\WebApp_Core1.csproj",
               "ToolTip": "C:\\Infinite_Oct25\\Core\\WebApp_Core1\\WebApp_Core1\\WebApp_Core1.csproj",
               "RelativeToolTip": "WebApp_Core1\\WebApp_Core1.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-14T10:25:52.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T10:25:52.008Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "WebApp_Core1\\Program.cs",
               "ToolTip": "C:\\Infinite_Oct25\\Core\\WebApp_Core1\\WebApp_Core1\\Program.cs",
               "RelativeToolTip": "WebApp_Core1\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAvAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T07:52:39.593Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "RelativeToolTip": "WebApp_Core1\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-14T07:52:06.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T07:52:06.168Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "WebApp_Core1\\Properties\\launchSettings.json",
               "ViewState": "AQIAABAAAAAAAAAAAAAAABYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-14T07:51:04.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T07:51:04.267Z"
             }
           ]
         }

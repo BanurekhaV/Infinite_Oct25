@@ -15,7 +15,7 @@ namespace WebApp_Core1
             //1.//System.Diagnostics.Process.GetCurrentProcess().ProcessName);
 
             //2. read config info
-            string? Ourkeyvalue = builder.Configuration.GetValue<string>("OurNewKey","default");
+            //string? Ourkeyvalue = builder.Configuration.GetValue<string>("OurNewKey","default");
 
             //get the configuration value
             string? keyval = builder.Configuration["OurNewKey"];
