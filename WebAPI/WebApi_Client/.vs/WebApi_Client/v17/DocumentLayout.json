@@ -3,15 +3,31 @@
   "WorkspaceRootPath": "C:\\Infinite_Oct25\\WebAPI\\WebApi_Client\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5FB1A87-C251-429E-B4B6-F3D6D7B93512}|WebApi_Client\\WebApi_Client.csproj|c:\\infinite_oct25\\webapi\\webapi_client\\webapi_client\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FB1A87-C251-429E-B4B6-F3D6D7B93512}|WebApi_Client\\WebApi_Client.csproj|solutionrelative:webapi_client\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5FB1A87-C251-429E-B4B6-F3D6D7B93512}|WebApi_Client\\WebApi_Client.csproj|c:\\infinite_oct25\\webapi\\webapi_client\\webapi_client\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5FB1A87-C251-429E-B4B6-F3D6D7B93512}|WebApi_Client\\WebApi_Client.csproj|solutionrelative:webapi_client\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5FB1A87-C251-429E-B4B6-F3D6D7B93512}|WebApi_Client\\WebApi_Client.csproj|c:\\infinite_oct25\\webapi\\webapi_client\\webapi_client\\views\\product\\displayproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D5FB1A87-C251-429E-B4B6-F3D6D7B93512}|WebApi_Client\\WebApi_Client.csproj|C:\\Infinite_Oct25\\WebAPI\\WebApi_Client\\webapi_client\\views\\product\\displayproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D5FB1A87-C251-429E-B4B6-F3D6D7B93512}|WebApi_Client\\WebApi_Client.csproj|solutionrelative:webapi_client\\views\\product\\displayproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5FB1A87-C251-429E-B4B6-F3D6D7B93512}|WebApi_Client\\WebApi_Client.csproj|c:\\infinite_oct25\\webapi\\webapi_client\\webapi_client\\models\\mvcproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5FB1A87-C251-429E-B4B6-F3D6D7B93512}|WebApi_Client\\WebApi_Client.csproj|c:\\infinite_oct25\\webapi\\webapi_client\\webapi_client\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5FB1A87-C251-429E-B4B6-F3D6D7B93512}|WebApi_Client\\WebApi_Client.csproj|solutionrelative:webapi_client\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FB1A87-C251-429E-B4B6-F3D6D7B93512}|WebApi_Client\\WebApi_Client.csproj|c:\\infinite_oct25\\webapi\\webapi_client\\webapi_client\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5FB1A87-C251-429E-B4B6-F3D6D7B93512}|WebApi_Client\\WebApi_Client.csproj|solutionrelative:webapi_client\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FB1A87-C251-429E-B4B6-F3D6D7B93512}|WebApi_Client\\WebApi_Client.csproj|c:\\infinite_oct25\\webapi\\webapi_client\\webapi_client\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5FB1A87-C251-429E-B4B6-F3D6D7B93512}|WebApi_Client\\WebApi_Client.csproj|solutionrelative:webapi_client\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FB1A87-C251-429E-B4B6-F3D6D7B93512}|WebApi_Client\\WebApi_Client.csproj|C:\\Infinite_Oct25\\WebAPI\\WebApi_Client\\webapi_client\\models\\mvcproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5FB1A87-C251-429E-B4B6-F3D6D7B93512}|WebApi_Client\\WebApi_Client.csproj|solutionrelative:webapi_client\\models\\mvcproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +46,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\WebAPI\\WebApi_Client\\WebApi_Client\\Global.asax.cs",
+              "RelativeDocumentMoniker": "WebApi_Client\\Global.asax.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\WebAPI\\WebApi_Client\\WebApi_Client\\Global.asax.cs",
+              "RelativeToolTip": "WebApi_Client\\Global.asax.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T05:39:45.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\WebAPI\\WebApi_Client\\WebApi_Client\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApi_Client\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\WebAPI\\WebApi_Client\\WebApi_Client\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebApi_Client\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T05:25:31.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\WebAPI\\WebApi_Client\\WebApi_Client\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApi_Client\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\WebAPI\\WebApi_Client\\WebApi_Client\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "WebApi_Client\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T05:22:27.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\WebAPI\\WebApi_Client\\WebApi_Client\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApi_Client\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\WebAPI\\WebApi_Client\\WebApi_Client\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "WebApi_Client\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-14T04:46:05.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DisplayProducts.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\WebAPI\\WebApi_Client\\WebApi_Client\\Views\\Product\\DisplayProducts.cshtml",
               "RelativeDocumentMoniker": "WebApi_Client\\Views\\Product\\DisplayProducts.cshtml",
@@ -43,20 +111,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\WebAPI\\WebApi_Client\\WebApi_Client\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "WebApi_Client\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Infinite_Oct25\\WebAPI\\WebApi_Client\\WebApi_Client\\Controllers\\ProductController.cs",
               "RelativeToolTip": "WebApi_Client\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAABBAAAA",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAUwGMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T12:52:18.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "MVCProduct.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\WebAPI\\WebApi_Client\\WebApi_Client\\Models\\MVCProduct.cs",
               "RelativeDocumentMoniker": "WebApi_Client\\Models\\MVCProduct.cs",
@@ -64,8 +132,7 @@
               "RelativeToolTip": "WebApi_Client\\Models\\MVCProduct.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAAAUAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T12:47:13.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T12:47:13.828Z"
             }
           ]
         }

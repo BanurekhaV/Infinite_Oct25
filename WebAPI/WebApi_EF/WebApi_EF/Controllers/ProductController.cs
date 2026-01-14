@@ -33,7 +33,7 @@ namespace WebApi_EF.Controllers
         }
 
         [ResponseType(typeof(void))]
-        public IHttpActionResult PutProduct(int id, tblProduct product) 
+        public IHttpActionResult PutProduct(tblProduct product) 
         {
             if (!ModelState.IsValid)
             {
@@ -62,6 +62,19 @@ namespace WebApi_EF.Controllers
             db.tblProducts.Add(product);
             db.SaveChanges();
             return Ok("Success");
+        }
+
+        [ResponseType(typeof(tblProduct))]
+        public IHttpActionResult DeleteProduct(int id)
+        {
+            tblProduct product = db.tblProducts.Find(id);
+            if(product == null)
+            {
+                return NotFound();
+            }
+            db.tblProducts.Remove(product);
+            db.SaveChanges();
+            return Ok(product);
         }
     }
 }
