@@ -1,0 +1,66 @@
+ASP.Net Core :
+
+- is a modern, high performance web development framework for dotnet applications that can run on windows, Linux, macOs , Dockers
+
+LTS : Long Term Support (all even versions of the sdk)
+
+STS - Short/Standard Support (all odd versions of the sdk)
+
+Global.asax - Program.cs (is used to configure applications startup process)
+
+Web.config  - appSettings.json 
+
+HTTP Handlers/Modules - Middleware Components (request pipeline)
+
+
+.Net Core(Web Application Framework that runs on the .net Core ) vs 
+
+ ASP.Net Core (Is the runtime that supports types of applications like console, desktop, mobile, web, gaming etc..)
+
+
+
+Main Method of core does 4 things :
+
+1. Creating the Web Host and configuring services
+2. Building the Application
+3. Setting Up EndPoints, Routing and Middleware components                  
+4. Running the application
+
+CreateBuilder ()
+Set up the webserver IIS or Kestrel
+Host the application (Inprocess or OutofProcess)
+Logging 
+Configure the access
+Dependency injection Containers
+
+builder.Build()
+instance of a webapplication is built, end point setup, configure middleware and start handling request
+
+Run () - keeps running the application till we manually close the server instance
+
+Hosting : Refers to services that allow web applications to be accessed over the internet
+
+2 models are available 
+  1. Inprocess - runs inside the IIS Worker Process (w3wp.exe) - default hosting model
+  2. OutOfprocess  -- separate worker process (mostly kestrel) ( In this type of hosting, The webservers act as a reverse proxy that forwards the incoming http request to an internal webserver (kestrel)
+
+
+
+MiddleWare : basic building blocks of the request Pipeline viz. authentication, authorization,error handling, routing,logging etc
+
+We need to configure middlewares in the order that needs to executed by adding them to the Main()
+
+
+MapGet : are extension methods used for defining endpoint middleware and mapping incoming http request to a specific middleware
+  - designed only for GET request. responds only to get
+
+Map : is a generic method for all types of http request(get,post,put,delete)
+
+
+Use : extension method to run the middlewares in the pipeline
+
+Run : a terminal middleware used to stop any more executions 
+
+wwwroot folder : where static files are stored and served to the client (like css, html.javascripts, images, etc.).
+
+If we wish to change the name of the webroot folder, then we have to specify the property settings using WebApplicationOptions class instance
