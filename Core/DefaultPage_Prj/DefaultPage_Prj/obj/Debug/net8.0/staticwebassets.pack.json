@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Infinite_Oct25\\Core\\DefaultPage_Prj\\DefaultPage_Prj\\wwwroot\\CustomHtml.html",
+      "PackagePath": "staticwebassets\\CustomHtml.html"
+    },
+    {
+      "Id": "C:\\Infinite_Oct25\\Core\\DefaultPage_Prj\\DefaultPage_Prj\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DefaultPage_Prj.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DefaultPage_Prj.props",
+      "PackagePath": "build\\DefaultPage_Prj.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DefaultPage_Prj.props",
+      "PackagePath": "buildMultiTargeting\\DefaultPage_Prj.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DefaultPage_Prj.props",
+      "PackagePath": "buildTransitive\\DefaultPage_Prj.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

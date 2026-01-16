@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "NPq/Bzt6FPD73vwGPwXP0/wQlblrfAqU4RZiDSj3mPA=",
+  "Source": "DefaultPage_Prj",
+  "BasePath": "_content/DefaultPage_Prj",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DefaultPage_Prj\\wwwroot",
+      "Source": "DefaultPage_Prj",
+      "ContentRoot": "C:\\Infinite_Oct25\\Core\\DefaultPage_Prj\\DefaultPage_Prj\\wwwroot\\",
+      "BasePath": "_content/DefaultPage_Prj",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Infinite_Oct25\\Core\\DefaultPage_Prj\\DefaultPage_Prj\\wwwroot\\CustomHtml.html",
+      "SourceId": "DefaultPage_Prj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Infinite_Oct25\\Core\\DefaultPage_Prj\\DefaultPage_Prj\\wwwroot\\",
+      "BasePath": "_content/DefaultPage_Prj",
+      "RelativePath": "CustomHtml.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CustomHtml.html"
+    },
+    {
+      "Identity": "C:\\Infinite_Oct25\\Core\\DefaultPage_Prj\\DefaultPage_Prj\\wwwroot\\index.html",
+      "SourceId": "DefaultPage_Prj",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Infinite_Oct25\\Core\\DefaultPage_Prj\\DefaultPage_Prj\\wwwroot\\",
+      "BasePath": "_content/DefaultPage_Prj",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
