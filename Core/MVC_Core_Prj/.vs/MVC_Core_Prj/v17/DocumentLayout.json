@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Infinite_Oct25\\Core\\MVC_Core_Prj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4F8DEE-757A-4EE0-995A-BBED7E21DE03}|MVC_Core_Prj\\MVC_Core_Prj.csproj|c:\\infinite_oct25\\core\\mvc_core_prj\\mvc_core_prj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4F8DEE-757A-4EE0-995A-BBED7E21DE03}|MVC_Core_Prj\\MVC_Core_Prj.csproj|solutionrelative:mvc_core_prj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4F8DEE-757A-4EE0-995A-BBED7E21DE03}|MVC_Core_Prj\\MVC_Core_Prj.csproj|c:\\infinite_oct25\\core\\mvc_core_prj\\mvc_core_prj\\controllers\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4F8DEE-757A-4EE0-995A-BBED7E21DE03}|MVC_Core_Prj\\MVC_Core_Prj.csproj|solutionrelative:mvc_core_prj\\controllers\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4F8DEE-757A-4EE0-995A-BBED7E21DE03}|MVC_Core_Prj\\MVC_Core_Prj.csproj|c:\\infinite_oct25\\core\\mvc_core_prj\\mvc_core_prj\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4F8DEE-757A-4EE0-995A-BBED7E21DE03}|MVC_Core_Prj\\MVC_Core_Prj.csproj|solutionrelative:mvc_core_prj\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4F8DEE-757A-4EE0-995A-BBED7E21DE03}|MVC_Core_Prj\\MVC_Core_Prj.csproj|c:\\infinite_oct25\\core\\mvc_core_prj\\mvc_core_prj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4F8DEE-757A-4EE0-995A-BBED7E21DE03}|MVC_Core_Prj\\MVC_Core_Prj.csproj|solutionrelative:mvc_core_prj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4F8DEE-757A-4EE0-995A-BBED7E21DE03}|MVC_Core_Prj\\MVC_Core_Prj.csproj|c:\\infinite_oct25\\core\\mvc_core_prj\\mvc_core_prj\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED4F8DEE-757A-4EE0-995A-BBED7E21DE03}|MVC_Core_Prj\\MVC_Core_Prj.csproj|solutionrelative:mvc_core_prj\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4F8DEE-757A-4EE0-995A-BBED7E21DE03}|MVC_Core_Prj\\MVC_Core_Prj.csproj|c:\\infinite_oct25\\core\\mvc_core_prj\\mvc_core_prj\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED4F8DEE-757A-4EE0-995A-BBED7E21DE03}|MVC_Core_Prj\\MVC_Core_Prj.csproj|solutionrelative:mvc_core_prj\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4F8DEE-757A-4EE0-995A-BBED7E21DE03}|MVC_Core_Prj\\MVC_Core_Prj.csproj|c:\\infinite_oct25\\core\\mvc_core_prj\\mvc_core_prj\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4F8DEE-757A-4EE0-995A-BBED7E21DE03}|MVC_Core_Prj\\MVC_Core_Prj.csproj|solutionrelative:mvc_core_prj\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4F8DEE-757A-4EE0-995A-BBED7E21DE03}|MVC_Core_Prj\\MVC_Core_Prj.csproj|c:\\infinite_oct25\\core\\mvc_core_prj\\mvc_core_prj\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4F8DEE-757A-4EE0-995A-BBED7E21DE03}|MVC_Core_Prj\\MVC_Core_Prj.csproj|solutionrelative:mvc_core_prj\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4F8DEE-757A-4EE0-995A-BBED7E21DE03}|MVC_Core_Prj\\MVC_Core_Prj.csproj|c:\\infinite_oct25\\core\\mvc_core_prj\\mvc_core_prj\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4F8DEE-757A-4EE0-995A-BBED7E21DE03}|MVC_Core_Prj\\MVC_Core_Prj.csproj|solutionrelative:mvc_core_prj\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\MVC_Core_Prj\\MVC_Core_Prj\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_Core_Prj\\Program.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\MVC_Core_Prj\\MVC_Core_Prj\\Program.cs",
+              "RelativeToolTip": "MVC_Core_Prj\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T08:02:00.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\MVC_Core_Prj\\MVC_Core_Prj\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC_Core_Prj\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\MVC_Core_Prj\\MVC_Core_Prj\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "MVC_Core_Prj\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T08:01:30.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\MVC_Core_Prj\\MVC_Core_Prj\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Core_Prj\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\MVC_Core_Prj\\MVC_Core_Prj\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MVC_Core_Prj\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-16T08:00:32.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\MVC_Core_Prj\\MVC_Core_Prj\\Controllers\\Product.cs",
+              "RelativeDocumentMoniker": "MVC_Core_Prj\\Controllers\\Product.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\MVC_Core_Prj\\MVC_Core_Prj\\Controllers\\Product.cs",
+              "RelativeToolTip": "MVC_Core_Prj\\Controllers\\Product.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T07:30:39.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\MVC_Core_Prj\\MVC_Core_Prj\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MVC_Core_Prj\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\MVC_Core_Prj\\MVC_Core_Prj\\Services\\ProductService.cs",
+              "RelativeToolTip": "MVC_Core_Prj\\Services\\ProductService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAswDUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T07:17:04.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\MVC_Core_Prj\\MVC_Core_Prj\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "MVC_Core_Prj\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\MVC_Core_Prj\\MVC_Core_Prj\\Services\\IProductService.cs",
+              "RelativeToolTip": "MVC_Core_Prj\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T07:15:16.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\MVC_Core_Prj\\MVC_Core_Prj\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MVC_Core_Prj\\Models\\Product.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\MVC_Core_Prj\\MVC_Core_Prj\\Models\\Product.cs",
+              "RelativeToolTip": "MVC_Core_Prj\\Models\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T07:08:17.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\MVC_Core_Prj\\MVC_Core_Prj\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_Core_Prj\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\MVC_Core_Prj\\MVC_Core_Prj\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_Core_Prj\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvwoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T07:06:44.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\MVC_Core_Prj\\MVC_Core_Prj\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MVC_Core_Prj\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\MVC_Core_Prj\\MVC_Core_Prj\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MVC_Core_Prj\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T07:02:01.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
