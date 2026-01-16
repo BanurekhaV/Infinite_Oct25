@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Infinite_Oct25\\Core\\Core_DI_Prj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|c:\\infinite_oct25\\core\\core_di_prj\\core_di_prj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|solutionrelative:core_di_prj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|c:\\infinite_oct25\\core\\core_di_prj\\core_di_prj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|solutionrelative:core_di_prj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|c:\\infinite_oct25\\core\\core_di_prj\\core_di_prj\\models\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|solutionrelative:core_di_prj\\models\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|c:\\infinite_oct25\\core\\core_di_prj\\core_di_prj\\models\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|solutionrelative:core_di_prj\\models\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|c:\\infinite_oct25\\core\\core_di_prj\\core_di_prj\\core_di_prj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|solutionrelative:core_di_prj\\core_di_prj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|c:\\infinite_oct25\\core\\core_di_prj\\core_di_prj\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|solutionrelative:core_di_prj\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_DI_Prj\\Core_DI_Prj\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Core_DI_Prj\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_DI_Prj\\Core_DI_Prj\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Core_DI_Prj\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:14:53.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Core_DI_Prj",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_DI_Prj\\Core_DI_Prj\\Core_DI_Prj.csproj",
+              "RelativeDocumentMoniker": "Core_DI_Prj\\Core_DI_Prj.csproj",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_DI_Prj\\Core_DI_Prj\\Core_DI_Prj.csproj",
+              "RelativeToolTip": "Core_DI_Prj\\Core_DI_Prj.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-16T10:14:08.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_DI_Prj\\Core_DI_Prj\\Program.cs",
+              "RelativeDocumentMoniker": "Core_DI_Prj\\Program.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_DI_Prj\\Core_DI_Prj\\Program.cs",
+              "RelativeToolTip": "Core_DI_Prj\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:11:25.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_DI_Prj\\Core_DI_Prj\\Models\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Core_DI_Prj\\Models\\StudentRepository.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_DI_Prj\\Core_DI_Prj\\Models\\StudentRepository.cs",
+              "RelativeToolTip": "Core_DI_Prj\\Models\\StudentRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:59:32.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_DI_Prj\\Core_DI_Prj\\Models\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Core_DI_Prj\\Models\\IStudentRepository.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_DI_Prj\\Core_DI_Prj\\Models\\IStudentRepository.cs",
+              "RelativeToolTip": "Core_DI_Prj\\Models\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:58:42.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_DI_Prj\\Core_DI_Prj\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Core_DI_Prj\\Models\\Student.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_DI_Prj\\Core_DI_Prj\\Models\\Student.cs",
+              "RelativeToolTip": "Core_DI_Prj\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:56:10.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

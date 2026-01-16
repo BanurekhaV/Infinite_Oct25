@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Core_DI_Prj.props" />
+</Project>

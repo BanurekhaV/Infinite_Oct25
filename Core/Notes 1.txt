@@ -41,14 +41,14 @@ Run () - keeps running the application till we manually close the server instanc
 Hosting : Refers to services that allow web applications to be accessed over the internet
 
 2 models are available 
-  1. Inprocess - runs inside the IIS Worker Process (w3wp.exe) - default hosting model
+  1. Inprocess - Aspnet core appln. runs inside the IIS Worker Process (w3wp.exe) - default hosting model
   2. OutOfprocess  -- separate worker process (mostly kestrel) ( In this type of hosting, The webservers act as a reverse proxy that forwards the incoming http request to an internal webserver (kestrel)
 
 
 
-MiddleWare : basic building blocks of the request Pipeline viz. authentication, authorization,error handling, routing,logging etc
+MiddleWare : basic building blocks of the request Pipeline viz. authentication, authorization, error handling, routing, logging etc
 
-We need to configure middlewares in the order that needs to executed by adding them to the Main()
+We need to configure middlewares in the order, that needs to be executed by adding them to the Main()
 
 
 MapGet : are extension methods used for defining endpoint middleware and mapping incoming http request to a specific middleware
