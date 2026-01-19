@@ -13,11 +13,23 @@ namespace Core_OtherConcepts.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        [Route("")]
+        [Route("MyHome")]
+        [Route("MyHome/Index")]
+        public string Index()
         {
-            return View();
+            return "This is Index of Home";
         }
+        //public IActionResult Index()
+        //{
+        //    return View();
+        //}
 
+        [Route("Home/Details/{id=5}")]
+        public string Details(int id)
+        {
+            return "Details of Home " + id;
+        }
         public IActionResult Privacy()
         {
             return View();

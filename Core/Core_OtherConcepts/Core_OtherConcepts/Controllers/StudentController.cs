@@ -12,6 +12,21 @@ namespace Core_OtherConcepts.Controllers
               new Student{Id = 3, Name= "Surya"},
         };
 
+
+        //1. to understand tag helpers
+
+        public ViewResult Index()
+        {
+            return View(studentsList);
+        }
+        //2. Std details
+        public ViewResult StdDetails(int id)
+        {
+            var stddata = studentsList.FirstOrDefault(x => x.Id == id);
+            return View(stddata);
+        }
+
+        //3. the below for attribute routing
         [Route("Student/All")]
         public List<Student> GetAllStudents()
         {
