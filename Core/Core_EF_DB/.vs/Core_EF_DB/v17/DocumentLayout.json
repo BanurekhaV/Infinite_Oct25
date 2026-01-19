@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{D31CB54C-7DD4-44A8-AC27-2171EB30B4CB}|Core_EF_DB\\Core_EF_DB.csproj|solutionrelative:core_ef_db\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Infinite_Oct25\\Core\\Core_EF_DB\\Core_EF_DB\\Models\\NorthwindContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core_EF_DB\\Models\\NorthwindContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D31CB54C-7DD4-44A8-AC27-2171EB30B4CB}|Core_EF_DB\\Core_EF_DB.csproj|c:\\infinite_oct25\\core\\core_ef_db\\core_ef_db\\views\\region\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D31CB54C-7DD4-44A8-AC27-2171EB30B4CB}|Core_EF_DB\\Core_EF_DB.csproj|solutionrelative:core_ef_db\\views\\region\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -29,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D31CB54C-7DD4-44A8-AC27-2171EB30B4CB}|Core_EF_DB\\Core_EF_DB.csproj|c:\\infinite_oct25\\core\\core_ef_db\\core_ef_db\\views\\region\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D31CB54C-7DD4-44A8-AC27-2171EB30B4CB}|Core_EF_DB\\Core_EF_DB.csproj|solutionrelative:core_ef_db\\views\\region\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D31CB54C-7DD4-44A8-AC27-2171EB30B4CB}|Core_EF_DB\\Core_EF_DB.csproj|c:\\infinite_oct25\\core\\core_ef_db\\core_ef_db\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D31CB54C-7DD4-44A8-AC27-2171EB30B4CB}|Core_EF_DB\\Core_EF_DB.csproj|solutionrelative:core_ef_db\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_DB\\Core_EF_DB\\Views\\Region\\Edit.cshtml",
               "RelativeDocumentMoniker": "Core_EF_DB\\Views\\Region\\Edit.cshtml",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "Core_EF_DB\\Views\\Region\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-16T11:46:43.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T11:46:43.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_DB\\Core_EF_DB\\Views\\Region\\Create.cshtml",
               "RelativeDocumentMoniker": "Core_EF_DB\\Views\\Region\\Create.cshtml",
@@ -67,12 +66,11 @@
               "RelativeToolTip": "Core_EF_DB\\Views\\Region\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-16T11:38:47.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T11:38:47.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_DB\\Core_EF_DB\\Views\\Region\\Index.cshtml",
               "RelativeDocumentMoniker": "Core_EF_DB\\Views\\Region\\Index.cshtml",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "Core_EF_DB\\Views\\Region\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-16T11:37:59.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T11:37:59.264Z"
             },
             {
               "$type": "Document",
@@ -93,12 +90,11 @@
               "RelativeToolTip": "Core_EF_DB\\Controllers\\RegionController.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAAkwCgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T11:19:36.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T11:19:36.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_DB\\Core_EF_DB\\appsettings.json",
               "RelativeDocumentMoniker": "Core_EF_DB\\appsettings.json",
@@ -106,12 +102,11 @@
               "RelativeToolTip": "Core_EF_DB\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-16T11:09:15.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T11:09:15.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "NorthwindContext.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_DB\\Core_EF_DB\\Models\\NorthwindContext.cs",
               "RelativeDocumentMoniker": "Core_EF_DB\\Models\\NorthwindContext.cs",
@@ -119,12 +114,11 @@
               "RelativeToolTip": "Core_EF_DB\\Models\\NorthwindContext.cs",
               "ViewState": "AQIAAEEAAAAAAAAAAAA7wEcAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T11:07:28.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T11:07:28.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_DB\\Core_EF_DB\\Program.cs",
               "RelativeDocumentMoniker": "Core_EF_DB\\Program.cs",
@@ -132,8 +126,7 @@
               "RelativeToolTip": "Core_EF_DB\\Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAArwA8AAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T10:57:03.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T10:57:03.085Z"
             }
           ]
         }

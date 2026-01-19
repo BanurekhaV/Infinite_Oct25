@@ -18,7 +18,10 @@ namespace Core_DI_Prj.Controllers
 
         public JsonResult StudentDetails(int id)
         {
+            // StudentRepository sr = new StudentRepository();
+           // Student? student = sr.Get(id);
             Student? student = _studentRepository?.Get(id);
+            
             return Json(student);
         }
            

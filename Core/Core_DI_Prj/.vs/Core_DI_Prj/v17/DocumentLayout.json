@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Infinite_Oct25\\Core\\Core_DI_Prj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|c:\\infinite_oct25\\core\\core_di_prj\\core_di_prj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|solutionrelative:core_di_prj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|c:\\infinite_oct25\\core\\core_di_prj\\core_di_prj\\models\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|solutionrelative:core_di_prj\\models\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|c:\\infinite_oct25\\core\\core_di_prj\\core_di_prj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|solutionrelative:core_di_prj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|c:\\infinite_oct25\\core\\core_di_prj\\core_di_prj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|solutionrelative:core_di_prj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|c:\\infinite_oct25\\core\\core_di_prj\\core_di_prj\\models\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|solutionrelative:core_di_prj\\models\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|c:\\infinite_oct25\\core\\core_di_prj\\core_di_prj\\models\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|solutionrelative:core_di_prj\\models\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|c:\\infinite_oct25\\core\\core_di_prj\\core_di_prj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|solutionrelative:core_di_prj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6630E08-0681-4A84-B0DE-36A306DAE913}|Core_DI_Prj\\Core_DI_Prj.csproj|c:\\infinite_oct25\\core\\core_di_prj\\core_di_prj\\core_di_prj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,13 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_DI_Prj\\Core_DI_Prj\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Core_DI_Prj\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_DI_Prj\\Core_DI_Prj\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Core_DI_Prj\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBQAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T10:14:53.745Z",
               "EditorCaption": ""
@@ -56,19 +56,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Core_DI_Prj",
+              "Title": "Core_DI_Prj.csproj",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_DI_Prj\\Core_DI_Prj\\Core_DI_Prj.csproj",
               "RelativeDocumentMoniker": "Core_DI_Prj\\Core_DI_Prj.csproj",
               "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_DI_Prj\\Core_DI_Prj\\Core_DI_Prj.csproj",
               "RelativeToolTip": "Core_DI_Prj\\Core_DI_Prj.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-16T10:14:08.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T10:14:08.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_DI_Prj\\Core_DI_Prj\\Program.cs",
               "RelativeDocumentMoniker": "Core_DI_Prj\\Program.cs",
@@ -76,18 +75,17 @@
               "RelativeToolTip": "Core_DI_Prj\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T10:11:25.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T10:11:25.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_DI_Prj\\Core_DI_Prj\\Models\\StudentRepository.cs",
               "RelativeDocumentMoniker": "Core_DI_Prj\\Models\\StudentRepository.cs",
               "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_DI_Prj\\Core_DI_Prj\\Models\\StudentRepository.cs",
               "RelativeToolTip": "Core_DI_Prj\\Models\\StudentRepository.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAADwvxEAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T09:59:32.563Z",
               "EditorCaption": ""
@@ -115,8 +113,7 @@
               "RelativeToolTip": "Core_DI_Prj\\Models\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T09:56:10.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T09:56:10.554Z"
             }
           ]
         }
