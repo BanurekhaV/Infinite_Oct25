@@ -11,10 +11,10 @@ S/w engg principles :
  7. YAGNI - You Aren't Gonna need it. (Avoid features/functions that are not required)
  8. SOLID : are design principles
 
-S 
-O
-L
-I
+S  - SRP
+O  - OCP
+L  - LSP
+I  - 
 D Dependency Inversion Principle : High level modules/classes (consumers/clients) should not depend on low level class/modules(implementing classes). Both should depend on an Abstraction
 
 
@@ -25,3 +25,26 @@ injector class -  an Ioc which injects the dependency object into any 3 location
 
 EF Core Code First
 
+2. Code First Approach :
+
+-Create an MVC application
+-Add Model class/es to the models folder
+-Add a Connection string in appsettings.json file
+-Create a Context Class and make an entry of the model classes
+-Register the DbContext class along with Sqlservices in the program.cs file
+-Build once
+-in the PM Console, migrate using
+   Add-Migration "<name>"
+   Update-database
+Then you can create respective controllers and perform actions
+
+3. Routing
+
+4. Binding without Model
+
+IFormCollection : Keys, ContainsKey, TryGetvalue(key, out value)
+
+
+Tag Helpers : <input asp-for="Empid" class="form-control />
+
+@Html.TesxtBoxFor(m=> m.Empid, new{@ class = "form-control"})

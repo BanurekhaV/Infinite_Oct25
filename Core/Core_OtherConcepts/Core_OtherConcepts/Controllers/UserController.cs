@@ -37,24 +37,25 @@ namespace Core_OtherConcepts.Controllers
             var keys = frmc.Keys;
 
             //check if a key is existing
-            if(frmc.ContainsKey("UserName") && frmc.ContainsKey("Email"))
+            if (frmc.ContainsKey("UserName") && frmc.ContainsKey("Email"))
             {
-                if(frmc.TryGetValue("UserName", out StringValues username) &&
-                    frmc.TryGetValue("Email",out StringValues email))
+                if (frmc.TryGetValue("UserName", out StringValues username) &&
+                    frmc.TryGetValue("Email", out StringValues email))
                 {
-                    ViewBag.Message= $"User Created : UserName : {username}, User Email :{email} ";
+                    ViewBag.Message = $"User Created : UserName : {username}, User Email :{email} ";
                 }
                 else
                 {
                     ViewBag.Message = "UserName or Email not Found";
-                }                             
+                }
             }
             else
             {
-                ViewBag.Message = "Forms does not contain keys";
+                ViewBag.Message = "Form does not contain keys";
             }
             return View("Index");
-      
-        }     }
+
+        }
     }
+}
 

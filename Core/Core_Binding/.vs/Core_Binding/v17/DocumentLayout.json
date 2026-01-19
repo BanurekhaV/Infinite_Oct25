@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Infinite_Oct25\\Core\\Core_Binding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|c:\\infinite_oct25\\core\\core_binding\\core_binding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|solutionrelative:core_binding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|c:\\infinite_oct25\\core\\core_binding\\core_binding\\custombindings\\commaseperatedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|solutionrelative:core_binding\\custombindings\\commaseperatedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|c:\\infinite_oct25\\core\\core_binding\\core_binding\\custombindings\\commaseparatedprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|solutionrelative:core_binding\\custombindings\\commaseparatedprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|c:\\infinite_oct25\\core\\core_binding\\core_binding\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|solutionrelative:core_binding\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Core_Binding\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Core_Binding\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvxUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T12:55:59.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\Program.cs",
+              "RelativeDocumentMoniker": "Core_Binding\\Program.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\Program.cs",
+              "RelativeToolTip": "Core_Binding\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T12:54:02.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommaSeparatedprovider.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\CustomBindings\\CommaSeparatedprovider.cs",
+              "RelativeDocumentMoniker": "Core_Binding\\CustomBindings\\CommaSeparatedprovider.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\CustomBindings\\CommaSeparatedprovider.cs",
+              "RelativeToolTip": "Core_Binding\\CustomBindings\\CommaSeparatedprovider.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T12:50:05.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommaSeperatedModel.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\CustomBindings\\CommaSeperatedModel.cs",
+              "RelativeDocumentMoniker": "Core_Binding\\CustomBindings\\CommaSeperatedModel.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\CustomBindings\\CommaSeperatedModel.cs",
+              "RelativeToolTip": "Core_Binding\\CustomBindings\\CommaSeperatedModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T12:42:49.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

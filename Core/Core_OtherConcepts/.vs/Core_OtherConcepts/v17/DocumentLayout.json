@@ -3,36 +3,20 @@
   "WorkspaceRootPath": "C:\\Infinite_Oct25\\Core\\Core_OtherConcepts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60F4984A-8799-4B75-9844-35C1B2B74C49}|Core_OtherConcepts\\Core_OtherConcepts.csproj|c:\\infinite_oct25\\core\\core_otherconcepts\\core_otherconcepts\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60F4984A-8799-4B75-9844-35C1B2B74C49}|Core_OtherConcepts\\Core_OtherConcepts.csproj|solutionrelative:core_otherconcepts\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60F4984A-8799-4B75-9844-35C1B2B74C49}|Core_OtherConcepts\\Core_OtherConcepts.csproj|c:\\infinite_oct25\\core\\core_otherconcepts\\core_otherconcepts\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60F4984A-8799-4B75-9844-35C1B2B74C49}|Core_OtherConcepts\\Core_OtherConcepts.csproj|solutionrelative:core_otherconcepts\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{60F4984A-8799-4B75-9844-35C1B2B74C49}|Core_OtherConcepts\\Core_OtherConcepts.csproj|c:\\infinite_oct25\\core\\core_otherconcepts\\core_otherconcepts\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{60F4984A-8799-4B75-9844-35C1B2B74C49}|Core_OtherConcepts\\Core_OtherConcepts.csproj|solutionrelative:core_otherconcepts\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60F4984A-8799-4B75-9844-35C1B2B74C49}|Core_OtherConcepts\\Core_OtherConcepts.csproj|c:\\infinite_oct25\\core\\core_otherconcepts\\core_otherconcepts\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60F4984A-8799-4B75-9844-35C1B2B74C49}|Core_OtherConcepts\\Core_OtherConcepts.csproj|solutionrelative:core_otherconcepts\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60F4984A-8799-4B75-9844-35C1B2B74C49}|Core_OtherConcepts\\Core_OtherConcepts.csproj|c:\\infinite_oct25\\core\\core_otherconcepts\\core_otherconcepts\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60F4984A-8799-4B75-9844-35C1B2B74C49}|Core_OtherConcepts\\Core_OtherConcepts.csproj|solutionrelative:core_otherconcepts\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60F4984A-8799-4B75-9844-35C1B2B74C49}|Core_OtherConcepts\\Core_OtherConcepts.csproj|c:\\infinite_oct25\\core\\core_otherconcepts\\core_otherconcepts\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F4984A-8799-4B75-9844-35C1B2B74C49}|Core_OtherConcepts\\Core_OtherConcepts.csproj|solutionrelative:core_otherconcepts\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60F4984A-8799-4B75-9844-35C1B2B74C49}|Core_OtherConcepts\\Core_OtherConcepts.csproj|c:\\infinite_oct25\\core\\core_otherconcepts\\core_otherconcepts\\views\\user\\submitform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{60F4984A-8799-4B75-9844-35C1B2B74C49}|Core_OtherConcepts\\Core_OtherConcepts.csproj|solutionrelative:core_otherconcepts\\views\\user\\submitform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60F4984A-8799-4B75-9844-35C1B2B74C49}|Core_OtherConcepts\\Core_OtherConcepts.csproj|c:\\infinite_oct25\\core\\core_otherconcepts\\core_otherconcepts\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60F4984A-8799-4B75-9844-35C1B2B74C49}|Core_OtherConcepts\\Core_OtherConcepts.csproj|solutionrelative:core_otherconcepts\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60F4984A-8799-4B75-9844-35C1B2B74C49}|Core_OtherConcepts\\Core_OtherConcepts.csproj|c:\\infinite_oct25\\core\\core_otherconcepts\\core_otherconcepts\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60F4984A-8799-4B75-9844-35C1B2B74C49}|Core_OtherConcepts\\Core_OtherConcepts.csproj|solutionrelative:core_otherconcepts\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60F4984A-8799-4B75-9844-35C1B2B74C49}|Core_OtherConcepts\\Core_OtherConcepts.csproj|c:\\infinite_oct25\\core\\core_otherconcepts\\core_otherconcepts\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F4984A-8799-4B75-9844-35C1B2B74C49}|Core_OtherConcepts\\Core_OtherConcepts.csproj|solutionrelative:core_otherconcepts\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60F4984A-8799-4B75-9844-35C1B2B74C49}|Core_OtherConcepts\\Core_OtherConcepts.csproj|c:\\infinite_oct25\\core\\core_otherconcepts\\core_otherconcepts\\views\\student\\stddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,84 +38,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_OtherConcepts\\Core_OtherConcepts\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Core_OtherConcepts\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_OtherConcepts\\Core_OtherConcepts\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Core_OtherConcepts\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T12:16:42.931Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_OtherConcepts\\Core_OtherConcepts\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Core_OtherConcepts\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_OtherConcepts\\Core_OtherConcepts\\Controllers\\UserController.cs",
               "RelativeToolTip": "Core_OtherConcepts\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAAADgAAAAGAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T11:10:23.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_OtherConcepts\\Core_OtherConcepts\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Core_OtherConcepts\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_OtherConcepts\\Core_OtherConcepts\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Core_OtherConcepts\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-19T10:22:58.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_OtherConcepts\\Core_OtherConcepts\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Core_OtherConcepts\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_OtherConcepts\\Core_OtherConcepts\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Core_OtherConcepts\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABUAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T08:01:30.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "SubmitForm.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_OtherConcepts\\Core_OtherConcepts\\Views\\User\\SubmitForm.cshtml",
               "RelativeDocumentMoniker": "Core_OtherConcepts\\Views\\User\\SubmitForm.cshtml",
               "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_OtherConcepts\\Core_OtherConcepts\\Views\\User\\SubmitForm.cshtml",
               "RelativeToolTip": "Core_OtherConcepts\\Views\\User\\SubmitForm.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAJAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABkAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-19T11:19:52.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_OtherConcepts\\Core_OtherConcepts\\Views\\User\\Index.cshtml",
-              "RelativeDocumentMoniker": "Core_OtherConcepts\\Views\\User\\Index.cshtml",
-              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_OtherConcepts\\Core_OtherConcepts\\Views\\User\\Index.cshtml",
-              "RelativeToolTip": "Core_OtherConcepts\\Views\\User\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-19T11:26:07.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_OtherConcepts\\Core_OtherConcepts\\Models\\User.cs",
               "RelativeDocumentMoniker": "Core_OtherConcepts\\Models\\User.cs",
@@ -139,38 +93,11 @@
               "RelativeToolTip": "Core_OtherConcepts\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T11:07:40.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_OtherConcepts\\Core_OtherConcepts\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Core_OtherConcepts\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_OtherConcepts\\Core_OtherConcepts\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Core_OtherConcepts\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBIAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T10:05:54.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T11:07:40.965Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_OtherConcepts\\Core_OtherConcepts\\Views\\Student\\Index.cshtml",
-              "RelativeDocumentMoniker": "Core_OtherConcepts\\Views\\Student\\Index.cshtml",
-              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_OtherConcepts\\Core_OtherConcepts\\Views\\Student\\Index.cshtml",
-              "RelativeToolTip": "Core_OtherConcepts\\Views\\Student\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-19T10:34:03.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "StdDetails.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_OtherConcepts\\Core_OtherConcepts\\Views\\Student\\StdDetails.cshtml",
               "RelativeDocumentMoniker": "Core_OtherConcepts\\Views\\Student\\StdDetails.cshtml",
@@ -178,12 +105,11 @@
               "RelativeToolTip": "Core_OtherConcepts\\Views\\Student\\StdDetails.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-19T10:42:22.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T10:42:22.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_OtherConcepts\\Core_OtherConcepts\\Program.cs",
               "RelativeDocumentMoniker": "Core_OtherConcepts\\Program.cs",
@@ -191,12 +117,11 @@
               "RelativeToolTip": "Core_OtherConcepts\\Program.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAkwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T08:11:13.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T08:11:13.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_OtherConcepts\\Core_OtherConcepts\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Core_OtherConcepts\\Models\\Student.cs",
@@ -204,8 +129,7 @@
               "RelativeToolTip": "Core_OtherConcepts\\Models\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T07:57:38.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T07:57:38.765Z"
             }
           ]
         }
