@@ -1,0 +1,27 @@
+S/w engg principles :
+ 1. Separation of concerns
+ 2. Modularization
+ 3. Abstractions (what rather than how)
+ 4. Anticipation of Changes
+     - Generality (de-coupled code)
+     - Incremental Development
+     - Consistency 
+ 5. DRY - Do not repeat yourselves
+ 6. KISS - Keep it Simple Stupid
+ 7. YAGNI - You Aren't Gonna need it. (Avoid features/functions that are not required)
+ 8. SOLID : are design principles
+
+S 
+O
+L
+I
+D Dependency Inversion Principle : High level modules/classes (consumers/clients) should not depend on low level class/modules(implementing classes). Both should depend on an Abstraction
+
+
+client class  -  dependent
+service class -  dependency
+injector class -  an Ioc which injects the dependency object into any 3 locations of the dependent object
+  1. constructor, 2. ActionMethod, 3. Properties
+
+EF Core Code First
+

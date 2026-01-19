@@ -6,3 +6,12 @@
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
+<hr/>
+@{
+    var employee = ViewData["emp"] as Core_EF_Codefirst.Models.Employee;
+}
+<div>
+  EmployeeId : @employee?.EmployeeId
+  Name       : @employee?.Name
+  Department : @employee?.DepartmentId
+</div> 

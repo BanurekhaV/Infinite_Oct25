@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|c:\\infinite_oct25\\core\\core_ef_codefirst\\core_ef_codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|solutionrelative:core_ef_codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|c:\\infinite_oct25\\core\\core_ef_codefirst\\core_ef_codefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|solutionrelative:core_ef_codefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|c:\\infinite_oct25\\core\\core_ef_codefirst\\core_ef_codefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|solutionrelative:core_ef_codefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|c:\\infinite_oct25\\core\\core_ef_codefirst\\core_ef_codefirst\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|solutionrelative:core_ef_codefirst\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|c:\\infinite_oct25\\core\\core_ef_codefirst\\core_ef_codefirst\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|solutionrelative:core_ef_codefirst\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|c:\\infinite_oct25\\core\\core_ef_codefirst\\core_ef_codefirst\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|solutionrelative:core_ef_codefirst\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|c:\\infinite_oct25\\core\\core_ef_codefirst\\core_ef_codefirst\\views\\employee\\deleteemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|solutionrelative:core_ef_codefirst\\views\\employee\\deleteemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|c:\\infinite_oct25\\core\\core_ef_codefirst\\core_ef_codefirst\\views\\employee\\getempbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|solutionrelative:core_ef_codefirst\\views\\employee\\getempbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|c:\\infinite_oct25\\core\\core_ef_codefirst\\core_ef_codefirst\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|solutionrelative:core_ef_codefirst\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|c:\\infinite_oct25\\core\\core_ef_codefirst\\core_ef_codefirst\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|solutionrelative:core_ef_codefirst\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|c:\\infinite_oct25\\core\\core_ef_codefirst\\core_ef_codefirst\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|solutionrelative:core_ef_codefirst\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|c:\\infinite_oct25\\core\\core_ef_codefirst\\core_ef_codefirst\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|solutionrelative:core_ef_codefirst\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|c:\\infinite_oct25\\core\\core_ef_codefirst\\core_ef_codefirst\\services\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,24 +51,12 @@
       "RelativeMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|solutionrelative:core_ef_codefirst\\migrations\\20260119053448_initial setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|c:\\infinite_oct25\\core\\core_ef_codefirst\\core_ef_codefirst\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|solutionrelative:core_ef_codefirst\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|c:\\infinite_oct25\\core\\core_ef_codefirst\\core_ef_codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|solutionrelative:core_ef_codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|c:\\infinite_oct25\\core\\core_ef_codefirst\\core_ef_codefirst\\services\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|solutionrelative:core_ef_codefirst\\services\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|c:\\infinite_oct25\\core\\core_ef_codefirst\\core_ef_codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|solutionrelative:core_ef_codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|c:\\infinite_oct25\\core\\core_ef_codefirst\\core_ef_codefirst\\models\\emp_deptcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4851D2AB-A4D0-42BE-94D8-76F3227FB6B1}|Core_EF_Codefirst\\Core_EF_Codefirst.csproj|solutionrelative:core_ef_codefirst\\models\\emp_deptcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,33 +74,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\appsettings.json",
-              "RelativeDocumentMoniker": "Core_EF_Codefirst\\appsettings.json",
-              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\appsettings.json",
-              "RelativeToolTip": "Core_EF_Codefirst\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-19T05:20:43.777Z",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Core_EF_Codefirst\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Core_EF_Codefirst\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T07:47:17.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Core_EF_Codefirst\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Core_EF_Codefirst\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:44:41.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteEmployee.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Views\\Employee\\DeleteEmployee.cshtml",
+              "RelativeDocumentMoniker": "Core_EF_Codefirst\\Views\\Employee\\DeleteEmployee.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Views\\Employee\\DeleteEmployee.cshtml",
+              "RelativeToolTip": "Core_EF_Codefirst\\Views\\Employee\\DeleteEmployee.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T07:31:51.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetEmpById.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Views\\Employee\\GetEmpById.cshtml",
+              "RelativeDocumentMoniker": "Core_EF_Codefirst\\Views\\Employee\\GetEmpById.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Views\\Employee\\GetEmpById.cshtml",
+              "RelativeToolTip": "Core_EF_Codefirst\\Views\\Employee\\GetEmpById.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T07:31:11.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Core_EF_Codefirst\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "Core_EF_Codefirst\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAOiAwBsAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T05:53:20.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "IEmployeeRepository.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Services\\IEmployeeRepository.cs",
               "RelativeDocumentMoniker": "Core_EF_Codefirst\\Services\\IEmployeeRepository.cs",
@@ -96,25 +147,24 @@
               "RelativeToolTip": "Core_EF_Codefirst\\Services\\IEmployeeRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T05:38:49.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T05:38:49.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Emp_DeptContext.cs",
-              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Models\\Emp_DeptContext.cs",
-              "RelativeDocumentMoniker": "Core_EF_Codefirst\\Models\\Emp_DeptContext.cs",
-              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Models\\Emp_DeptContext.cs",
-              "RelativeToolTip": "Core_EF_Codefirst\\Models\\Emp_DeptContext.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBYAAAAFAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Program.cs",
+              "RelativeDocumentMoniker": "Core_EF_Codefirst\\Program.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Program.cs",
+              "RelativeToolTip": "Core_EF_Codefirst\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwBkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T05:12:00.333Z",
+              "WhenOpened": "2026-01-19T05:05:33.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Core_EF_Codefirst\\Models\\Employee.cs",
@@ -127,20 +177,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "Core_EF_Codefirst\\Models\\Department.cs",
-              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Models\\Department.cs",
-              "RelativeToolTip": "Core_EF_Codefirst\\Models\\Department.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T05:10:31.551Z",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Core_EF_Codefirst\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Core_EF_Codefirst\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T06:03:57.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Core_EF_Codefirst\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "Core_EF_Codefirst\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T07:35:30.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AddEmployee.cshtml",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Views\\Employee\\AddEmployee.cshtml",
               "RelativeDocumentMoniker": "Core_EF_Codefirst\\Views\\Employee\\AddEmployee.cshtml",
@@ -148,12 +211,11 @@
               "RelativeToolTip": "Core_EF_Codefirst\\Views\\Employee\\AddEmployee.cshtml",
               "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-19T06:24:01.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T06:24:01.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Services\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "Core_EF_Codefirst\\Services\\EmployeeRepository.cs",
@@ -161,12 +223,23 @@
               "RelativeToolTip": "Core_EF_Codefirst\\Services\\EmployeeRepository.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAABAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T05:41:39.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T05:41:39.223Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\appsettings.json",
+              "RelativeDocumentMoniker": "Core_EF_Codefirst\\appsettings.json",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\appsettings.json",
+              "RelativeToolTip": "Core_EF_Codefirst\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-19T05:20:43.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "20260119053448_Initial setup.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Migrations\\20260119053448_Initial setup.cs",
               "RelativeDocumentMoniker": "Core_EF_Codefirst\\Migrations\\20260119053448_Initial setup.cs",
@@ -174,34 +247,7 @@
               "RelativeToolTip": "Core_EF_Codefirst\\Migrations\\20260119053448_Initial setup.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T06:28:27.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Program.cs",
-              "RelativeDocumentMoniker": "Core_EF_Codefirst\\Program.cs",
-              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Program.cs",
-              "RelativeToolTip": "Core_EF_Codefirst\\Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T05:05:33.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "Core_EF_Codefirst\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_EF_Codefirst\\Core_EF_Codefirst\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "Core_EF_Codefirst\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAADIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-19T06:03:57.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T06:28:27.566Z"
             }
           ]
         }

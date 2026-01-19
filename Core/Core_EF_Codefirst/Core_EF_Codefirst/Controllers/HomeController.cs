@@ -15,6 +15,15 @@ namespace Core_EF_Codefirst.Controllers
 
         public IActionResult Index()
         {
+            Employee employee = new Employee()
+            {
+                EmployeeId = 1,
+                Name = "Babitha",
+                Email = "boby@email.com",
+                Position = "Quality Engg",
+                DepartmentId = 2,
+            };
+            ViewData["emp"] = employee;
             return View();
         }
 
