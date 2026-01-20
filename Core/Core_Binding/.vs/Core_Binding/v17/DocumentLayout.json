@@ -78,7 +78,7 @@
               "RelativeDocumentMoniker": "Core_Binding\\Models\\DateRange.cs",
               "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\Models\\DateRange.cs",
               "RelativeToolTip": "Core_Binding\\Models\\DateRange.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T04:54:54.065Z",
               "EditorCaption": ""
@@ -106,8 +106,7 @@
               "RelativeToolTip": "Core_Binding\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T12:54:02.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T12:54:02.794Z"
             },
             {
               "$type": "Document",
@@ -132,8 +131,7 @@
               "RelativeToolTip": "Core_Binding\\CustomBindings\\CommaSeperatedModel.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAABUAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T12:42:49.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T12:42:49.683Z"
             }
           ]
         }
