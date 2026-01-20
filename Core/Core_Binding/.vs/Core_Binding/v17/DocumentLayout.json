@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Infinite_Oct25\\Core\\Core_Binding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|c:\\infinite_oct25\\core\\core_binding\\core_binding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|solutionrelative:core_binding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|c:\\infinite_oct25\\core\\core_binding\\core_binding\\models\\daterange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|solutionrelative:core_binding\\models\\daterange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|c:\\infinite_oct25\\core\\core_binding\\core_binding\\custombindings\\commaseperatedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|solutionrelative:core_binding\\custombindings\\commaseperatedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|c:\\infinite_oct25\\core\\core_binding\\core_binding\\custombindings\\daterangemodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|solutionrelative:core_binding\\custombindings\\daterangemodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|c:\\infinite_oct25\\core\\core_binding\\core_binding\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|solutionrelative:core_binding\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|c:\\infinite_oct25\\core\\core_binding\\core_binding\\custombindings\\daterangemodelprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|solutionrelative:core_binding\\custombindings\\daterangemodelprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|c:\\infinite_oct25\\core\\core_binding\\core_binding\\custombindings\\commaseparatedprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|solutionrelative:core_binding\\custombindings\\commaseparatedprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|c:\\infinite_oct25\\core\\core_binding\\core_binding\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|solutionrelative:core_binding\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|c:\\infinite_oct25\\core\\core_binding\\core_binding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|solutionrelative:core_binding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|c:\\infinite_oct25\\core\\core_binding\\core_binding\\custombindings\\commaseperatedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B43EFD3-0356-4618-9523-509389662A97}|Core_Binding\\Core_Binding.csproj|solutionrelative:core_binding\\custombindings\\commaseperatedmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,32 +47,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "DateRangeModelProvider.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\CustomBindings\\DateRangeModelProvider.cs",
+              "RelativeDocumentMoniker": "Core_Binding\\CustomBindings\\DateRangeModelProvider.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\CustomBindings\\DateRangeModelProvider.cs",
+              "RelativeToolTip": "Core_Binding\\CustomBindings\\DateRangeModelProvider.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:21:08.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateRangeModelBinder.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\CustomBindings\\DateRangeModelBinder.cs",
+              "RelativeDocumentMoniker": "Core_Binding\\CustomBindings\\DateRangeModelBinder.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\CustomBindings\\DateRangeModelBinder.cs",
+              "RelativeToolTip": "Core_Binding\\CustomBindings\\DateRangeModelBinder.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T04:57:27.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DateRange.cs",
+              "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\Models\\DateRange.cs",
+              "RelativeDocumentMoniker": "Core_Binding\\Models\\DateRange.cs",
+              "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\Models\\DateRange.cs",
+              "RelativeToolTip": "Core_Binding\\Models\\DateRange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T04:54:54.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Core_Binding\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Core_Binding\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAADwvxUAAAAIAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvxkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T12:55:59.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\Program.cs",
               "RelativeDocumentMoniker": "Core_Binding\\Program.cs",
               "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\Program.cs",
               "RelativeToolTip": "Core_Binding\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T12:54:02.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CommaSeparatedprovider.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\CustomBindings\\CommaSeparatedprovider.cs",
               "RelativeDocumentMoniker": "Core_Binding\\CustomBindings\\CommaSeparatedprovider.cs",
@@ -73,13 +124,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "CommaSeperatedModel.cs",
               "DocumentMoniker": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\CustomBindings\\CommaSeperatedModel.cs",
               "RelativeDocumentMoniker": "Core_Binding\\CustomBindings\\CommaSeperatedModel.cs",
               "ToolTip": "C:\\Infinite_Oct25\\Core\\Core_Binding\\Core_Binding\\CustomBindings\\CommaSeperatedModel.cs",
               "RelativeToolTip": "Core_Binding\\CustomBindings\\CommaSeperatedModel.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAswAkAAAAMAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABUAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T12:42:49.683Z",
               "EditorCaption": ""

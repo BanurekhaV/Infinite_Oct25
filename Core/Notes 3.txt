@@ -14,7 +14,7 @@ S/w engg principles :
 S  - SRP
 O  - OCP
 L  - LSP
-I  - 
+I  - ISP
 D Dependency Inversion Principle : High level modules/classes (consumers/clients) should not depend on low level class/modules(implementing classes). Both should depend on an Abstraction
 
 

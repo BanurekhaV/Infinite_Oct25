@@ -21,6 +21,11 @@ namespace Core_Binding.Controllers
             return Ok(Ids);
         }
         
+        [HttpGet]
+        public IActionResult GetDates([ModelBinder(typeof(DateRangeModelBinder))]DateRange range)
+        {
+            return Ok($"From {range.StartDate} to {range.EndDate}");
+        }
 
         public IActionResult Index()
         {

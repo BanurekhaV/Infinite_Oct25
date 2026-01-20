@@ -12,6 +12,7 @@ namespace Core_Binding
             builder.Services.AddControllersWithViews(options =>
             {
                 options.ModelBinderProviders.Insert(0, new CommaSeparatedprovider());
+                options.ModelBinderProviders.Insert(1, new DateRangeModelProvider());
             });
 
             var app = builder.Build();
