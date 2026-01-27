@@ -1,0 +1,4 @@
+Custid,CustName,Shortname
+1,Rajesh,Raj
+4,Santosh,santosh
+5,Bhuvana,buvi

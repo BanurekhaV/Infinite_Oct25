@@ -1,0 +1,3 @@
+Custid,CustName,Shortname
+6,Keerthi,keerthi
+7,Sakthi,k

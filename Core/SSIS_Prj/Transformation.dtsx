@@ -11,8 +11,8 @@
   DTS:LocaleID="16393"
   DTS:ObjectName="Transformation"
   DTS:PackageType="5"
-  DTS:VersionBuild="15"
-  DTS:VersionGUID="{0AFEF023-4790-4D7C-8150-B2B017EF468A}">
+  DTS:VersionBuild="17"
+  DTS:VersionGUID="{49006066-718C-4CF0-9E5C-6958E03F6B99}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -636,6 +636,452 @@
               </outputs>
             </component>
             <component
+              refId="Package\Data Flow Task\Sort"
+              componentClassID="Microsoft.Sort"
+              contactInfo="Sort;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+              description="Sorts input data in ascending or descending order when it cannot be sorted at its source. For example, sort sales data by 'customer id' before it is written to a flat file and delivered to another department. Note: We do not recommend this transformation for large data flows."
+              name="Sort"
+              version="1">
+              <properties>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the Sort transformation removes rows with duplicate sort values."
+                  name="EliminateDuplicates">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the maximum number of threads to use for sorting."
+                  expressionType="Notify"
+                  name="MaximumThreads">-1</property>
+              </properties>
+              <inputs>
+                <input
+                  refId="Package\Data Flow Task\Sort.Inputs[Sort Input]"
+                  name="Sort Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[SaleDate]"
+                      cachedDataType="dbDate"
+                      cachedName="SaleDate"
+                      lineageId="Package\Data Flow Task\SalesData to Target.Outputs[OLE DB Source Output].Columns[SaleDate]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[Receiptno]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Receiptno"
+                      lineageId="Package\Data Flow Task\SalesData to Target.Outputs[OLE DB Source Output].Columns[Receiptno]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[Ordertypename]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Ordertypename"
+                      lineageId="Package\Data Flow Task\SalesData to Target.Outputs[OLE DB Source Output].Columns[Ordertypename]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[ProductName]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="ProductName"
+                      lineageId="Package\Data Flow Task\SalesData to Target.Outputs[OLE DB Source Output].Columns[ProductName]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[Quantity]"
+                      cachedDataType="i4"
+                      cachedName="Quantity"
+                      lineageId="Package\Data Flow Task\SalesData to Target.Outputs[OLE DB Source Output].Columns[Quantity]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[SalesAmt]"
+                      cachedDataType="i4"
+                      cachedName="SalesAmt"
+                      lineageId="Package\Data Flow Task\SalesData to Target.Outputs[OLE DB Source Output].Columns[SalesAmt]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[Location]"
+                      cachedDataType="wstr"
+                      cachedLength="15"
+                      cachedName="Location"
+                      lineageId="Package\Data Flow Task\SalesData to Target.Outputs[OLE DB Source Output].Columns[Location]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">1</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[Copy of Location]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="15"
+                      cachedName="Copy of Location"
+                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Location]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[locationshort]"
+                      cachedDataType="wstr"
+                      cachedLength="3"
+                      cachedName="locationshort"
+                      lineageId="Package\Data Flow Task\Derived Column.Outputs[Derived Column Output].Columns[locationshort]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[Copy of Receiptno]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Copy of Receiptno"
+                      lineageId="Package\Data Flow Task\Copy Column.Outputs[Copy Column Output].Columns[Copy of Receiptno]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[Copy of ProductName]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Copy of ProductName"
+                      lineageId="Package\Data Flow Task\Copy Column.Outputs[Copy Column Output].Columns[Copy of ProductName]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[Copy of Quantity]"
+                      cachedDataType="i4"
+                      cachedName="Copy of Quantity"
+                      lineageId="Package\Data Flow Task\Copy Column.Outputs[Copy Column Output].Columns[Copy of Quantity]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                    <inputColumn
+                      refId="Package\Data Flow Task\Sort.Inputs[Sort Input].Columns[Copy of locationshort]"
+                      cachedDataType="wstr"
+                      cachedLength="3"
+                      cachedName="Copy of locationshort"
+                      lineageId="Package\Data Flow Task\Character Map.Outputs[Character Map Output].Columns[Copy of locationshort]">
+                      <properties>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the comparison options for character data."
+                          name="NewComparisonFlags">0</property>
+                        <property
+                          dataType="System.Int32"
+                          description="Specifies the sort order of the column."
+                          name="NewSortKeyPosition">0</property>
+                      </properties>
+                    </inputColumn>
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Data Flow Task\Sort.Outputs[Sort Output]"
+                  isSorted="true"
+                  name="Sort Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[SaleDate]"
+                      dataType="dbDate"
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[SaleDate]"
+                      name="SaleDate">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Data Flow Task\SalesData to Target.Outputs[OLE DB Source Output].Columns[SaleDate]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Receiptno]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Receiptno]"
+                      name="Receiptno">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Data Flow Task\SalesData to Target.Outputs[OLE DB Source Output].Columns[Receiptno]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Ordertypename]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Ordertypename]"
+                      name="Ordertypename">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Data Flow Task\SalesData to Target.Outputs[OLE DB Source Output].Columns[Ordertypename]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[ProductName]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[ProductName]"
+                      name="ProductName">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Data Flow Task\SalesData to Target.Outputs[OLE DB Source Output].Columns[ProductName]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Quantity]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Quantity]"
+                      name="Quantity">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Data Flow Task\SalesData to Target.Outputs[OLE DB Source Output].Columns[Quantity]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[SalesAmt]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[SalesAmt]"
+                      name="SalesAmt">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Data Flow Task\SalesData to Target.Outputs[OLE DB Source Output].Columns[SalesAmt]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Location]"
+                      dataType="wstr"
+                      length="15"
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Location]"
+                      name="Location"
+                      sortKeyPosition="1">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Data Flow Task\SalesData to Target.Outputs[OLE DB Source Output].Columns[Location]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Copy of Location]"
+                      codePage="1252"
+                      dataType="str"
+                      length="15"
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Copy of Location]"
+                      name="Copy of Location">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Location]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[locationshort]"
+                      dataType="wstr"
+                      length="3"
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[locationshort]"
+                      name="locationshort">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Data Flow Task\Derived Column.Outputs[Derived Column Output].Columns[locationshort]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Copy of Receiptno]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Copy of Receiptno]"
+                      name="Copy of Receiptno">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Data Flow Task\Copy Column.Outputs[Copy Column Output].Columns[Copy of Receiptno]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Copy of ProductName]"
+                      codePage="1252"
+                      dataType="str"
+                      length="50"
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Copy of ProductName]"
+                      name="Copy of ProductName">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Data Flow Task\Copy Column.Outputs[Copy Column Output].Columns[Copy of ProductName]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Copy of Quantity]"
+                      dataType="i4"
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Copy of Quantity]"
+                      name="Copy of Quantity">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Data Flow Task\Copy Column.Outputs[Copy Column Output].Columns[Copy of Quantity]}</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Copy of locationshort]"
+                      dataType="wstr"
+                      length="3"
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Copy of locationshort]"
+                      name="Copy of locationshort">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the lineage identifier of the input column that is associated with this output column."
+                          name="SortColumnId">#{Package\Data Flow Task\Character Map.Outputs[Character Map Output].Columns[Copy of locationshort]}</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
               refId="Package\Data Flow Task\Target DB"
               componentClassID="Microsoft.OLEDBDestination"
               contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
@@ -712,7 +1158,7 @@
                       cachedDataType="dbDate"
                       cachedName="SaleDate"
                       externalMetadataColumnId="Package\Data Flow Task\Target DB.Inputs[OLE DB Destination Input].ExternalColumns[SaleDate]"
-                      lineageId="Package\Data Flow Task\SalesData to Target.Outputs[OLE DB Source Output].Columns[SaleDate]" />
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[SaleDate]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Target DB.Inputs[OLE DB Destination Input].Columns[Receiptno]"
                       cachedCodepage="1252"
@@ -720,7 +1166,7 @@
                       cachedLength="50"
                       cachedName="Receiptno"
                       externalMetadataColumnId="Package\Data Flow Task\Target DB.Inputs[OLE DB Destination Input].ExternalColumns[Receiptno]"
-                      lineageId="Package\Data Flow Task\SalesData to Target.Outputs[OLE DB Source Output].Columns[Receiptno]" />
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Receiptno]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Target DB.Inputs[OLE DB Destination Input].Columns[Ordertypename]"
                       cachedCodepage="1252"
@@ -728,19 +1174,19 @@
                       cachedLength="50"
                       cachedName="Ordertypename"
                       externalMetadataColumnId="Package\Data Flow Task\Target DB.Inputs[OLE DB Destination Input].ExternalColumns[Ordertypename]"
-                      lineageId="Package\Data Flow Task\SalesData to Target.Outputs[OLE DB Source Output].Columns[Ordertypename]" />
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Ordertypename]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Target DB.Inputs[OLE DB Destination Input].Columns[Quantity]"
                       cachedDataType="i4"
                       cachedName="Quantity"
                       externalMetadataColumnId="Package\Data Flow Task\Target DB.Inputs[OLE DB Destination Input].ExternalColumns[Quantity]"
-                      lineageId="Package\Data Flow Task\SalesData to Target.Outputs[OLE DB Source Output].Columns[Quantity]" />
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Quantity]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Target DB.Inputs[OLE DB Destination Input].Columns[SalesAmt]"
                       cachedDataType="i4"
                       cachedName="SalesAmt"
                       externalMetadataColumnId="Package\Data Flow Task\Target DB.Inputs[OLE DB Destination Input].ExternalColumns[SalesAmt]"
-                      lineageId="Package\Data Flow Task\SalesData to Target.Outputs[OLE DB Source Output].Columns[SalesAmt]" />
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[SalesAmt]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Target DB.Inputs[OLE DB Destination Input].Columns[ProductName]"
                       cachedCodepage="1252"
@@ -748,7 +1194,7 @@
                       cachedLength="50"
                       cachedName="ProductName"
                       externalMetadataColumnId="Package\Data Flow Task\Target DB.Inputs[OLE DB Destination Input].ExternalColumns[ItemName]"
-                      lineageId="Package\Data Flow Task\SalesData to Target.Outputs[OLE DB Source Output].Columns[ProductName]" />
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[ProductName]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Target DB.Inputs[OLE DB Destination Input].Columns[Copy of Location]"
                       cachedCodepage="1252"
@@ -756,14 +1202,14 @@
                       cachedLength="15"
                       cachedName="Copy of Location"
                       externalMetadataColumnId="Package\Data Flow Task\Target DB.Inputs[OLE DB Destination Input].ExternalColumns[Location]"
-                      lineageId="Package\Data Flow Task\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Location]" />
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[Copy of Location]" />
                     <inputColumn
                       refId="Package\Data Flow Task\Target DB.Inputs[OLE DB Destination Input].Columns[locationshort]"
                       cachedDataType="wstr"
                       cachedLength="3"
                       cachedName="locationshort"
                       externalMetadataColumnId="Package\Data Flow Task\Target DB.Inputs[OLE DB Destination Input].ExternalColumns[locationshort]"
-                      lineageId="Package\Data Flow Task\Derived Column.Outputs[Derived Column Output].Columns[locationshort]" />
+                      lineageId="Package\Data Flow Task\Sort.Outputs[Sort Output].Columns[locationshort]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -840,7 +1286,7 @@
           <paths>
             <path
               refId="Package\Data Flow Task.Paths[Character Map Output]"
-              endId="Package\Data Flow Task\Target DB.Inputs[OLE DB Destination Input]"
+              endId="Package\Data Flow Task\Sort.Inputs[Sort Input]"
               name="Character Map Output"
               startId="Package\Data Flow Task\Character Map.Outputs[Character Map Output]" />
             <path
@@ -863,6 +1309,11 @@
               endId="Package\Data Flow Task\Data Conversion.Inputs[Data Conversion Input]"
               name="OLE DB Source Output"
               startId="Package\Data Flow Task\SalesData to Target.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\Data Flow Task.Paths[Sort Output]"
+              endId="Package\Data Flow Task\Target DB.Inputs[OLE DB Destination Input]"
+              name="Sort Output"
+              startId="Package\Data Flow Task\Sort.Outputs[Sort Output]" />
           </paths>
         </pipeline>
       </DTS:ObjectData>
@@ -956,45 +1407,45 @@
     design-time-name="Package\Data Flow Task">
     <LayoutInfo>
       <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="146,42"
+          Id="Package\Data Flow Task\Copy Column"
+          TopLeft="324,202" />
+        <NodeLayout
+          Size="152,42"
+          Id="Package\Data Flow Task\Character Map"
+          TopLeft="409,285" />
         <NodeLayout
           Size="177,42"
           Id="Package\Data Flow Task\SalesData to Target"
           TopLeft="97.5,44.5" />
         <NodeLayout
-          Size="129,42"
-          Id="Package\Data Flow Task\Target DB"
-          TopLeft="496.5,336.5" />
-        <NodeLayout
           Size="161,42"
           Id="Package\Data Flow Task\Data Conversion"
           TopLeft="319,71" />
+        <NodeLayout
+          Size="129,42"
+          Id="Package\Data Flow Task\Target DB"
+          TopLeft="380.5,394.5" />
+        <NodeLayout
+          Size="158,42"
+          Id="Package\Data Flow Task\Derived Column"
+          TopLeft="317,137" />
         <EdgeLayout
-          Id="Package\Data Flow Task.Paths[OLE DB Source Output]"
-          TopLeft="274.5,65.5">
+          Id="Package\Data Flow Task.Paths[Derived Column Output]"
+          TopLeft="396.5,179">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="44.5,26.5"
+              EndConnector="0,23"
               Start="0,0"
-              End="37,26.5">
+              End="0,15.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="18.25,0" />
-                  <mssgle:CubicBezierSegment
-                    Point1="18.25,0"
-                    Point2="22.25,0"
-                    Point3="22.25,4" />
-                  <mssgle:LineSegment
-                    End="22.25,22.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="22.25,22.5"
-                    Point2="22.25,26.5"
-                    Point3="26.25,26.5" />
-                  <mssgle:LineSegment
-                    End="37,26.5" />
+                    End="0,15.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -1003,10 +1454,6 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="158,42"
-          Id="Package\Data Flow Task\Derived Column"
-          TopLeft="317,137" />
         <EdgeLayout
           Id="Package\Data Flow Task.Paths[Data Conversion Output]"
           TopLeft="397.75,113">
@@ -1029,38 +1476,6 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="146,42"
-          Id="Package\Data Flow Task\Copy Column"
-          TopLeft="324,202" />
-        <EdgeLayout
-          Id="Package\Data Flow Task.Paths[Derived Column Output]"
-          TopLeft="396.5,179">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,23"
-              Start="0,0"
-              End="0,15.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,15.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-8,-0.25,16,16"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="152,42"
-          Id="Package\Data Flow Task\Character Map"
-          TopLeft="409,285" />
         <EdgeLayout
           Id="Package\Data Flow Task.Paths[Copy Column Output]"
           TopLeft="397,244">
@@ -1096,25 +1511,103 @@
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
+          Id="Package\Data Flow Task.Paths[OLE DB Source Output]"
+          TopLeft="274.5,65.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="44.5,26.5"
+              Start="0,0"
+              End="37,26.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="18.25,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="18.25,0"
+                    Point2="22.25,0"
+                    Point3="22.25,4" />
+                  <mssgle:LineSegment
+                    End="22.25,22.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="22.25,22.5"
+                    Point2="22.25,26.5"
+                    Point3="26.25,26.5" />
+                  <mssgle:LineSegment
+                    End="37,26.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="99,42"
+          Id="Package\Data Flow Task\Sort"
+          TopLeft="609,313" />
+        <EdgeLayout
           Id="Package\Data Flow Task.Paths[Character Map Output]"
           TopLeft="561,306">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,30.5"
+              EndConnector="48,28"
               Start="0,0"
-              End="0,23">
+              End="40.5,28">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="4,0" />
+                    End="20,0" />
                   <mssgle:CubicBezierSegment
-                    Point1="4,0"
-                    Point2="0,0"
-                    Point3="0,4" />
+                    Point1="20,0"
+                    Point2="24,0"
+                    Point3="24,4" />
                   <mssgle:LineSegment
-                    End="0,23" />
+                    End="24,24" />
+                  <mssgle:CubicBezierSegment
+                    Point1="24,24"
+                    Point2="24,28"
+                    Point3="28,28" />
+                  <mssgle:LineSegment
+                    End="40.5,28" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Data Flow Task.Paths[Sort Output]"
+          TopLeft="658.5,355">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-213.5,39.5"
+              Start="0,0"
+              End="-213.5,32">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,15.75" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,15.75"
+                    Point2="0,19.75"
+                    Point3="-4,19.75" />
+                  <mssgle:LineSegment
+                    End="-209.5,19.75" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-209.5,19.75"
+                    Point2="-213.5,19.75"
+                    Point3="-213.5,23.75" />
+                  <mssgle:LineSegment
+                    End="-213.5,32" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
